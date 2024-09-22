@@ -1,103 +1,119 @@
-# GraphQL API Documentation
+# GraphQL API Instructions
 
-This API allows querying data from various collections such as `OFERTA`, `DISCIPLINA`, `CURSO`, and others. The data is exposed via a GraphQL endpoint.
+This document provides steps to run the `graphql_api.py` file and use the GraphQL API to query collections, both with and without search parameters.
 
-## Setup
+## Prerequisites
 
-1. Clone the repository:
+Ensure you have [Poetry](https://python-poetry.org/docs/) installed.
 
-   ```bash
-   git clone <repository-url>
-   ```
+### Step 1: Install Packages
 
-2. Install dependencies:
+To install the necessary dependencies using Poetry, follow these steps:
 
-   ```bash
-   pip install flask graphene
-   ```
-
-3. Run the API server:
+1. Open a terminal in the project directory.
+2. Run the following command to install all required packages:
 
    ```bash
-   python graphql_api.py
+   poetry install
    ```
 
-4. The server will be running at `http://127.0.0.1:5000/graphql`.
+### Step 2: Run the `graphql_api.py`
 
-## GraphQL Endpoint
+Once the packages are installed, you can run the `graphql_api.py` script using Poetry:
 
-The GraphQL endpoint is available at `/graphql`. You can send queries to this endpoint using a tool like Postman or a GraphQL client.
+```bash
+poetry run python graphql_api.py
+```
 
-### Example Query
+The GraphQL API will start running at `http://127.0.0.1:5000`.
 
-To fetch all `OFERTA` records:
+### Step 3: Access GraphiQL Interface
+
+You can access the GraphiQL interface in your browser at:
+
+```
+http://127.0.0.1:5000/graphiql
+```
+
+Here, you can easily interact with the GraphQL API and run queries.
+
+## Example Queries
+
+### Query 1: Get All Records from a Collection
+
+To retrieve all records from a collection (e.g., `oferta`), use the following query:
 
 ```graphql
 {
   oferta {
-    cod_disc
+    codDisc
     periodo
     campus
+    nrSala
+    professor
+    totMat
+  }
+}
+```
+
+This will return all `oferta` records.
+
+### Query 2: Search in a Collection
+
+To search for a specific course by name (e.g., searching for a course that contains "ADM"), use the following query:
+
+```graphql
+{
+  curso(search: "ADM") {
+    codCurs
+    desCurs
+  }
+}
+```
+
+This will return all courses that match the search criteria.
+
+### Query 3: Query Across Multiple Collections
+
+You can also query across multiple collections at the same time. For example, if you want to get the `professor` details from an `oferta` record, use this query:
+
+```graphql
+{
+  oferta {
+    codDisc
+    professor
+  }
+  professores {
+    professorId
     professor
   }
 }
 ```
 
-### Response
+This will return both the `oferta` data with `professor` references and the corresponding `professores` data.
 
-The response will be a JSON object, e.g.:
+### Query 4: Query a Single Collection with a Field from Another Collection
 
-```json
+To retrieve an `oferta` and fetch the corresponding `professor` name:
+
+```graphql
 {
-  "data": {
-    "oferta": [
-      {
-        "cod_disc": 5769,
-        "periodo": "MANHÃ",
-        "campus": "EDIFÍCIO SEDE",
-        "professor": "SANDSON BARBOSA AZEVEDO"
-      }
-    ]
+  oferta {
+    codDisc
+    periodo
+    campus
+    nrSala
+    professor
+  }
+  professores {
+    professorId
+    professor
   }
 }
 ```
 
-## Securing the API with an API Key
-
-To secure the API, you can add an API key validation mechanism. Here's how to do it:
-
-### 1. Generate an API Key
-
-You can generate an API key manually or programmatically and store it securely.
-
-### 2. Add API Key Validation to the API
-
-Modify the Flask app to require an API key for access:
-
-```python
-from flask import Flask, request, jsonify
-
-API_KEY = "your-api-key-here"  # Replace with your actual API key
-
-@app.route("/graphql", methods=["POST"])
-def graphql():
-    api_key = request.headers.get('x-api-key')
-    if api_key != API_KEY:
-        return jsonify({"error": "Unauthorized"}), 403
-
-    data = request.get_json()
-    result = schema.execute(data.get("query"))
-    return json.dumps(result.data)
-```
-
-### 3. Send Requests with API Key
-
-When making requests to the API, include the `x-api-key` header:
-
-```bash
-curl -X POST http://127.0.0.1:5000/graphql      -H "x-api-key: your-api-key-here"      -H "Content-Type: application/json"      -d '{"query": "{ oferta { cod_disc periodo campus } }"}'
-```
+This will provide both `oferta` details and a list of professors.
 
 ### Conclusion
 
-You now have a secure GraphQL API that requires an API key for access. You can easily update the API key and improve security by storing it in an environment variable or a secure vault.
+You can use the GraphQL API to perform complex queries across multiple collections with ease. Play around with the GraphiQL interface to explore more!
