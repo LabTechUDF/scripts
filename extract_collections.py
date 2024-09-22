@@ -31,7 +31,7 @@ df_cleaned = df_cleaned.dropna(subset=['COD_DISC'])
 professores_df = df_cleaned[['PROFESSOR']].drop_duplicates().reset_index(drop=True)
 professores_df['PROFESSOR_ID'] = [str(uuid.uuid4()) for _ in range(len(professores_df))]  # Generate UUID for each professor
 
-# Generate unique IDs for SALAS
+# Generate unique IDs for SALAS (without concatenating CAMPUS)
 salas_df = df_cleaned[['NR_SALA', 'CAMPUS']].drop_duplicates().reset_index(drop=True)
 salas_df['SALA_ID'] = [str(uuid.uuid4()) for _ in range(len(salas_df))]  # Generate UUID for each room
 
@@ -43,21 +43,24 @@ periodos_df['PERIODO_ID'] = [str(uuid.uuid4()) for _ in range(len(periodos_df))]
 campus_df = df_cleaned[['CAMPUS']].drop_duplicates().reset_index(drop=True)
 campus_df['CAMPUS_ID'] = [str(uuid.uuid4()) for _ in range(len(campus_df))]
 
-# Step 2: Create Mappings for PROFESSOR, SALA, PERIODO, and CAMPUS
-# Convert NR_SALA to string before concatenation with CAMPUS
-df_cleaned['NR_SALA'] = df_cleaned['NR_SALA'].astype(str) + df_cleaned['CAMPUS']
-salas_df['NR_SALA'] = salas_df['NR_SALA'].astype(str) + salas_df['CAMPUS']
-
+# Step 2: Create Mappings for PROFESSOR, SALA, PERIODO, and CAMPUS (without concatenating NR_SALA and CAMPUS)
 professor_mapping = dict(zip(professores_df['PROFESSOR'], professores_df['PROFESSOR_ID']))
-sala_mapping = dict(zip(salas_df['NR_SALA'], salas_df['SALA_ID']))
+sala_mapping = dict(zip(zip(salas_df['NR_SALA'], salas_df['CAMPUS']), salas_df['SALA_ID']))  # Use tuple (NR_SALA, CAMPUS) as key
 periodo_mapping = dict(zip(periodos_df['PERIODO'], periodos_df['PERIODO_ID']))
 campus_mapping = dict(zip(campus_df['CAMPUS'], campus_df['CAMPUS_ID']))
 
 # Step 3: Replace PROFESSOR, NR_SALA, PERIODO, and CAMPUS in df_cleaned with their corresponding IDs
 df_cleaned['PROFESSOR'] = df_cleaned['PROFESSOR'].map(professor_mapping)
-df_cleaned['NR_SALA'] = df_cleaned['NR_SALA'].map(sala_mapping)
+df_cleaned['NR_SALA'] = df_cleaned.apply(lambda row: sala_mapping.get((row['NR_SALA'], row['CAMPUS'])), axis=1)  # Map using (NR_SALA, CAMPUS)
 df_cleaned['PERIODO'] = df_cleaned['PERIODO'].map(periodo_mapping)
 df_cleaned['CAMPUS'] = df_cleaned['CAMPUS'].map(campus_mapping)
+
+# Replace NaN values with the string 'NaN'
+df_cleaned = df_cleaned.fillna('NaN')
+salas_df = salas_df.fillna('NaN')
+periodos_df = periodos_df.fillna('NaN')
+professores_df = professores_df.fillna('NaN')
+campus_df = campus_df.fillna('NaN')
 
 # Step 4: Create collections for each entity
 ofertas_collection = df_cleaned[['COD_DISC', 'PERIODO', 'CAMPUS', 'NR_SALA', 'PROFESSOR', 'TOT_MAT']].to_dict(orient='records')

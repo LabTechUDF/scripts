@@ -6,16 +6,18 @@ from flasgger import Swagger, swag_from
 app = Flask(__name__)
 swagger = Swagger(app)
 
-
 API_KEY = 'ytrr:'  # Replace with your actual API key
 
-# Load JSON data
+# Load JSON data with UTF-8 encoding
 def load_json_data(filename):
     try:
-        with open(os.path.join('collection', filename), 'r') as f:
+        with open(os.path.join('collection', filename), 'r', encoding='utf-8') as f:
             return json.load(f)
     except FileNotFoundError:
         print(f'File {filename} not found in the collection folder.')
+        return []
+    except json.JSONDecodeError as e:
+        print(f'Error decoding JSON from file {filename}: {e}')
         return []
 
 oferta_data = load_json_data('OFERTAS.json')
@@ -27,10 +29,10 @@ salas_data = load_json_data('SALAS.json')
 professores_data = load_json_data('PROFESSORES.json')
 
 collections = {
-    'oferta': oferta_data,
-    'periodo': periodo_data,
-    'disciplina': disciplina_data,
-    'curso': curso_data,
+    'ofertas': oferta_data,
+    'periodos': periodo_data,
+    'disciplinas': disciplina_data,
+    'cursos': curso_data,
     'campus': campus_data,
     'salas': salas_data,
     'professores': professores_data
@@ -96,10 +98,13 @@ def get_collection(collection_name):
 
     collection = collections.get(collection_name.lower())
     if collection is not None:
-        return jsonify(collection)
+        # Use json.dumps to avoid ASCII escaping and jsonify the response with ensure_ascii=False
+        return app.response_class(
+            response=json.dumps(collection, ensure_ascii=False, indent=4),
+            mimetype='application/json'
+        )
     else:
         return jsonify({'error': 'Collection not found'}), 404
 
 if __name__ == '__main__':
     app.run(debug=True)
-
