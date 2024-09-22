@@ -1,7 +1,7 @@
 import json
 import os
 from flask import Flask, request, jsonify
-from graphene import ObjectType, String, Int, List, Schema
+from graphene import ObjectType, String, Int, List, Field, Schema
 from flask_graphql import GraphQLView
 
 # Load JSON data from the collection folder
@@ -19,6 +19,7 @@ def load_json_data(filename):
             print(f"Failed to decode JSON for {filename}.")
             return []
 
+# Load all JSON files
 oferta_data = load_json_data('OFERTAS.json')
 periodo_data = load_json_data('PERIODOS.json')
 disciplina_data = load_json_data('DISCIPLINAS.json')
@@ -34,7 +35,7 @@ def get_by_id(data, key, value):
             return item
     return None
 
-# Define GraphQL Types
+# Define GraphQL Types for each collection
 class OfertaType(ObjectType):
     cod_disc = Int()
     periodo = String()
@@ -70,7 +71,7 @@ class ProfessorType(ObjectType):
     professor_id = String()
     professor = String()
 
-# Define Query Root
+# Define Query Root with resolvers for all collections
 class Query(ObjectType):
     oferta = List(OfertaType)
     periodo = List(PeriodoType)
@@ -80,46 +81,90 @@ class Query(ObjectType):
     salas = List(SalaType)
     professores = List(ProfessorType)
 
-    # Resolver for OFERTA, join with related data using IDs
+    # Resolver for OFERTAS
     def resolve_oferta(self, info):
-        result = []
-        for item in oferta_data:
-            # Get the corresponding professor, sala, campus, and periodo
-            professor = get_by_id(professores_data, "PROFESSOR_ID", item.get("PROFESSOR"))
-            sala = get_by_id(salas_data, "SALA_ID", item.get("NR_SALA"))
-            campus = get_by_id(campus_data, "CAMPUS_ID", item.get("CAMPUS"))
-            periodo = get_by_id(periodo_data, "PERIODO_ID", item.get("PERIODO"))
-
-            result.append({
+        return [
+            {
                 "cod_disc": item.get("COD_DISC"),
-                "periodo": periodo.get("PERIODO") if periodo else None,
-                "campus": campus.get("CAMPUS") if campus else None,
-                "nr_sala": sala.get("NR_SALA") if sala else None,
-                "professor": professor.get("PROFESSOR") if professor else None,
+                "periodo": item.get("PERIODO"),  # Just return the ID for now, nested queries can resolve details
+                "campus": item.get("CAMPUS"),  # Return the campus ID
+                "nr_sala": item.get("NR_SALA"),  # Return the sala ID
+                "professor": item.get("PROFESSOR"),  # Return the professor ID
                 "tot_mat": item.get("TOT_MAT")
-            })
-        return result
+            }
+            for item in oferta_data
+        ]
 
+    # Resolver for PERIODOS
     def resolve_periodo(self, info):
-        return periodo_data
+        return [
+            {
+                "periodo_id": item.get("PERIODO_ID"),
+                "periodo": item.get("PERIODO")
+            }
+            for item in periodo_data
+        ]
 
+    # Resolver for DISCIPLINAS
     def resolve_disciplina(self, info):
-        return disciplina_data
+        return [
+            {
+                "cod_disc": item.get("COD_DISC"),
+                "des_disc": item.get("DES_DISC"),
+                "cod_curs": item.get("COD_CURS"),
+                "carg_hor": item.get("CARG_HOR")
+            }
+            for item in disciplina_data
+        ]
 
+    # Resolver for CURSOS
     def resolve_curso(self, info, search=None):
         if search:
-            # Filter cursos that contain the search string in 'des_curs'
-            return [item for item in curso_data if search.lower() in item['DES_CURS'].lower()]
-        return curso_data
+            return [
+                {
+                    "cod_curs": item.get("COD_CURS"),
+                    "des_curs": item.get("DES_CURS")
+                }
+                for item in curso_data if search.lower() in item.get("DES_CURS").lower()
+            ]
+        return [
+            {
+                "cod_curs": item.get("COD_CURS"),
+                "des_curs": item.get("DES_CURS")
+            }
+            for item in curso_data
+        ]
 
+    # Resolver for CAMPUS
     def resolve_campus(self, info):
-        return campus_data
+        return [
+            {
+                "campus_id": item.get("CAMPUS_ID"),
+                "campus": item.get("CAMPUS")
+            }
+            for item in campus_data
+        ]
 
+    # Resolver for SALAS
     def resolve_salas(self, info):
-        return salas_data
+        return [
+            {
+                "sala_id": item.get("SALA_ID"),
+                "nr_sala": item.get("NR_SALA"),
+                "campus": item.get("CAMPUS")
+            }
+            for item in salas_data
+        ]
 
+    # Resolver for PROFESSORES
     def resolve_professores(self, info):
-        return professores_data
+        return [
+            {
+                "professor_id": item.get("PROFESSOR_ID"),
+                "professor": item.get("PROFESSOR")
+            }
+            for item in professores_data
+        ]
 
 # Initialize Flask and GraphQL
 app = Flask(__name__)
