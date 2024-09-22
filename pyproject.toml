@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "scripts"
+version = "0.1.0"
+description = ""
+authors = ["Danrley Pereira <Danrley.Pereira@epicor.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.3"
+flask = "^3.0.3"
+graphene = "<3.0"
+flasgger = "^0.9.7.1"
+flask-graphql = "^2.0.1"
+openpyxl = "^3.1.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
