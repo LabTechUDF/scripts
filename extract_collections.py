@@ -28,7 +28,7 @@ df_cleaned = df_cleaned.dropna(subset=['COD_DISC'])
 # Step 1: Create Unique Identifiers for PROFESSORES, SALAS, PERIODOS, and CAMPUS
 
 # Generate unique IDs for PROFESSORES
-professores_df = df_cleaned[['PROFESSOR']].drop_duplicates().reset_index(drop=True)
+professores_df = df_cleaned[['PROFESSOR','COD_CURS']].drop_duplicates().reset_index(drop=True)
 professores_df['PROFESSOR_ID'] = [str(uuid.uuid4()) for _ in range(len(professores_df))]  # Generate UUID for each professor
 
 # Generate unique IDs for SALAS (without concatenating CAMPUS)
@@ -69,7 +69,7 @@ disciplinas_collection = df_cleaned[['COD_DISC', 'DES_DISC', 'COD_CURS', 'CARG_H
 cursos_collection = df_cleaned[['COD_CURS', 'DES_CURS']].drop_duplicates().to_dict(orient='records')
 campus_collection = campus_df[['CAMPUS_ID', 'CAMPUS']].to_dict(orient='records')
 salas_collection = salas_df[['SALA_ID', 'NR_SALA', 'CAMPUS']].to_dict(orient='records')
-professores_collection = professores_df[['PROFESSOR_ID', 'PROFESSOR']].to_dict(orient='records')
+professores_collection = professores_df[['PROFESSOR_ID', 'PROFESSOR','COD_CURS']].to_dict(orient='records')
 
 # Ensure the 'collection' folder exists
 os.makedirs('collection', exist_ok=True)
