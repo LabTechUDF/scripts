@@ -70,7 +70,7 @@ class SalaType(ObjectType):
 class ProfessorType(ObjectType):
     professor_id = String()
     professor = String()
-    cod_curs = Int()
+    cod_curs = List(Int)
 
 
 # Define Query Root with resolvers for all collections

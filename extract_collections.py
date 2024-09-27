@@ -18,7 +18,7 @@ df_cleaned = df.rename(columns={
     'Unnamed: 7': 'PERIODO',
     'Unnamed: 8': 'CAMPUS',
     'Unnamed: 9': 'NR_SALA',
-    'Unnamed: 10': 'TOT_MAT',
+    'Unnamed: 10': 'TOT_MAT',   
     'Unnamed: 13': 'PROFESSOR'
 }).drop([0, 1])  # Dropping unnecessary rows
 
@@ -28,7 +28,7 @@ df_cleaned = df_cleaned.dropna(subset=['COD_DISC'])
 # Step 1: Create Unique Identifiers for PROFESSORES, SALAS, PERIODOS, and CAMPUS
 
 # Generate unique IDs for PROFESSORES
-professores_df = df_cleaned[['PROFESSOR','COD_CURS']].drop_duplicates().reset_index(drop=True)
+professores_df = df_cleaned[['PROFESSOR']].drop_duplicates().reset_index(drop=True)
 professores_df['PROFESSOR_ID'] = [str(uuid.uuid4()) for _ in range(len(professores_df))]  # Generate UUID for each professor
 
 # Generate unique IDs for SALAS (without concatenating CAMPUS)
@@ -48,6 +48,7 @@ professor_mapping = dict(zip(professores_df['PROFESSOR'], professores_df['PROFES
 sala_mapping = dict(zip(zip(salas_df['NR_SALA'], salas_df['CAMPUS']), salas_df['SALA_ID']))  # Use tuple (NR_SALA, CAMPUS) as key
 periodo_mapping = dict(zip(periodos_df['PERIODO'], periodos_df['PERIODO_ID']))
 campus_mapping = dict(zip(campus_df['CAMPUS'], campus_df['CAMPUS_ID']))
+cursos_mapping = dict(zip(professores_df['PROFESSOR_ID'],df_cleaned['COD_CURS']))
 
 # Step 3: Replace PROFESSOR, NR_SALA, PERIODO, and CAMPUS in df_cleaned with their corresponding IDs
 df_cleaned['PROFESSOR'] = df_cleaned['PROFESSOR'].map(professor_mapping)
@@ -62,6 +63,16 @@ periodos_df = periodos_df.fillna('NaN')
 professores_df = professores_df.fillna('NaN')
 campus_df = campus_df.fillna('NaN')
 
+#
+df_curso = df_cleaned[['COD_CURS','PROFESSOR']]
+df_curso = df_curso.drop_duplicates().dropna()
+df_curso = df_curso.groupby('PROFESSOR')['COD_CURS'].apply(list).reset_index()
+professores_df = professores_df.merge(df_curso,right_on = 'PROFESSOR', left_on = 'PROFESSOR_ID' )
+professores_df = professores_df.drop(['PROFESSOR_y'], axis=1).rename(columns = {
+    'PROFESSOR_x': 'PROFESSOR'
+})
+
+
 # Step 4: Create collections for each entity
 ofertas_collection = df_cleaned[['COD_DISC', 'PERIODO', 'CAMPUS', 'NR_SALA', 'PROFESSOR', 'TOT_MAT']].to_dict(orient='records')
 periodos_collection = periodos_df[['PERIODO_ID', 'PERIODO']].to_dict(orient='records')
@@ -70,6 +81,7 @@ cursos_collection = df_cleaned[['COD_CURS', 'DES_CURS']].drop_duplicates().to_di
 campus_collection = campus_df[['CAMPUS_ID', 'CAMPUS']].to_dict(orient='records')
 salas_collection = salas_df[['SALA_ID', 'NR_SALA', 'CAMPUS']].to_dict(orient='records')
 professores_collection = professores_df[['PROFESSOR_ID', 'PROFESSOR','COD_CURS']].to_dict(orient='records')
+
 
 # Ensure the 'collection' folder exists
 os.makedirs('collection', exist_ok=True)
