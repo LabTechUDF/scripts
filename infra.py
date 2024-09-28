@@ -19,7 +19,7 @@ icon_path = "./icons/"
 with Diagram("Topologia da Solução da Fábrica de Software (LabTech)", show=False):
     # Frontends (Angular and React)
     with Cluster("Clientes / Web Apps"):
-        alocacao_frontend = Angular("Alocação Professores")
+        alocacao_frontend = React("Alocação Professores")
         eventos_frontend = Angular("Eventos")
         reservas_frontend = React("Reservas")
 
@@ -43,7 +43,7 @@ with Diagram("Topologia da Solução da Fábrica de Software (LabTech)", show=Fa
             eventos_api = Custom("API", icon_path + "spring_boot.png")
             postgres_eventos = PostgreSQL("PostgreSQL")
         with Cluster("Alocação Professores"):
-            alocacao_api = Custom("API", icon_path + "nestjs.png")
+            alocacao_api = Custom("API", icon_path + "flask.png")
             postgres_alocacao = PostgreSQL("PostgreSQL")
         with Cluster("Serviços Acessíveis internamente na cluster"):
             with Cluster("Recursos Compartilhados"):
