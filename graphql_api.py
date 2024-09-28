@@ -70,6 +70,8 @@ class SalaType(ObjectType):
 class ProfessorType(ObjectType):
     professor_id = String()
     professor = String()
+    cod_curs = List(Int)
+
 
 # Define Query Root with resolvers for all collections
 class Query(ObjectType):
@@ -161,7 +163,8 @@ class Query(ObjectType):
         return [
             {
                 "professor_id": item.get("PROFESSOR_ID"),
-                "professor": item.get("PROFESSOR")
+                "professor": item.get("PROFESSOR"),
+                "cod_curs": item.get("COD_CURS")
             }
             for item in professores_data
         ]
