@@ -1,3 +1,7 @@
+"""
+utilizado para fazer o upload dos arquivos json para a database
+"""
+
 import os
 from dotenv import load_dotenv
 import json
@@ -21,7 +25,7 @@ collections = {
 
 
 for database_collection ,collection_file in collections.items():
-    with open(f'collection/{collection_file}.json') as json_file:
+    with open(f'new_collection/{collection_file}.json') as json_file:
         file_data = json.load(json_file)
 
         if isinstance(file_data, list):
