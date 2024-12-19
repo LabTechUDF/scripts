@@ -1,0 +1,128 @@
+[{
+  "_id": 1,
+  "types": [
+    {
+      "id": 0,
+      "type": "online",
+      "name": "Vídeo Chamada via Zoom ou Google Meet"
+    },
+    {
+      "id": 1,
+      "type": "computingLab",
+      "name": "Laboratório de Informática"
+    }
+  ],
+  "collection": "rooms"
+},
+{
+  "_id": 2,
+  "collection": "ODS",
+  "types": [
+    {
+      "id": 1,
+      "type": "EDP",
+      "name": "Erradicação da pobreza"
+    },
+    {
+      "id": 2,
+      "type": "FZAS",
+      "name": "Fome zero e agricultura sustentável"
+    },
+    {
+      "id": 3,
+      "type": "SEB",
+      "name": "Saúde e Bem-Estar"
+    },
+    {
+      "id": 4,
+      "type": "EDQ",
+      "name": "Educação de qualidade"
+    },
+    {
+      "id": 5,
+      "type": "IDG",
+      "name": "Igualdade de Gênero"
+    },
+    {
+      "id": 6,
+      "type": "APES",
+      "name": "Água potável e saneamento"
+    },
+    {
+      "id": 7,
+      "type": "ELA",
+      "name": "Energia limpa e acessível"
+    },
+    {
+      "id": 8,
+      "type": "TDCE",
+      "name": "Trabalho decente e crescimento econômico"
+    },
+    {
+      "id": 9,
+      "type": "III",
+      "name": "Indústria, Inovação e Infraestrutura"
+    },
+    {
+      "id": 10,
+      "type": "RDD",
+      "name": "Redução das Desigualdades"
+    },
+    {
+      "id": 11,
+      "type": "CCS",
+      "name": "Cidades e Comunidades Sustentáveis"
+    },
+    {
+      "id": 12,
+      "type": "CPR",
+      "name": "Consumo e produção responsáveis"
+    },
+    {
+      "id": 13,
+      "type": "ACMGC",
+      "name": "Ação Contra a Mudança Global do Clima"
+    },
+    {
+      "id": 14,
+      "type": "VNA",
+      "name": "Vida na água"
+    },
+    {
+      "id": 15,
+      "type": "VT",
+      "name": "Vida terrestre"
+    },
+    {
+      "id": 16,
+      "type": "PJIE",
+      "name": "Paz, justiça e instituições eficazes"
+    },
+    {
+      "id": 17,
+      "type": "PMI",
+      "name": "Parcerias e meios de implementação"
+    }
+  ]
+},
+{
+  "_id": 3,
+  "types": [
+    {
+      "id": 0,
+      "type": "workshop",
+      "name": "Mão na massa"
+    },
+    {
+      "id": 1,
+      "type": "lecture",
+      "name": "Palestra"
+    },
+    {
+      "id": 2,
+      "type": "exam",
+      "name": "Avaliação"
+    }
+  ],
+  "collection": "events"
+}]
