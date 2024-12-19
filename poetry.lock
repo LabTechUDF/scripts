@@ -403,6 +403,23 @@ files = [
 ]
 
 [[package]]
+name = "mongoengine"
+version = "0.29.1"
+description = "MongoEngine is a Python Object-Document Mapper for working with MongoDB."
+optional = false
+python-versions = ">=3.7"
+files = [
+    {file = "mongoengine-0.29.1-py3-none-any.whl", hash = "sha256:9302ec407dd60f47f62cc07684d9f6cac87f1e93283c54203851788104d33df4"},
+    {file = "mongoengine-0.29.1.tar.gz", hash = "sha256:3b43abaf2d5f0b7d39efc2b7d9e78f4d4a5dc7ce92b9889ba81a5a9b8dee3cf3"},
+]
+
+[package.dependencies]
+pymongo = ">=3.4,<5.0"
+
+[package.extras]
+test = ["Pillow (>=7.0.0)", "blinker", "coverage", "pytest", "pytest-cov"]
+
+[[package]]
 name = "numpy"
 version = "2.1.1"
 description = "Fundamental package for array computing in Python"
@@ -1001,4 +1018,4 @@ watchdog = ["watchdog (>=2.3)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "1c3fea5c018eea37699f336756be3f85fa4c2d9acd10be27c79d65637a606565"
+content-hash = "6ba6235fa2c43bbc1dc70b7cab4bc7bd8915faf65d8d42236ed47d1d0023ed1f"

@@ -1,0 +1,18 @@
+[
+    {
+        "_id": "9e8567b2-14a6-4253-9459-54b3e0afcb0e",
+        "PERIODO": "MANHÃ"
+    },
+    {
+        "_id": "6325a78b-a4a5-43a4-9345-36d624225bb5",
+        "PERIODO": "NOITE"
+    },
+    {
+        "_id": "34fc8922-6b34-4cf8-bd6e-7f74aaef6a64",
+        "PERIODO": "TARDE"
+    },
+    {
+        "_id": "29514ab7-e52a-48b9-9f5c-9ad0f9ecc30c",
+        "PERIODO": "NaN"
+    }
+]
