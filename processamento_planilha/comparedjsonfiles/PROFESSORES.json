@@ -1,0 +1,3294 @@
+[
+    {
+        "_id": "88c63239-a29e-4a93-9b96-90563eacdcae",
+        "PROFESSOR": "ANDRE FELIPE ROSA",
+        "COD_CURS": [
+            4,
+            36
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "b88bd0e6-39d0-4cfc-adb6-d7b7ac86b7b1",
+        "PROFESSOR": "RAFAEL SEIXAS SANTOS",
+        "COD_CURS": [
+            4,
+            5
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "96f683e4-211f-4d8e-a14f-2fa5712eb9bf",
+        "PROFESSOR": "CLOVIS DE ASSIS GERALDO FILHO",
+        "COD_CURS": [
+            3
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "9b3d25c9-f021-46ce-941b-1fd5be9d5087",
+        "PROFESSOR": "IVAN NUNES GOMES",
+        "COD_CURS": [
+            46
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "3db2953a-abef-41e8-a014-7541e6d7a3b5",
+        "PROFESSOR": "YURI COELHO DIAS",
+        "COD_CURS": [
+            5
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "f639dd0b-f60a-46fc-b25e-b279d40a95f8",
+        "PROFESSOR": "JOAO PAULO DE CAMPOS ECHEVERRIA",
+        "COD_CURS": [
+            5
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "621e4811-d58d-478e-bfb8-6f7bc8a3d947",
+        "PROFESSOR": "ANDRE DI CARLO ARAUJO DUARTE",
+        "COD_CURS": [
+            31
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "f7358727-5564-45f9-b227-b8bec2bb3928",
+        "PROFESSOR": "GABRIELA JACARANDA ALVES",
+        "COD_CURS": [
+            31
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "9ad88870-f7ed-415e-a644-36cb1c687754",
+        "PROFESSOR": "CAMILA DA SILVA LOPES",
+        "COD_CURS": [
+            31
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "f340b6da-5c75-4ca8-a6d6-d6de2798d192",
+        "PROFESSOR": "RAFAEL BRITO AGUIAR DE ARAUJO",
+        "COD_CURS": [
+            6,
+            9
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "ac204b28-23d9-4e7d-acb0-2a64a636276c",
+        "PROFESSOR": "BRAION BARBOSA DE MOURA",
+        "COD_CURS": [
+            6,
+            8,
+            9,
+            53
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "d2341265-897d-40c7-bf2d-da98f4641151",
+        "PROFESSOR": "DIOGO DE AMORIM BARROS",
+        "COD_CURS": [
+            30
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "da7c9f13-7cec-469b-82f4-e400610f1898",
+        "PROFESSOR": "JOANA RIOS RIBEIRO MAIA CARBONESI",
+        "COD_CURS": [
+            66,
+            22
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "51eed438-c572-4cf4-9fff-a7141081e085",
+        "PROFESSOR": "PATRICIA MEDEIROS DE LIMA",
+        "COD_CURS": [
+            49
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "8f1a9df0-d591-4f65-b245-228f181f6dfd",
+        "PROFESSOR": "SILVIA NAARA DA SILVA PINTO DE OLIVEIRA",
+        "COD_CURS": [
+            60
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "e82293fb-b8fa-4235-ad33-e62a1df05c52",
+        "PROFESSOR": "GABRIELLE SANT ANNA VIEIRA CAMBRAIA",
+        "COD_CURS": [
+            63
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "05a9f8aa-0a50-4b54-adfb-1ad267cfc4db",
+        "PROFESSOR": "IZABELLE THAYNA SOARES CARVALHO",
+        "COD_CURS": [
+            63
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "3c1666b0-db21-490c-943d-1d8c350cf609",
+        "PROFESSOR": "MARCELA OLIVEIRA MARQUES",
+        "COD_CURS": [
+            63
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "c5bab91f-2fb9-48c2-8b00-5739d079f27e",
+        "PROFESSOR": "BRENDA LISSETH PINEDA MANCIA",
+        "COD_CURS": [
+            42
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "18860199-f2ae-42e7-865a-6a8f6d04f016",
+        "PROFESSOR": "CHRIS ALVES DA SILVA",
+        "COD_CURS": [
+            22
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "fde3810d-a6e4-4e1e-b514-e62cf37bc7bd",
+        "PROFESSOR": "DEISE AVELINA FELIPE SARAIVA",
+        "COD_CURS": [
+            22
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "59a2975a-0c95-43ce-b199-1d78c18c57bf",
+        "PROFESSOR": "MAGALI DE FATIMA EVANGELISTA MACHADO",
+        "COD_CURS": [
+            22
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "2df39d84-83a5-45e4-ac38-fe071bc163dc",
+        "PROFESSOR": "MARINA THUANE MELO DA SILVA",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "f70d96d0-dc63-413c-b63d-a0b398d7dd3f",
+        "PROFESSOR": "MARIANA MONCAO DE LIMA",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "23450d5d-cc07-4196-8621-d3b4ab2f9aaf",
+        "PROFESSOR": "LUIZA MARIANA BRITO SOARES",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "1fb3e881-ece6-4424-8578-5a362f7d56f6",
+        "PROFESSOR": "LEON MURELLI SILVEIRA",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "174ceed6-b0ec-40fc-b487-1cc9a3d7677b",
+        "PROFESSOR": "ANDRE LUIS FERREIRA MONIZ",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "1e6f5f60-d58a-4fc2-9890-1a10bddf36ab",
+        "PROFESSOR": "FELIPE AUGUSTO OLIVEIRA REZENDE",
+        "COD_CURS": [
+            11
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "a6347184-ab85-481d-8a95-b902f4ba7e79",
+        "PROFESSOR": "JAMILE CAMPELO GABRIEL NUNES",
+        "COD_CURS": [
+            11
+        ],
+        "STATUS": "DEACTIVE"
+    },
+    {
+        "_id": "75183db9-433c-4382-b668-046334b526f8",
+        "PROFESSOR": "ROGERIO REZENDE",
+        "COD_CURS": [
+            37
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "c0bd3ff6-728c-464f-bda0-d04d2d819cbe",
+        "PROFESSOR": "PRISCILA ERTHAL RISI",
+        "COD_CURS": [
+            37
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "330db5d4-1518-430f-9714-4e2222bfc130",
+        "PROFESSOR": "JAMILSON ALVES DE SOUSA",
+        "COD_CURS": [
+            37,
+            39
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "df5601a5-24b7-4e28-9876-ac1daa3e03b2",
+        "PROFESSOR": "ROBERTA CARDOSO DE MELLO",
+        "COD_CURS": [
+            37,
+            39,
+            40
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "a50c20e6-a63f-4686-b38c-2b0e9e7dfe95",
+        "PROFESSOR": "FERNANDO ESTEBAN REYNOSO ACOSTA",
+        "COD_CURS": [
+            40,
+            50,
+            49
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "fed76f5e-765e-41cf-8af6-12c6f19bb3d3",
+        "PROFESSOR": "ANGELO DIMITRE GOMES GUEDES",
+        "COD_CURS": [
+            40,
+            50,
+            49
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "beca1ab3-3f6e-47c8-b4e3-221b24ec8662",
+        "PROFESSOR": "LEONARDO FILLIPE MARINHO ARAUJO",
+        "COD_CURS": [
+            40,
+            1,
+            10
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "f4629599-7746-4a1f-911b-6a15f018f137",
+        "PROFESSOR": "FERNANDA SANTOS SAMPAIO SANTORO",
+        "COD_CURS": [
+            5
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "9048a463-66f0-48f7-a666-e9fc5af1ea73",
+        "PROFESSOR": "VALDILENE ANGELA DE CARVALHO RABELO BALBINO",
+        "COD_CURS": [
+            5
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "d10c7808-680b-4542-b447-53b5baeb832a",
+        "PROFESSOR": " ",
+        "COD_CURS": [
+            5,
+            38,
+            54,
+            71,
+            37,
+            44,
+            34,
+            3,
+            39,
+            46,
+            6,
+            58,
+            48,
+            36,
+            11,
+            67,
+            1,
+            32,
+            22,
+            50
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "56fc312d-05b9-4aa1-b281-3133caf4a0d8",
+        "PROFESSOR": "ELIEL SILVA DA CRUZ",
+        "COD_CURS": [
+            54,
+            38
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "9060fc56-4d6b-4c92-a42b-bb7bbd1231e2",
+        "PROFESSOR": "WILSON AMARAL MARTINS",
+        "COD_CURS": [
+            54,
+            38,
+            71
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "8b79ec1a-0bf5-4496-b7b2-b8a504d2b71c",
+        "PROFESSOR": "FLAVIA MARIA ALVES LOPES",
+        "COD_CURS": [
+            54,
+            10,
+            38,
+            71
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "ec805fd4-8eb9-4c60-95db-bfa691794599",
+        "PROFESSOR": "CASSIO DOS SANTOS GARCIA",
+        "COD_CURS": [
+            3,
+            19
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "12a357f8-fdc2-4b95-9e3c-b4bf4fc792ae",
+        "PROFESSOR": "KARLA ROBERTO SARTIN",
+        "COD_CURS": [
+            71,
+            54,
+            38,
+            9,
+            53,
+            8,
+            6
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "353f69c0-62b6-4fcc-9124-c7525fb78a13",
+        "PROFESSOR": "JORGE MAURO DE LEMOS MOREIRA JUNIOR",
+        "COD_CURS": [
+            71,
+            38,
+            54,
+            10
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "0b32acf3-66c8-4e04-9cba-8afebb30d271",
+        "PROFESSOR": "IONE FERRARINI GOULART",
+        "COD_CURS": [
+            71,
+            38,
+            54
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "23b9d00b-2bc9-45f8-be07-a0f7fd432620",
+        "PROFESSOR": "THIAGO CAMPELO MACEDO",
+        "COD_CURS": [
+            30,
+            31
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "da4b46de-f543-4d4a-af18-484ea93c9f2b",
+        "PROFESSOR": "ALINI ROSANGELA TAUFER JOBIM",
+        "COD_CURS": [
+            37,
+            39
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "ff93b769-f78d-4feb-93a4-3d17a625fb11",
+        "PROFESSOR": "LETICIA TOLEDO MAIA ZOBY",
+        "COD_CURS": [
+            54
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "25ff7132-eec3-4dd6-a87a-0b1324ae1829",
+        "PROFESSOR": "FERNANDO ANTONIO FERNANDES ANSELMO",
+        "COD_CURS": [
+            10,
+            38,
+            54
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "40c79f98-fe67-44da-a1c4-832aad3c9d38",
+        "PROFESSOR": "GABRIEL DE OLIVEIRA ALVES",
+        "COD_CURS": [
+            10,
+            38
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "851fee32-27b9-44dd-a8ad-b168c61cd122",
+        "PROFESSOR": "ALEX DELGADO GONCALVES CASANAS",
+        "COD_CURS": [
+            1,
+            10,
+            38,
+            54,
+            71
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "0d205010-108b-415b-a91e-721c7fe7b220",
+        "PROFESSOR": "KADIDJA VALERIA REGINALDO DE OLIVEIRA",
+        "COD_CURS": [
+            54,
+            38,
+            10,
+            71
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "3f88f9d7-d2a1-4877-852f-ec6f814fd1c3",
+        "PROFESSOR": "RAQUEL CANTARELLI VIEIRA DA CUNHA",
+        "COD_CURS": [
+            50,
+            1,
+            37,
+            44,
+            54,
+            4,
+            34,
+            3,
+            19,
+            38,
+            39,
+            40,
+            57,
+            69,
+            21,
+            13,
+            46,
+            5,
+            68,
+            32,
+            33,
+            31,
+            6,
+            7,
+            71,
+            8,
+            9,
+            53,
+            30,
+            58,
+            67,
+            66,
+            49,
+            60,
+            63,
+            48,
+            42,
+            70,
+            22,
+            36,
+            11,
+            10
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "4ff755d1-e0cf-45a0-b561-f90f4481a533",
+        "PROFESSOR": "RANIERE AZEVEDO MAGALHAES",
+        "COD_CURS": [
+            54,
+            71,
+            10,
+            38
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "4d1e96dc-36e4-4bbb-bb0c-7b577187fa06",
+        "PROFESSOR": "HERBERT ANTONIO MOREIRA SEVERINO",
+        "COD_CURS": [
+            9,
+            53,
+            8
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "2aa2a850-5050-4076-8692-3b6a0e66fef4",
+        "PROFESSOR": "GABRIEL ELIAS PARENTE BARRETO OKA",
+        "COD_CURS": [
+            37,
+            39,
+            40
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "4f177f44-90ef-404e-8878-7c72629b0e48",
+        "PROFESSOR": "ALFREDO MANOEL DE OLIVEIRA NETO",
+        "COD_CURS": [
+            54,
+            38,
+            71
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "6ff83def-fb5b-4506-86c0-9a538ab4f25c",
+        "PROFESSOR": "GLEIDSON PORTO BATISTA",
+        "COD_CURS": [
+            54,
+            38,
+            10
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "c359e0de-e970-432c-a53c-7616d428aae8",
+        "PROFESSOR": "PAULO SERGIO XAVIER DA SILVA",
+        "COD_CURS": [
+            50
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "6106e33b-9d26-451f-99c8-66c9163fc2a7",
+        "PROFESSOR": "GUILHERME LOBAO DE QUEIROZ",
+        "COD_CURS": [
+            49,
+            57
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "f8fe20f4-ee9b-4bf8-9e51-cf9dfcbcd959",
+        "PROFESSOR": "KERLLA DE SOUZA LUZ",
+        "COD_CURS": [
+            54,
+            1,
+            38,
+            40,
+            10
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "482200b0-a062-4b29-8ed6-1b4ced80cfe0",
+        "PROFESSOR": "RAFAEL SOARES DE ALMEIDA",
+        "COD_CURS": [
+            10,
+            54
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "80856931-50db-4cf5-a384-1abdbfe70517",
+        "PROFESSOR": "GABRIEL OLIMPIO NASCIMENTO FLORENCIO DE ALMEI",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "ebc54d41-85cd-4ac1-8ac2-09fc9c101ddf",
+        "PROFESSOR": "VICTORIA AYELEN GOMEZ",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "a35cc754-7af8-4fa3-8475-82fbebd66a66",
+        "PROFESSOR": "JULIA GOUVEIA DE MATTOS LEME",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "dfa65d3d-8577-42c2-a0c0-e8105b5bdd6b",
+        "PROFESSOR": "SAMUEL DA SILVA AGUIAR",
+        "COD_CURS": [
+            32
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "dbef146f-7cee-45cd-af49-2d7af148a3e0",
+        "PROFESSOR": "ANA BEATRIZ ROMERO NOVELLI",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "a2993f99-34c5-4bf2-a68a-3bbe6e9afe13",
+        "PROFESSOR": "MARCELO PEDRA MARTINS MACHADO",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "e7339526-c05b-4a12-9d95-0aa9f6254a0b",
+        "PROFESSOR": "DEYPSON GONCALVES CARVALHO",
+        "COD_CURS": [
+            3,
+            19
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "c370ddfb-432e-438f-b84a-758be8124f75",
+        "PROFESSOR": "MARIA ELVIRA OLIVEIRA DE JESUS",
+        "COD_CURS": [
+            46,
+            31,
+            1,
+            37,
+            44,
+            54,
+            4,
+            34,
+            3,
+            19,
+            38,
+            39,
+            40,
+            57,
+            69,
+            21,
+            13,
+            5,
+            68,
+            32,
+            33,
+            6,
+            7,
+            71,
+            8,
+            9,
+            53,
+            30,
+            58,
+            67,
+            66,
+            49,
+            60,
+            63,
+            48,
+            42,
+            70,
+            22,
+            36,
+            50,
+            11,
+            10
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "7180af1e-d5c5-443c-b14b-4345d59a86ea",
+        "PROFESSOR": "FERNANDA SANTOS OLIVEIRA",
+        "COD_CURS": [
+            32,
+            68,
+            33,
+            44,
+            30,
+            67,
+            31
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "6b9dbd91-22e4-4a8c-bc39-ad6d244a387a",
+        "PROFESSOR": "NATANIEL WONTOON BARBOSA LIMA",
+        "COD_CURS": [
+            6,
+            8,
+            9,
+            53,
+            37,
+            39,
+            7
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "b00e52c7-6563-46e3-85e7-62a621663c1d",
+        "PROFESSOR": "OSVALDO KOJIRO IHA",
+        "COD_CURS": [
+            9,
+            53,
+            34,
+            44,
+            6,
+            8
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "cfa6600b-b3cd-4a9a-95df-343c0b2316a8",
+        "PROFESSOR": "WILLIAM HUMBERTO CUELLAR SANCHEZ",
+        "COD_CURS": [
+            53,
+            8
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "a7f20bc7-177b-4de5-b093-4e43af8f0646",
+        "PROFESSOR": "MARIA BERNADETE RODRIGUES QUEIROZ",
+        "COD_CURS": [
+            30
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "c70994ad-b7b4-4e41-bddb-3e1b8d5ce997",
+        "PROFESSOR": "SUZANA GUIMARAES DE ARAUJO",
+        "COD_CURS": [
+            30,
+            31
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "2d9d2915-7bf7-4a76-8547-698add4337b6",
+        "PROFESSOR": "DAYANNE CRISTINA RAMOS LORENA AYRES",
+        "COD_CURS": [
+            58,
+            46
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "1ad8b7d3-d4a1-4fc4-a12e-cd917cf43e40",
+        "PROFESSOR": "MELISSA LORRAYNE DA MATA ALVES FERNANDES",
+        "COD_CURS": [
+            58
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "7808aa2d-2d0d-4688-ac85-0e31c2ee107a",
+        "PROFESSOR": "TATIANNE GOMES DE SOUSA",
+        "COD_CURS": [
+            60,
+            1,
+            37,
+            44,
+            54,
+            4,
+            34,
+            3,
+            19,
+            38,
+            39,
+            40,
+            57,
+            69,
+            21,
+            13,
+            46,
+            5,
+            68,
+            32,
+            33,
+            31,
+            6,
+            7,
+            71,
+            8,
+            9,
+            53,
+            30,
+            58,
+            67,
+            66,
+            49,
+            63,
+            48,
+            42,
+            70,
+            22,
+            36,
+            50,
+            11,
+            10
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "70708ba4-b92a-46b1-bb42-e5a4b926f57c",
+        "PROFESSOR": "DAYSE RAYANE E SILVA MUNIZ",
+        "COD_CURS": [
+            60
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "59abcc67-2192-4eb7-b04b-a56dc6347022",
+        "PROFESSOR": "RAFAELLA LEMOS ALVES",
+        "COD_CURS": [
+            48,
+            46,
+            44,
+            68,
+            31,
+            30,
+            58,
+            67
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "44bafe19-acfd-4b10-bedc-5c5f1bad1baa",
+        "PROFESSOR": "HUGO RODRIGUES",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "86e066dd-befe-4c89-98cc-cc61dd7723fb",
+        "PROFESSOR": "JOSE DEOCLECIANO DE SIQUEIRA SILVA JUNIOR",
+        "COD_CURS": [
+            11,
+            4,
+            1,
+            3,
+            21,
+            13
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "a8d9eb36-f751-4d7e-bb06-b5446172c5c6",
+        "PROFESSOR": "DANIELA ABREU DE MORAES",
+        "COD_CURS": [
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "c3192094-0fad-44e4-8019-9a8eb4187265",
+        "PROFESSOR": "IVANA AGNOLETTO SOUZA",
+        "COD_CURS": [
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "05c36447-0977-4ed4-a56d-ff358acbd30f",
+        "PROFESSOR": "ERICA TORRES DE ALMEIDA PIOVESAN",
+        "COD_CURS": [
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "36d0477a-82cf-466a-9c12-1c1fa812d49b",
+        "PROFESSOR": "MARCELA MILANEZI DE ALMEIDA",
+        "COD_CURS": [
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "8eb0de0a-249a-4426-92f7-c2f730904697",
+        "PROFESSOR": "CIRO YOSHIO JOKO",
+        "COD_CURS": [
+            34,
+            22,
+            1,
+            37,
+            44,
+            54,
+            4,
+            3,
+            19,
+            38,
+            39,
+            40,
+            57,
+            69,
+            21,
+            13,
+            46,
+            5,
+            68,
+            32,
+            33,
+            31,
+            6,
+            7,
+            71,
+            8,
+            9,
+            53,
+            30,
+            58,
+            67,
+            66,
+            49,
+            60,
+            63,
+            48,
+            42,
+            70,
+            36,
+            50,
+            11,
+            10
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "d11857f3-a9cd-4f93-be14-63346c51e3a8",
+        "PROFESSOR": "BRUNA CASTRO MOREIRA",
+        "COD_CURS": [
+            31,
+            42,
+            44,
+            34,
+            46,
+            68,
+            32,
+            33,
+            30,
+            58,
+            67,
+            48
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "242b28f1-d9c9-4149-a75f-955c975231fa",
+        "PROFESSOR": "CAMILA ARAUJO PINTO",
+        "COD_CURS": [
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "9b2d18be-e208-488c-a76c-7051aca7b593",
+        "PROFESSOR": "ALESSANDRA DE FREITAS E SILVA",
+        "COD_CURS": [
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "f4891e3a-c609-4e03-af5b-89ee023ef208",
+        "PROFESSOR": "ANDRESSA QUEIROZ FERNANDES",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "29139389-b170-4beb-9f16-13120375c371",
+        "PROFESSOR": "EVERLEY ROSANE GOETZ",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "d00e02ea-1e37-4bd2-bf27-baccdf1ee13c",
+        "PROFESSOR": "YURI GUSTAVO DE SOUSA BARBALHO",
+        "COD_CURS": [
+            30,
+            31,
+            46,
+            58,
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "3e705d2e-659a-493b-a1ff-ec3932b02e1d",
+        "PROFESSOR": "CHARLISON RODRIGUES DA CUNHA",
+        "COD_CURS": [
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "975d25e1-1109-496c-9d3d-ddc722edae4c",
+        "PROFESSOR": "FELIPE MUNIZ AGUIAR",
+        "COD_CURS": [
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "7ac94675-0aae-460a-a618-d84cf02a3a14",
+        "PROFESSOR": "REBECCA MARTINS FIGUEIROA",
+        "COD_CURS": [
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "c6d60786-2043-45f5-b69e-392ca867a00d",
+        "PROFESSOR": "CRISTIANE BESSA TRISTAO",
+        "COD_CURS": [
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "d251ef28-4565-48c2-babe-c15d62bb3ca5",
+        "PROFESSOR": "MARCELO PORTO DIAS",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "ec525b21-a298-48cb-bbe5-7867f4d9ffcb",
+        "PROFESSOR": "ADRIANO RIOS DA SILVA SANTANA LEITE",
+        "COD_CURS": [
+            44,
+            30
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "4cd4a8c0-ec14-4157-8416-0cf120eeaf54",
+        "PROFESSOR": "LIANE CRISTINA FEREZ GARCIA",
+        "COD_CURS": [
+            34,
+            63,
+            36
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "df615dec-1c8a-4669-b5ec-b56003d46a38",
+        "PROFESSOR": "HUGO AMILTON SANTOS DE CARVALHO",
+        "COD_CURS": [
+            67
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "e6a9bc68-fc1f-45bb-812c-79400d248df0",
+        "PROFESSOR": "KEYSE LOYANNE BATISTA DA SILVA",
+        "COD_CURS": [
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "7faf33b0-6067-4335-ae92-083007d96708",
+        "PROFESSOR": "PEDRO CESAR GOMES TITATO",
+        "COD_CURS": [
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "a46b5765-0f05-4532-876b-3672767ef8c4",
+        "PROFESSOR": "STEFANO SALVO AIRES",
+        "COD_CURS": [
+            34,
+            35
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "965eeb19-c40d-4a24-9d41-43b7eef9c239",
+        "PROFESSOR": "LUIZ FERNANDO WHITAKER KITAJIMA",
+        "COD_CURS": [
+            34
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "2901c7ef-f0a9-4410-bc0d-6be2defd5f8d",
+        "PROFESSOR": "HELDER ANDREY ROCHA GOMES",
+        "COD_CURS": [
+            34,
+            30,
+            48,
+            31,
+            44
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "91f32e4d-885e-48a8-b942-6d957a8a811c",
+        "PROFESSOR": "LUAN DOS SANTOS MENEZES",
+        "COD_CURS": [
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "e9d62c27-e0e2-4dae-a4b9-c6603c7934f4",
+        "PROFESSOR": "EMILIO BARBOSA E SILVA",
+        "COD_CURS": [
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "fa721c2f-cc50-4ae3-a8ac-9331d094400e",
+        "PROFESSOR": "BARBARA FRAZAO DE AGUIAR",
+        "COD_CURS": [
+            57
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "40ee5a77-e369-4016-96a1-320da4f05e06",
+        "PROFESSOR": "HENRIQUE MARQUES DE ALMEIDA ROLIM",
+        "COD_CURS": [
+            57,
+            1,
+            37,
+            44,
+            54,
+            4,
+            34,
+            3,
+            19,
+            38,
+            39,
+            40,
+            69,
+            21,
+            13,
+            46,
+            5,
+            68,
+            32,
+            33,
+            31,
+            6,
+            7,
+            71,
+            8,
+            9,
+            53,
+            30,
+            58,
+            67,
+            66,
+            49,
+            60,
+            63,
+            48,
+            42,
+            70,
+            22,
+            36,
+            50,
+            11,
+            10
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "6c922a73-44a7-444e-b514-f2b277fe876f",
+        "PROFESSOR": "JOAO LUCAS CARVALHO PAZ",
+        "COD_CURS": [
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "a3964b7d-84b2-476a-83b5-cdeed010f61d",
+        "PROFESSOR": "LAUANNA MARTINS LOPES",
+        "COD_CURS": [
+            1,
+            37,
+            44,
+            54,
+            4,
+            34,
+            3,
+            19,
+            38,
+            39,
+            40,
+            57,
+            69,
+            21,
+            13,
+            46,
+            5,
+            68,
+            32,
+            33,
+            31,
+            6,
+            7,
+            71,
+            8,
+            9,
+            53,
+            30,
+            58,
+            67,
+            66,
+            49,
+            60,
+            63,
+            48,
+            42,
+            70,
+            22,
+            36,
+            50,
+            11,
+            10
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "119b294a-4534-4a3d-b3f8-4b4316642def",
+        "PROFESSOR": "WAGNER GOMES REIS",
+        "COD_CURS": [
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "dcca7c80-081b-4bf7-919f-ab7592996909",
+        "PROFESSOR": "FERNANDO PEREIRA MIRANDA",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "1be5a0f2-de63-453f-8479-36211d3e4625",
+        "PROFESSOR": "KATIA BALDUINO DE SOUZA",
+        "COD_CURS": [
+            50
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "c09bbbad-cc63-45b3-b4ea-41f54c8b28a6",
+        "PROFESSOR": "ALAN GABRIEL CAMARGO",
+        "COD_CURS": [
+            11,
+            4
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "cebe7807-ad8e-45d0-8e8e-9e0f23712674",
+        "PROFESSOR": "CARLOS LEONARDO GOMES VIDAL",
+        "COD_CURS": [
+            1,
+            37,
+            44,
+            54,
+            4,
+            34,
+            3,
+            19,
+            38,
+            39,
+            40,
+            57,
+            69,
+            21,
+            13,
+            46,
+            5,
+            68,
+            32,
+            33,
+            31,
+            6,
+            7,
+            71,
+            8,
+            9,
+            53,
+            30,
+            58,
+            67,
+            66,
+            49,
+            60,
+            63,
+            48,
+            42,
+            70,
+            22,
+            36,
+            50,
+            11,
+            10
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "1913de48-338d-496e-841f-a802c3532acb",
+        "PROFESSOR": "GILVAN LOPES DOS SANTOS",
+        "COD_CURS": [
+            44,
+            34,
+            46,
+            68,
+            32,
+            31,
+            30,
+            58,
+            67,
+            48,
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "9ec52c6f-226c-442f-9cd5-12fcf312e9b0",
+        "PROFESSOR": "EZEQUIEL NUBIO LUCAS PEREIRA",
+        "COD_CURS": [
+            46,
+            1,
+            37,
+            44,
+            54,
+            4,
+            34,
+            3,
+            19,
+            38,
+            39,
+            40,
+            57,
+            69,
+            21,
+            13,
+            5,
+            68,
+            32,
+            33,
+            31,
+            6,
+            7,
+            71,
+            8,
+            9,
+            53,
+            30,
+            58,
+            67,
+            66,
+            49,
+            60,
+            63,
+            48,
+            42,
+            70,
+            22,
+            36,
+            50,
+            11,
+            10
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "1d10de80-a0bc-40c4-a98b-6003cd9d3642",
+        "PROFESSOR": "JULIANA MOURA ALVES SEIXAS",
+        "COD_CURS": [
+            67
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "0a531fc5-ec16-4695-a0cf-1a2366c53f63",
+        "PROFESSOR": "KAREN MARIA DE PAULA",
+        "COD_CURS": [
+            67
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "ba611393-4a9e-4d5c-a2c0-11667fb53d11",
+        "PROFESSOR": "TIAGO CUNHA DE OLIVEIRA",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "9f217358-197f-4c50-92fa-6a8c572c2577",
+        "PROFESSOR": "EDIMILSON DOS SANTOS GONCALVES",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "79b8500a-372f-46cb-8de9-33532b4feaaf",
+        "PROFESSOR": "STEVAM LOPES ALVES AFONSO",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "297ebab1-c67b-4927-9f45-bface947172d",
+        "PROFESSOR": "LUCIANA FORMIGA RODOLFO VASCONCELOS",
+        "COD_CURS": [
+            1,
+            13,
+            3
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "4e487f2d-7d42-4127-bc31-c0b582df83d0",
+        "PROFESSOR": "MARCELO MAGNO ROCHA NASCIMENTO",
+        "COD_CURS": [
+            1,
+            3,
+            36,
+            11,
+            4,
+            13,
+            19
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "61d3dac1-2adc-4c54-beec-23e74d75fd43",
+        "PROFESSOR": "FABRIZIO FAEDDA",
+        "COD_CURS": [
+            46
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "4096f7ef-7c13-4af8-a836-3ec4473b2d06",
+        "PROFESSOR": "JULIANA VENTURA SOUZA JULIANO",
+        "COD_CURS": [
+            31
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "adbabdd5-83f3-4365-a8b6-37e82ecaacde",
+        "PROFESSOR": "BRENO DE SOUSA SANTANA",
+        "COD_CURS": [
+            31,
+            30
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "2f603b1d-b278-4f48-8ee8-f508212af201",
+        "PROFESSOR": "CARINA BORGATTI MOURA",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "9fb62d81-ba7e-4532-8fc0-3030cdb1c161",
+        "PROFESSOR": "ISABELLA LIMEIRA CARDOSO",
+        "COD_CURS": [
+            1,
+            37,
+            44,
+            54,
+            4,
+            34,
+            3,
+            19,
+            38,
+            39,
+            40,
+            57,
+            69,
+            21,
+            13,
+            46,
+            5,
+            68,
+            32,
+            33,
+            31,
+            6,
+            7,
+            71,
+            8,
+            9,
+            53,
+            30,
+            58,
+            67,
+            66,
+            49,
+            60,
+            63,
+            48,
+            42,
+            70,
+            22,
+            36,
+            50,
+            11,
+            10
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "ac207fb1-475d-4a75-9fe7-80a48621fd2d",
+        "PROFESSOR": "RODRIGO FONSECA DE MAGALHAES",
+        "COD_CURS": [
+            3,
+            11,
+            19,
+            1
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "cf59d274-5303-47ce-918f-98ccb7ff03e8",
+        "PROFESSOR": "NATALIA VIEIRA ARAUJO CUNHA",
+        "COD_CURS": [
+            31
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "ebace6bd-31ba-48a1-ab0f-4aebf3f1218f",
+        "PROFESSOR": "LUCINEIDE ALESSANDRA MIRANDA DA CRUZ",
+        "COD_CURS": [
+            1,
+            21,
+            19,
+            3
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "07215b5b-ffd9-4f9a-82c1-3e16d66e8d79",
+        "PROFESSOR": "JOSE LUIZ PAGNUSSAT",
+        "COD_CURS": [
+            19,
+            13,
+            1,
+            3
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "0f2ed75e-c34f-49d7-b535-3286d52fc837",
+        "PROFESSOR": "FLAVIO AUGUSTO BRITO MARCELINO",
+        "COD_CURS": [
+            31,
+            46,
+            1,
+            37,
+            44,
+            54,
+            4,
+            34,
+            3,
+            19,
+            38,
+            39,
+            40,
+            57,
+            69,
+            21,
+            13,
+            5,
+            68,
+            32,
+            33,
+            6,
+            7,
+            71,
+            8,
+            9,
+            53,
+            30,
+            58,
+            67,
+            66,
+            49,
+            60,
+            63,
+            48,
+            42,
+            70,
+            22,
+            36,
+            50,
+            11,
+            10
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "14745263-f84a-4d4f-b0fb-ae3f3d7046c8",
+        "PROFESSOR": "WELINTON VITOR DOS SANTOS",
+        "COD_CURS": [
+            3
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "3d193de2-70c7-4d04-a2d2-373268ecb3a9",
+        "PROFESSOR": "MARIA CECILIA RIBEIRO",
+        "COD_CURS": [
+            31,
+            44
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "45b1d704-a0da-437b-9d77-d662eff89159",
+        "PROFESSOR": "CARLA MARCELA DA SILVA FAEDDA",
+        "COD_CURS": [
+            67,
+            44,
+            31,
+            30
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "36a89605-bd58-4337-9aea-ecdb694b1600",
+        "PROFESSOR": "BRUNA PALMEIRA COSTA D ALBUQUERQUE LIMA",
+        "COD_CURS": [
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "1332096c-dd81-4d42-b17b-68b1f15fe476",
+        "PROFESSOR": "THAIS GOMES BENEVENUTO",
+        "COD_CURS": [
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "e22c3db5-2655-4331-80ef-7d391e5d97fc",
+        "PROFESSOR": "WILSON GUSTAVO CRAL",
+        "COD_CURS": [
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "8547027f-de15-4390-bff1-626ce41a40f1",
+        "PROFESSOR": "SUDERLAN SABINO LEANDRO",
+        "COD_CURS": [
+            44,
+            67,
+            30,
+            31
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "2ff26bbe-b320-4868-a394-57fd3875b6b7",
+        "PROFESSOR": "SAULO XAVIER DE SOUZA",
+        "COD_CURS": [
+            1,
+            37,
+            44,
+            54,
+            4,
+            34,
+            3,
+            19,
+            38,
+            39,
+            40,
+            57,
+            69,
+            21,
+            13,
+            46,
+            5,
+            68,
+            32,
+            33,
+            31,
+            6,
+            7,
+            71,
+            8,
+            9,
+            53,
+            30,
+            58,
+            67,
+            66,
+            49,
+            60,
+            63,
+            48,
+            42,
+            70,
+            22,
+            36,
+            50,
+            11,
+            10
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "7afd61c5-1e15-4d64-8785-94e2b3e4ad9d",
+        "PROFESSOR": "MARIO BRUNO DE SOUZA ABDALLA",
+        "COD_CURS": [
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "e909a0a6-47f3-4b52-92c7-481e0e5d4e0d",
+        "PROFESSOR": "GABRIELA ATAIDES DE OLIVEIRA",
+        "COD_CURS": [
+            58
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "96f1c3a3-982d-41ce-bdd1-60aa6fa5b1c6",
+        "PROFESSOR": "EDILBERTO MAGALHAES SILVA",
+        "COD_CURS": [
+            66,
+            22,
+            1,
+            37,
+            44,
+            54,
+            4,
+            34,
+            3,
+            19,
+            38,
+            39,
+            40,
+            57,
+            69,
+            21,
+            13,
+            46,
+            5,
+            68,
+            32,
+            33,
+            31,
+            6,
+            7,
+            71,
+            8,
+            9,
+            53,
+            30,
+            58,
+            67,
+            49,
+            60,
+            63,
+            48,
+            42,
+            70,
+            36,
+            50,
+            11,
+            10
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "23758772-7d80-4a2f-ab62-7628046037ee",
+        "PROFESSOR": "LARISSA RIBEIRO DA SILVA DE OLIVEIRA",
+        "COD_CURS": [
+            49,
+            50
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "b4286d40-5e60-4d32-b46d-682df1efd8ff",
+        "PROFESSOR": "LUIZA SPINOLA AMARAL",
+        "COD_CURS": [
+            49
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "f4f44cf8-6c6b-4aca-b761-3b829a860e2c",
+        "PROFESSOR": "LUCAS HENRIQUE GARCIA",
+        "COD_CURS": [
+            60
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "b61acae8-6bf3-4fec-aef4-8dd9279a1baf",
+        "PROFESSOR": "MELISSA SARDENBERG ROTATORI",
+        "COD_CURS": [
+            48
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "f3aeacf0-5fc9-45e0-81b7-0229ddec74d2",
+        "PROFESSOR": "LUIZ EDUARDO MENDES BATISTA",
+        "COD_CURS": [
+            33,
+            66,
+            60,
+            22
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "06469c59-7498-4f0f-b289-011974be2a03",
+        "PROFESSOR": "LAYRA DE SOUSA CRUZ SARMENTO",
+        "COD_CURS": [
+            66,
+            22
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "1bdc54eb-97c1-4e49-b697-d605dcd1408c",
+        "PROFESSOR": "CARLA CRISTIE DE FRANCA SILVA",
+        "COD_CURS": [
+            66,
+            22,
+            60
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "68db2ccd-8f4c-410f-bac3-c1021b535b5e",
+        "PROFESSOR": "CAMILA CHRISTIANA DE ARAGAO TAVARES",
+        "COD_CURS": [
+            66,
+            22
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "6d7d6363-f53d-4082-997e-36b2b462a4ec",
+        "PROFESSOR": "ROSSANA SOARES DE ALMEIDA",
+        "COD_CURS": [
+            48,
+            58,
+            63,
+            31,
+            34,
+            44
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "8213f83f-964a-4176-b7b0-f955376af014",
+        "PROFESSOR": "LARISSA MAZOCCO",
+        "COD_CURS": [
+            48,
+            44,
+            30
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "581bfcaf-7116-4853-8777-bb65c6988d3e",
+        "PROFESSOR": "ALBENICA PAULINO DOS SANTOS BONTEMPO",
+        "COD_CURS": [
+            58,
+            1,
+            37,
+            44,
+            54,
+            4,
+            34,
+            3,
+            19,
+            38,
+            39,
+            40,
+            57,
+            69,
+            21,
+            13,
+            46,
+            5,
+            68,
+            32,
+            33,
+            31,
+            6,
+            7,
+            71,
+            8,
+            9,
+            53,
+            30,
+            67,
+            66,
+            49,
+            60,
+            63,
+            48,
+            42,
+            70,
+            22,
+            36,
+            50,
+            11,
+            10
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "7fc15623-9b69-4aa3-a8f8-0da47c18c74a",
+        "PROFESSOR": "PAULA DOS SANTOS LEFFA",
+        "COD_CURS": [
+            48
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "4e8fdee0-e918-4af2-a69f-6c2cd0530b46",
+        "PROFESSOR": "MARINA VASCONCELOS FAVARO",
+        "COD_CURS": [
+            57,
+            48,
+            30
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "403a7fba-00b8-4979-a40b-f2b4d14aec6c",
+        "PROFESSOR": "ANA PAULA MEDEIROS CENIZ",
+        "COD_CURS": [
+            67
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "62936cfb-111d-4c2e-ba6e-56cdb6aeabb1",
+        "PROFESSOR": "VANESSA REINALDO CARVALHO",
+        "COD_CURS": [
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "5fb20f35-b9b8-4171-a9e9-8bfe36b94378",
+        "PROFESSOR": "JANETE CARDOSO DOS SANTOS",
+        "COD_CURS": [
+            22
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "7c97a3d9-7a43-4762-a207-aeee4bcc4402",
+        "PROFESSOR": "SILVANA APARECIDA TASSO",
+        "COD_CURS": [
+            31
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "583028d2-2d33-49cc-bf7d-248022f82257",
+        "PROFESSOR": "JOADIR ANTONIO FORESTI",
+        "COD_CURS": [
+            49
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "402df4ef-4b55-497e-8f6c-aa1d918cc476",
+        "PROFESSOR": "RAFAEL GONCALVES DE SANTANA E SILVA",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "13b5891b-27ec-4d63-8062-8c155272a0cd",
+        "PROFESSOR": "MAURICIO KENYATTA BARROS DA COSTA",
+        "COD_CURS": [
+            11
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "06325701-4071-40e6-97f9-071c2a2082ed",
+        "PROFESSOR": "IKARO ALVES DE ANDRADE",
+        "COD_CURS": [
+            44
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "a6069a2b-b8c5-4f05-bd74-6560370de609",
+        "PROFESSOR": "AMANDA GOMES DE MENESES",
+        "COD_CURS": [
+            31
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "a33a5197-e293-4fa0-ada8-81faabd87d4a",
+        "PROFESSOR": "GUILHERME DA COSTA BRASIL",
+        "COD_CURS": [
+            31
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "0d5c0485-5c51-4a04-917d-8e7c32ffe628",
+        "PROFESSOR": "BERNADETE MOREIRA PESSANHA CORDEIRO",
+        "COD_CURS": [
+            22
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "95e4f859-fbac-40e2-afd6-179fb968bdfd",
+        "PROFESSOR": "HENRIQUE LIMA RIBEIRO",
+        "COD_CURS": [
+            32,
+            68
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "e78da0f0-1406-421a-9f3e-be39e0524152",
+        "PROFESSOR": "MARIANA CRISTINA DOS SANTOS SOUZA",
+        "COD_CURS": [
+            31
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "d0f81138-571d-45ab-a8b2-5d79a5001cfe",
+        "PROFESSOR": "LARYSSA MARQUES DA SILVA ARAUJO",
+        "COD_CURS": [
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "72b0c4d5-ca4d-4fa2-a4ab-ef4d7783296e",
+        "PROFESSOR": "ERIVALDO MACHADO ARAUJO",
+        "COD_CURS": [
+            32,
+            33,
+            68,
+            44,
+            34,
+            46,
+            31,
+            30,
+            58,
+            67,
+            48,
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "5890eec3-4f5e-4269-9eca-09c24c2b13d7",
+        "PROFESSOR": "SANDRA MARIA DE MEDEIROS FROTA",
+        "COD_CURS": [
+            5
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "1ff0bdd2-faad-4863-bb10-6b46eb26edce",
+        "PROFESSOR": "FILIPE MOURA RIBEIRO",
+        "COD_CURS": [
+            32,
+            31,
+            68,
+            36,
+            48
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "241b6f0b-218a-478d-8e43-efc2763c575b",
+        "PROFESSOR": "SULIANE BEATRIZ RAUBER",
+        "COD_CURS": [
+            68,
+            1,
+            37,
+            44,
+            54,
+            4,
+            34,
+            3,
+            19,
+            38,
+            39,
+            40,
+            57,
+            69,
+            21,
+            13,
+            46,
+            5,
+            32,
+            33,
+            31,
+            6,
+            7,
+            71,
+            8,
+            9,
+            53,
+            30,
+            58,
+            67,
+            66,
+            49,
+            60,
+            63,
+            48,
+            42,
+            70,
+            22,
+            36,
+            50,
+            11,
+            10
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "26d7d3d0-8b6f-45d8-b5f9-c511700f4cb4",
+        "PROFESSOR": "BARBARA DE CALDAS MELO",
+        "COD_CURS": [
+            31
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "e0601ff9-ced2-44d6-953e-fe05eb2b3fce",
+        "PROFESSOR": "GABRIEL JUNIO BARBOSA CAIXETA",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "a3d99be3-f59f-4f94-9276-84793ab9012a",
+        "PROFESSOR": "PALOMA APARECIDA CARVALHO",
+        "COD_CURS": [
+            31
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "3033ef70-c628-4ccf-8eb8-857fea8a2efa",
+        "PROFESSOR": "DOUGLAS PAGANELA PELISSARI",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "3d853ecf-1429-42f3-a111-8e912fdd197c",
+        "PROFESSOR": "ADRIANA MANSO MELCHIADES NOZIMA",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "6b8c232e-2c8e-41cc-9e7e-89ec105ab43f",
+        "PROFESSOR": "JOAO GUILHERME DE LIMA ASSAFIM",
+        "COD_CURS": [
+            5,
+            3,
+            19
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "90a41a07-120d-4980-a6ce-8a08e11bb6b6",
+        "PROFESSOR": "MOISES OLIVEIRA MOREIRA",
+        "COD_CURS": [
+            5
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "61be5fef-95fa-4aca-a177-da232997ddd8",
+        "PROFESSOR": "DIOGO DE MYRON CARDOSO PONZI",
+        "COD_CURS": [
+            5
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "424a372b-b4c8-4049-930e-c5c1df445bc9",
+        "PROFESSOR": "MARIO HERMES DA COSTA E SILVA",
+        "COD_CURS": [
+            5,
+            1,
+            37,
+            44,
+            54,
+            4,
+            34,
+            3,
+            19,
+            38,
+            39,
+            40,
+            57,
+            69,
+            21,
+            13,
+            46,
+            68,
+            32,
+            33,
+            31,
+            6,
+            7,
+            71,
+            8,
+            9,
+            53,
+            30,
+            58,
+            67,
+            66,
+            49,
+            60,
+            63,
+            48,
+            42,
+            70,
+            22,
+            36,
+            50,
+            11,
+            10
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "20264860-247f-43d8-8b2c-887502df1718",
+        "PROFESSOR": "ATA ABDALLA JREIJ",
+        "COD_CURS": [
+            5
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "b799f5ea-1252-4c75-8ec7-f4e4d15afbdb",
+        "PROFESSOR": "MARGARET DA SILVA PERES NUNES",
+        "COD_CURS": [
+            5
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "d5f454bf-3d16-4bd2-85e7-bdc627aeae5a",
+        "PROFESSOR": "SAMANTHA VASCONCELOS CHACON ARSENIO",
+        "COD_CURS": [
+            5,
+            21
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "7d1afeff-b751-483c-9c7f-989b264c1eda",
+        "PROFESSOR": "FERNANDA FIGUEIRA TONETTO BRAGA",
+        "COD_CURS": [
+            5
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "88c546ca-8e46-4c54-ae47-dbaa0580463b",
+        "PROFESSOR": "SANDRO MURILO GUIMARAES GUILHERME",
+        "COD_CURS": [
+            5
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "b4b532fc-b139-4ccb-8606-c917872287ac",
+        "PROFESSOR": "ISABELA CAPONE KRAUSE",
+        "COD_CURS": [
+            5
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "04ef6fca-7bb5-4f49-a211-42978b516a0b",
+        "PROFESSOR": "JULIO LOPES HOTT",
+        "COD_CURS": [
+            5
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "636f4989-c363-4558-a725-d7570c8cc763",
+        "PROFESSOR": "CRISTINA AGUIAR FERREIRA DA SILVA",
+        "COD_CURS": [
+            5
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "1304e179-72d6-4715-a65c-83017fa41266",
+        "PROFESSOR": "MELQUEZEDECH DE LYRA MOURA",
+        "COD_CURS": [
+            57,
+            13,
+            11,
+            1,
+            3,
+            21,
+            19
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "ee72ce7c-df4e-415c-9785-694340c505bb",
+        "PROFESSOR": "PALOMA NEVES DO NASCIMENTO",
+        "COD_CURS": [
+            5
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "748d8dd9-f2a9-4697-93a5-510b52a6ee2d",
+        "PROFESSOR": "ANDERSON PINHEIRO DA COSTA",
+        "COD_CURS": [
+            5
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "247eca70-e97a-45ab-baf7-5dd54f3c06a2",
+        "PROFESSOR": "DANILO RINALDI DOS SANTOS JUNIOR",
+        "COD_CURS": [
+            5
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "1263137c-3247-4b5d-94b8-81aa4d7aed23",
+        "PROFESSOR": "PATRICIA CRISTIANE GAMA DA COSTA",
+        "COD_CURS": [
+            36,
+            31,
+            46,
+            3
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "8320cdbf-ce79-4e84-8337-a8fb059c078b",
+        "PROFESSOR": "RAQUEL NOGUEIRA DE ARAUJO NORONHA",
+        "COD_CURS": [
+            5
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "84316561-20ab-4c51-937d-7e22cf170478",
+        "PROFESSOR": "ADRIANA LIRA DA SILVA",
+        "COD_CURS": [
+            33,
+            66,
+            60,
+            22
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "416c4145-7f10-49b3-9ffb-f5582007890e",
+        "PROFESSOR": "MARIANA DA SILVA LOPES",
+        "COD_CURS": [
+            31,
+            30
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "cd91664c-b1f5-452c-9d02-432678e3be9e",
+        "PROFESSOR": "ISABELLA VIEGAS MORAES SARMENTO",
+        "COD_CURS": [
+            5
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "04ef8135-09cd-48f1-b4b6-5f487fe38ec1",
+        "PROFESSOR": "THIAGO FERREIRA GOMES",
+        "COD_CURS": [
+            71,
+            8,
+            9,
+            54
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "29a403d5-7f27-47ee-a351-567e972a02e2",
+        "PROFESSOR": "ITALO SIQUEIRA DE CASTRO TEIXEIRA",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "160f2bc3-087e-4d22-be60-24c7fe8cf9dd",
+        "PROFESSOR": "ANA PAULA DORIA DE CARVALHO",
+        "COD_CURS": [
+            5
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "57fced44-eb92-492a-9c1d-c24d683311f1",
+        "PROFESSOR": "FREDERICO SANTOS DE SANTANA",
+        "COD_CURS": [
+            68,
+            32,
+            31
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "3e6d9062-3324-4e44-bd0d-ae6572bbfaed",
+        "PROFESSOR": "ARIANE SILVA GONÃ‡ALVES",
+        "COD_CURS": [
+            31,
+            68,
+            30,
+            44
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "004e7cf2-4c4a-4e03-86ae-bc4d642fd220",
+        "PROFESSOR": "SANDRO PEDROTTI ACOSTA",
+        "COD_CURS": [
+            6,
+            37,
+            8,
+            9,
+            53
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "679df0c2-7789-4991-9b5c-d3e5c3bc73cf",
+        "PROFESSOR": "CLARISSA ROCHA DOS SANTOS",
+        "COD_CURS": [
+            63
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "1e2e462f-be9c-4aac-be5d-367393092c9a",
+        "PROFESSOR": "RAFAEL ROSSETTO DE SOUSA",
+        "COD_CURS": [
+            63
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "167a65b0-626f-48f9-b2e2-cbb5fdaf64af",
+        "PROFESSOR": "SAMUEL FREITAS BASTOS",
+        "COD_CURS": [
+            63
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "3b0b5d67-f162-4f9c-949e-3abd830f6d1a",
+        "PROFESSOR": "EDNARDO PAULO SPANIOL",
+        "COD_CURS": [
+            6,
+            71,
+            8,
+            9,
+            53
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "a2ba94d6-2e54-4bd1-b9e7-20c5445f3d0b",
+        "PROFESSOR": "NATHALIA FREITAS BOAVENTURA",
+        "COD_CURS": [
+            6,
+            1,
+            37,
+            44,
+            54,
+            4,
+            34,
+            3,
+            19,
+            38,
+            39,
+            40,
+            57,
+            69,
+            21,
+            13,
+            46,
+            5,
+            68,
+            32,
+            33,
+            31,
+            7,
+            71,
+            8,
+            9,
+            53,
+            30,
+            58,
+            67,
+            66,
+            49,
+            60,
+            63,
+            48,
+            42,
+            70,
+            22,
+            36,
+            50,
+            11,
+            10
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "2d13ce84-6a51-40bc-82c6-0626199f7647",
+        "PROFESSOR": "RELYSON LIMA DE MAGALHAES RAMOS",
+        "COD_CURS": [
+            38,
+            71,
+            54,
+            10
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "70a05d5b-b4ae-4330-9beb-7e98b7726a3d",
+        "PROFESSOR": "MAURICIO GOMES DE SOUSA",
+        "COD_CURS": [
+            63
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "cd8a3825-3820-43e3-a953-c3d660411e9e",
+        "PROFESSOR": "LETHICIA DA SILVA SANTOS",
+        "COD_CURS": [
+            63
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "ccc50ba1-fdf0-4c8d-ad64-c88c96e4fd5d",
+        "PROFESSOR": "PATRICIA MENDES SORIANO DE SOUZA",
+        "COD_CURS": [
+            63
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "a9d83b53-11ea-4b56-91e2-f8d7be5d59b7",
+        "PROFESSOR": "TIAGO DE MELO",
+        "COD_CURS": [
+            9,
+            53,
+            1,
+            37,
+            44,
+            54,
+            4,
+            34,
+            3,
+            19,
+            38,
+            39,
+            40,
+            57,
+            69,
+            21,
+            13,
+            46,
+            5,
+            68,
+            32,
+            33,
+            31,
+            6,
+            7,
+            71,
+            8,
+            30,
+            58,
+            67,
+            66,
+            49,
+            60,
+            63,
+            48,
+            42,
+            70,
+            22,
+            36,
+            50,
+            11,
+            10
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "84afb034-c87e-47f0-8c6c-cd8cfac8c9f5",
+        "PROFESSOR": "FERNANDA VIANA MERGULHAO",
+        "COD_CURS": [
+            63
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "665d0ffd-de3e-421e-b88e-de4c8a5c1a46",
+        "PROFESSOR": "LETICIA BATELLI DE OLIVEIRA",
+        "COD_CURS": [
+            63
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "c96893e1-75d3-4ae0-a450-b7ec42cc797d",
+        "PROFESSOR": "CLARISSA CASELLA GEMIGNANI DA CUNHA",
+        "COD_CURS": [
+            63
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "c8d8ecf6-f1a6-414b-8a7f-89fe1561debd",
+        "PROFESSOR": "LARISSA DE FATIMA CARDOSO DUARTE",
+        "COD_CURS": [
+            63
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "5280c518-60b3-4eea-b052-577ed0dec6f0",
+        "PROFESSOR": "WELTON DIAS DE LIMA",
+        "COD_CURS": [
+            54,
+            10,
+            71
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "488a74c8-234b-466f-810d-a5ffa2ea348e",
+        "PROFESSOR": "ELISA MARA PRIOLI CIAPINA ROCHEDO",
+        "COD_CURS": [
+            34,
+            31,
+            44,
+            58
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "c9219c81-c168-4e61-8956-c12399b9087a",
+        "PROFESSOR": "ALLINY DE MATOS FERRAZ ANDRADE",
+        "COD_CURS": [
+            32,
+            60,
+            22
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "6fa8dea2-9b68-4e50-900b-a937543de558",
+        "PROFESSOR": "IVAN BOUCHARDET DA FONSECA GREBOT",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "8435de95-bcba-4aa6-91f9-94d3ad992a00",
+        "PROFESSOR": "ELOISA ELENA CANGIANI",
+        "COD_CURS": [
+            30,
+            44,
+            34,
+            31
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "8d9fee2b-59bb-4cf4-9b61-591a513443bc",
+        "PROFESSOR": "SAMANTHA LETTIERE GOMES RIBEIRO",
+        "COD_CURS": [
+            58,
+            31
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "a77c8de8-6a6f-4d9b-a087-811b331ff85c",
+        "PROFESSOR": "LAURA NOVAES ANDRADE",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "280fbc0e-b2fc-431c-ad39-e61c1730aaa4",
+        "PROFESSOR": "GISELA PELEGRINELLI",
+        "COD_CURS": [
+            1,
+            37,
+            44,
+            54,
+            4,
+            34,
+            3,
+            19,
+            38,
+            39,
+            40,
+            57,
+            69,
+            21,
+            13,
+            46,
+            5,
+            68,
+            32,
+            33,
+            31,
+            6,
+            7,
+            71,
+            8,
+            9,
+            53,
+            30,
+            58,
+            67,
+            66,
+            49,
+            60,
+            63,
+            48,
+            42,
+            70,
+            22,
+            36,
+            50,
+            11,
+            10
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "b86a9cd8-599f-4dd5-8cf3-119872f71989",
+        "PROFESSOR": "RODRIGO STORCK CARVALHO",
+        "COD_CURS": [
+            58
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "b3fc3994-4366-4983-917e-1f56212c66aa",
+        "PROFESSOR": "ANDREANNE GOMES VASCONCELOS",
+        "COD_CURS": [
+            31,
+            58,
+            44,
+            34
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "3a9a7850-c784-4a50-95c2-bfdef8831f7e",
+        "PROFESSOR": "PEDRO AUGUSTO DA SILVA SOARES",
+        "COD_CURS": [
+            31,
+            48,
+            30,
+            58
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "e763e0dd-5da5-40ab-bc4c-77e9604c4493",
+        "PROFESSOR": "KARILLUCY MENDES DE OLIVEIRA",
+        "COD_CURS": [
+            31
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "216d532a-2459-4e94-9097-f9489bcd023c",
+        "PROFESSOR": "ANDRE LUCAS FIDELIS BARROS",
+        "COD_CURS": [
+            58
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "40fe8513-131b-4332-94df-5ce3ef43ccc6",
+        "PROFESSOR": "JOSE ROBERTO DE SOUZA JUNIOR",
+        "COD_CURS": [
+            58
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "1238b517-e18e-4c93-8dd7-f29ae871d7d8",
+        "PROFESSOR": "LUCIANA FRANCA RIBEIRO",
+        "COD_CURS": [
+            58
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "182484ae-97a6-4f65-9a9d-56ea39afb558",
+        "PROFESSOR": "BRUNA PAIVA DO CARMO MERCEDES",
+        "COD_CURS": [
+            31
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "49c7f3c1-8d9e-4b2f-b53f-9a16c05dcc91",
+        "PROFESSOR": "CLENO COUTO DE MENDONCA NETO",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "37b5708d-693a-4838-875f-ef46343067c0",
+        "PROFESSOR": "ANA CAROLINA ALVES ROCHA",
+        "COD_CURS": [
+            31,
+            30
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "56ec37ec-0ec8-4f5b-837d-2b7d0d5f0a1b",
+        "PROFESSOR": "CAROLINE PISKE DE AZEVEDO BARBOSA",
+        "COD_CURS": [
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "cc700d4b-32f7-4191-abf1-653edb1a0ab9",
+        "PROFESSOR": "IRLENE FERNANDES DIAS",
+        "COD_CURS": [
+            5
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "37fc707e-58ea-44b4-ba00-7ee69ccbd574",
+        "PROFESSOR": "LAIS DA MATA ALMEIDA",
+        "COD_CURS": [
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "dac266c5-53eb-412e-a03e-36b4ec10646b",
+        "PROFESSOR": "RICARDO GADELHA DE ABREU",
+        "COD_CURS": [
+            46,
+            31
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "f2f7a061-d197-4d57-8f6a-c76192063442",
+        "PROFESSOR": "LEONARDO MORAIS DE ARAUJO PINHEIRO",
+        "COD_CURS": [
+            5,
+            1,
+            3,
+            19
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "6cd49fa3-4580-46d4-b6e0-4817240d71cc",
+        "PROFESSOR": "VIVIAN DELLA TORRES PEDROSA",
+        "COD_CURS": [
+            42
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "0b3b3eca-1180-448e-963a-e47118ad5e27",
+        "PROFESSOR": "MARIA VICTORIA SOUTO SILVA",
+        "COD_CURS": [
+            30
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "53e5adb5-03d3-49ef-ab9a-c7c955ddff94",
+        "PROFESSOR": "ANDREA GOMES MORAES",
+        "COD_CURS": [
+            58
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "6735c097-a867-460c-a01f-3f9a3e89fd4c",
+        "PROFESSOR": "BRUNA MARIA BARBOSA DA SILVA FRANÃ‡A",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "e6869d8e-04d2-4d1f-819a-ac377bdd0999",
+        "PROFESSOR": "CRISTIANE PEREIRA VIANNA DE OLIVEIRA",
+        "COD_CURS": [
+            5
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "ee6536cd-b1d4-4059-a7d1-5a86e46cccba",
+        "PROFESSOR": "PATRICIA COSTA BEZERRA",
+        "COD_CURS": [
+            58,
+            48
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "e9cfdcd8-8e6a-4cf5-9166-72e27c02f6f6",
+        "PROFESSOR": "RAYANNE LINHARES AZEVEDO",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "d525ceff-ae76-4c63-b697-921b3e4a0ad9",
+        "PROFESSOR": "DEBORAH ARAUJO MORAIS",
+        "COD_CURS": [
+            44,
+            30
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "a8ce18d5-433b-4534-b022-dae329fd8ab6",
+        "PROFESSOR": "LILIAN ARAUJO FERREIRA ZAIDAN",
+        "COD_CURS": [
+            1,
+            37,
+            44,
+            54,
+            4,
+            34,
+            3,
+            19,
+            38,
+            39,
+            40,
+            57,
+            69,
+            21,
+            13,
+            46,
+            5,
+            68,
+            32,
+            33,
+            31,
+            6,
+            7,
+            71,
+            8,
+            9,
+            53,
+            30,
+            58,
+            67,
+            66,
+            49,
+            60,
+            63,
+            48,
+            42,
+            70,
+            22,
+            36,
+            50,
+            11,
+            10
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "b4a8477d-5af2-4bdf-b757-83bb459e754a",
+        "PROFESSOR": "VERIDIANA CANEZIN GUIMARAES",
+        "COD_CURS": [
+            36
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "28da3e3b-f0dd-4190-911f-fa860e2f7585",
+        "PROFESSOR": "JOSENALVA PEREIRA DA SILVA SALES",
+        "COD_CURS": [
+            46,
+            31,
+            30,
+            36
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "d8672cf0-bc1d-4029-95d6-42dd8feb6a5d",
+        "PROFESSOR": "FREDERICO TEIXEIRA BARBOSA",
+        "COD_CURS": [
+            1,
+            37,
+            44,
+            54,
+            4,
+            34,
+            3,
+            19,
+            38,
+            39,
+            40,
+            57,
+            69,
+            21,
+            13,
+            46,
+            5,
+            68,
+            32,
+            33,
+            31,
+            6,
+            7,
+            71,
+            8,
+            9,
+            53,
+            30,
+            58,
+            67,
+            66,
+            49,
+            60,
+            63,
+            48,
+            42,
+            70,
+            22,
+            36,
+            50,
+            11,
+            10
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "6f961a46-e7c0-42c1-ab3a-694216d511df",
+        "PROFESSOR": "JADE FONSECA OTTONI DE CARVALHO",
+        "COD_CURS": [
+            31
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "ab29992f-3ebe-4a28-83ed-04164fa82b8a",
+        "PROFESSOR": "MARIA ANASTACIA RIBEIRO MAIA CARBONESI",
+        "COD_CURS": [
+            5,
+            66,
+            22,
+            43
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "8419f20f-a531-48f3-83be-eb6dc8943487",
+        "PROFESSOR": "LUCIANO SOUZA ZANZONI",
+        "COD_CURS": [
+            19,
+            57,
+            1,
+            21
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "a7239079-b896-483b-b746-70ee5c9da530",
+        "PROFESSOR": "LUDYMILA DE MOURA BORGES SANTANA",
+        "COD_CURS": [
+            1,
+            3
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "3b074470-bcfb-44a6-8b5f-30423142a9b8",
+        "PROFESSOR": "JOSE ROBERTO FREIRE PIMENTA",
+        "COD_CURS": [
+            5
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "861c0a19-eadf-4dd6-9374-31db30a3d5ae",
+        "PROFESSOR": "SANDSON BARBOSA AZEVEDO",
+        "COD_CURS": [
+            21,
+            3,
+            1
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "ff88a1cb-9bf2-47b1-92be-87bf90305734",
+        "PROFESSOR": "MARIA CAROLINA DIAS CERQUEIRA MASCARENHAS",
+        "COD_CURS": [
+            58
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "a4fe4398-3606-404e-852e-859e08cf03d2",
+        "PROFESSOR": "KRAIN SANTOS DE MELO",
+        "COD_CURS": [
+            44,
+            58
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "63fef476-d171-475e-9e2a-75473d338dfe",
+        "PROFESSOR": "SERGIO ALVES GARCIA",
+        "COD_CURS": [
+            21,
+            1
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "e0598791-7ffc-46bb-bc75-a80dd364753e",
+        "PROFESSOR": "MARCELO FERNANDO BORSIO",
+        "COD_CURS": [
+            5
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "05801f23-f682-42a0-8d6a-670f8db54522",
+        "PROFESSOR": "FABIA DOS SANTOS BOMFIM",
+        "COD_CURS": [
+            31
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "c02d730c-be84-4cd1-b050-20e19678962b",
+        "PROFESSOR": "VICTOR VASCONCELOS CARNAUBA LIMA",
+        "COD_CURS": [
+            63
+        ],
+        "STATUS": "ACTIVE"
+    },
+    {
+        "_id": "a07cfef0-79df-4f4b-a658-da603a335af8",
+        "PROFESSOR": "TERESA ELISA SOUSA DA SILVA",
+        "COD_CURS": [
+            48
+        ],
+        "STATUS": "ACTIVE"
+    }
+]

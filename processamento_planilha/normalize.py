@@ -8,6 +8,7 @@ import json
 from collections import defaultdict
 
 
+
 def carregar_json(caminho_arquivo):
     with open(caminho_arquivo, 'r', encoding='utf-8') as file:
         return json.load(file)
@@ -42,7 +43,7 @@ def agrupar_documentos(dados):
 
     return resultado
 
-disciplinas = 'new_collection/DISCIPLINAS.json'
+disciplinas = 'jsonfiles/DISCIPLINAS.json'
 
 dados = carregar_json(disciplinas)
 

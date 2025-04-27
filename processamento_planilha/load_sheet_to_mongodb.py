@@ -4,7 +4,7 @@ from pymongo import MongoClient
 import os
 
 # Load the Excel file
-file_path = 'sheet.xlsx'  # Replace with your actual file path
+file_path = '../sheet.xlsx'  # Replace with your actual file path
 mongodb_uri = os.getenv("MONGO_URI")
 database_name = "scripts"
 df = pd.read_excel(file_path)
@@ -31,8 +31,8 @@ df_cleaned['NR_SALA'] = df_cleaned['NR_SALA'].fillna('ONLINE').astype(str)  # Se
 df_cleaned['PERIODO'] = df_cleaned['PERIODO'].fillna('não se aplica')  # Fill missing PERIODO
 df_cleaned['PROFESSOR'] = df_cleaned['PROFESSOR'].fillna('Not Yet Allocated to a Teacher')  # Default professor
 
-df_cleaned['ANO'] = 2024  # Set static year
-df_cleaned['SEMESTRE'] = 2  # Set static semester
+df_cleaned['ANO'] = 2025  # Set static year
+df_cleaned['SEMESTRE'] = 1  # Set static semester
 
 # Prepare MongoDB connection
 client = MongoClient(mongodb_uri)
