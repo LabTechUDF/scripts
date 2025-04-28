@@ -17,6 +17,7 @@ class Extraction:
 
         # Clean and rename columns for easier processing
         df_cleaned = df.rename(columns={
+            'Unnamed: 0': 'ID_OFERTA',
             'Unnamed: 1': 'OFERTA',
             'Unnamed: 2': 'COD_DISC',
             'Unnamed: 3': 'DES_DISC',
@@ -83,19 +84,21 @@ class Extraction:
         disciplinas_df = df_cleaned[['COD_DISC', 'DES_DISC', 'COD_CURS', 'CARG_HOR']].drop_duplicates()
         cursos_df = df_cleaned[['COD_CURS', 'DES_CURS']].drop_duplicates()
 
-        professores_df['STATUS'] = teacherstatus
+
 
 
         # Step 4: Create collections for each entity
-        ofertas_collection = df_cleaned[['COD_DISC', 'PERIODO', 'CAMPUS', 'NR_SALA', 'PROFESSOR', 'TOT_MAT']].to_dict(orient='records')
+        ofertas_collection = df_cleaned[['ID_OFERTA','COD_DISC', 'PERIODO', 'CAMPUS', 'NR_SALA', 'PROFESSOR', 'TOT_MAT']].to_dict(orient='records')
         periodos_collection = periodos_df[['_id', 'PERIODO']].to_dict(orient='records')
         disciplinas_collection = disciplinas_df.rename(columns={'COD_DISC': '_id'}).to_dict(orient='records')
         cursos_collection = cursos_df.rename(columns={'COD_CURS': '_id'}).to_dict(orient='records')
         campus_collection = campus_df[['_id', 'CAMPUS']].to_dict(orient='records')
         salas_collection = salas_df[['_id', 'NR_SALA', 'CAMPUS']].to_dict(orient='records')
-        professores_collection = professores_df[['_id', 'PROFESSOR','COD_CURS', 'STATUS']].to_dict(orient='records')
+        professores_collection = professores_df[['_id', 'PROFESSOR','COD_CURS']].to_dict(orient='records')
 
-
+        for item in professores_collection:
+            item['ACTIVE'] = teacherstatus
+            item['_id'] = str(item['_id'])
 
 
 

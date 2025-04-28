@@ -1,757 +1,606 @@
 [
     {
-        "_id": "95a09c27-2281-4623-be0b-ec182dc62043",
         "NR_SALA": "Lab7",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "095cceda-478c-4163-9748-cff5b657f0c5",
         "NR_SALA": "TUT",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "c8d805e6-8ee2-4ab9-a740-fbe876c3f55d",
         "NR_SALA": "T-11",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "b704f675-cb8e-4030-96de-9ceb3427b844",
         "NR_SALA": "T-12",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "7eec97d1-810b-4e85-9349-35d0d4137e91",
         "NR_SALA": "T-14",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "b8f43d32-33a7-483f-8004-9bd7c555fe1c",
         "NR_SALA": "T-15",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "437f6c96-30fa-45ee-975e-bd30961067b2",
         "NR_SALA": "T-16",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "f327ad71-3333-4320-b6e4-a754f0b08d7a",
         "NR_SALA": "T-19",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "a4118589-9880-41f4-89f5-77eef50d8b99",
         "NR_SALA": "T-35",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "e6e70ecf-4608-4d01-81e1-8c732b8806c8",
-        "NR_SALA": 135,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "135",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "0c955642-230c-458e-8b3a-e69e68497b46",
-        "NR_SALA": 202,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "202",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "e83ea5a3-1a90-423a-89b9-2f94357bd853",
-        "NR_SALA": 402,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "402",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "4bbed55a-65ce-437b-b0ed-2768c1bf45cb",
-        "NR_SALA": 403,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "403",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "6265ff75-79fa-4522-9458-ae9851835c56",
-        "NR_SALA": 410,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "410",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "76695928-2641-4a33-b6cf-41eb8eab9e66",
-        "NR_SALA": "NaN",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "ONLINE",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "d7b51cdb-9aca-4140-b1af-ed69ea589061",
         "NR_SALA": "ARQ I",
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "264838fc-e492-4cf0-b52d-e1d04bc996e6",
         "NR_SALA": "LAB 3 - 4R",
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "53f5f234-13b1-4866-b64e-9b0a08b4387c",
         "NR_SALA": "LAB 4 - 4R",
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "ca3b8929-e8c5-4aa2-af86-8faa503fd35e",
         "NR_SALA": "LAB 5 - 4R",
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "df6581be-17e7-45c4-9f87-90e62b27e3ac",
         "NR_SALA": "MAQ",
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "f0015a3b-4d6c-4fd1-a460-6c475264d429",
-        "NR_SALA": 10,
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "NR_SALA": "10",
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "f37607da-1988-445a-b0d8-f216da74c7ff",
-        "NR_SALA": 11,
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "NR_SALA": "11",
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "fcba3983-06db-4c14-93bd-8aaad399248c",
-        "NR_SALA": 14,
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "NR_SALA": "14",
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "f14b5fa6-5516-488c-98e9-9b1e689383d3",
-        "NR_SALA": 21,
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "NR_SALA": "21",
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "e4407aab-6ef3-421d-94b5-67e1ef2dbc0c",
-        "NR_SALA": 22,
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "NR_SALA": "22",
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "b0df6ab5-9749-4f72-84a9-1d701c9b3961",
-        "NR_SALA": "NaN",
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "NR_SALA": "ONLINE",
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "c3185039-8790-41cc-83f8-e4e106e9b6e2",
         "NR_SALA": "T-05",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "0ef14148-7877-454f-bac7-ca3be8f32e87",
         "NR_SALA": "T-29",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "aaab2161-11bf-4ca5-813a-be3e79980634",
         "NR_SALA": "T-34",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "22331ec9-29b6-4d83-a7c6-e9180f90ffdd",
-        "NR_SALA": 101,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "101",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "71d05d99-0527-4367-874f-2357e2bee06d",
-        "NR_SALA": 103,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "103",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "9874ff8e-bfd0-4aee-a943-402d421bc39e",
-        "NR_SALA": 115,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "115",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "2d1f2801-ec89-44d0-b1bb-99da439bde47",
-        "NR_SALA": 203,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "203",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "736461d4-9b51-42da-8ea2-5dab8c24bff1",
-        "NR_SALA": 206,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "206",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "948150eb-28aa-4ea2-b5a0-21a1fd251c53",
-        "NR_SALA": 212,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "212",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "c4cc8034-cb7a-4520-a293-ac3bf269ed85",
-        "NR_SALA": 213,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "213",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "1c35b2c2-9a06-453a-9289-e57e836c0b8e",
-        "NR_SALA": 301,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "301",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "ab34396e-c976-4689-83f2-b728f5265429",
-        "NR_SALA": 303,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "303",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "5d12d531-ec97-482a-b889-f412c7022915",
-        "NR_SALA": 304,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "304",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "1a2dc0d6-8826-462d-8f4d-37919919b9a1",
-        "NR_SALA": 308,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "308",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "3a8ec9b1-4eb0-43a8-8fbb-61565a158564",
-        "NR_SALA": 309,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "309",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "dfb0bfef-47a5-4ff3-a092-5c69ac4f1f1d",
-        "NR_SALA": 401,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "401",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "4f93dc41-d1ba-445f-a415-19becc9abb37",
         "NR_SALA": "LAB 1",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "6aa7bb2c-8fa7-47d7-bd84-2d9cf10b03a8",
         "NR_SALA": "LAB 2",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "a1011d2d-a71c-49cd-a585-eae5e22766b8",
         "NR_SALA": "LAB 2 - 4R",
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "ee34c076-7de8-4a46-8f11-e3117d497bfb",
         "NR_SALA": "LAB 7 - 4R",
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "5623b3a2-ed8a-4c98-bc19-6c0e98a4c92d",
         "NR_SALA": "Lab3",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "9ffe3064-ae4e-4752-bd9f-f3ca7eebb951",
         "NR_SALA": "Lab4",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "76c68e0b-43d0-45d6-a3d8-721d1c3bd97e",
         "NR_SALA": "Lab5",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "981919bc-8a54-47ad-ab08-10422989aea4",
         "NR_SALA": "Lab6",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "4846a908-274e-4d8d-b2a4-d14ba96fd4f7",
-        "NR_SALA": 20,
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "NR_SALA": "20",
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "53e0b7fe-5ae9-4a96-8ccd-b9e4c34e3a70",
-        "NR_SALA": 108,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "108",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "ed122ceb-6508-491b-a917-3051a0ffb0fe",
-        "NR_SALA": 201,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "201",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "f8fdba10-dbca-40a6-b12e-2c17217bb35e",
         "NR_SALA": "T-09",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "dece9ac0-3fd5-4b05-a7aa-c9cd0d8642ed",
         "NR_SALA": "T-10",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "7ed4e550-b485-4d82-86ad-ab9e3c903da4",
         "NR_SALA": "T-18",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "6e55b0c2-1007-4a5f-99cd-c6a15b97a395",
         "NR_SALA": "T-01",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "fbd6a2af-194f-4c3f-887a-9ef015b95e6a",
         "NR_SALA": "T-03",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "2cccce81-c191-4779-8b47-e5929b95918d",
         "NR_SALA": "T-04",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "24443e61-9cd9-4358-9479-5ca778f22d75",
         "NR_SALA": "T-08",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "f8b94d7b-087b-4bbf-b4fa-7e3b6bca989d",
-        "NR_SALA": 105,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "105",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "19dc333e-ad55-40e0-9297-cb774c3e1a48",
-        "NR_SALA": 106,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "106",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "f1c4887d-d44c-4ffa-9aac-32a301f8fb6b",
-        "NR_SALA": 406,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "406",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "6380f34e-78a6-46e7-82f7-ebc5c645fa3b",
-        "NR_SALA": 131,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "131",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "de38abee-93cb-4ade-a6fe-42cb802f3101",
-        "NR_SALA": 132,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "132",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "fab612c6-1843-4c10-8748-2cf6bece8822",
-        "NR_SALA": 133,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "133",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "7534c92b-f553-46a9-b8cc-43485f6a58d3",
-        "NR_SALA": 134,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "134",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "0e2660c5-8f07-43c1-903e-bdec9a93f65b",
-        "NR_SALA": 310,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "310",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "07a319ca-f154-42ba-9c2a-a2af5d3f699f",
-        "NR_SALA": 312,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "312",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "66d217ca-dfc1-40c3-9c7e-a8fffc60d113",
         "NR_SALA": "T-13",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "643f5d04-c8ec-471e-acc2-8e52c94c8044",
         "NR_SALA": "T-17",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "fae61d4d-453a-4093-bb0e-f29725d114a8",
         "NR_SALA": "T-32",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "9fd95809-b7be-4b0e-953f-6075c3ca8609",
-        "NR_SALA": 23,
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "NR_SALA": "23",
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "16cfe2d4-ceab-43cc-b36f-4ec08160333d",
         "NR_SALA": "ARQ II",
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "1dfaff81-4096-44a1-a051-6a7e5eab1455",
         "NR_SALA": "LAB 6 - 4R",
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "222ddd5d-f17b-4eff-af84-9f8dafebb1c8",
-        "NR_SALA": 100,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "100",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "f8585b05-7690-42da-8951-3c576c836872",
-        "NR_SALA": 205,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "205",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "97c099ea-a11a-4801-9885-7843ced08abc",
-        "NR_SALA": 408,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "408",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "9b94fa56-db76-412b-9633-145ef2c0247f",
-        "NR_SALA": 313,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "313",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "e6926803-4fd7-4329-b05e-014fe3a1a2c2",
         "NR_SALA": "T-30",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "9e1e7073-99a6-409b-a2bc-115aafa2c34c",
         "NR_SALA": "T-33",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "8b4e88e9-f4c5-4b74-96f8-337694ad216c",
-        "NR_SALA": 104,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "104",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "1048838c-70d1-4b06-8f3b-a7ee230a62ec",
-        "NR_SALA": 211,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "211",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "6cae91c0-f92e-484c-9acd-2d8434d34815",
         "NR_SALA": "T-23",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "9b97c679-bebc-4b57-857c-b559f695082c",
         "NR_SALA": "T-31",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "0926ec23-f861-41f1-8fa5-70fb61837e6e",
-        "NR_SALA": 113,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "113",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "b4bff9e8-81e8-4719-9868-6f9d3a5a5628",
-        "NR_SALA": 114,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "114",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "81ea7bf0-3386-4e80-9b35-7a67c955ca9a",
-        "NR_SALA": 116,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "116",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "951c34f6-2684-462b-b49d-ed2c85ad0139",
-        "NR_SALA": 117,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "117",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "d7a5430f-a1ed-480e-851f-c735c636b11a",
-        "NR_SALA": 118,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "118",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "29a91a4b-6862-4ffa-bc24-0630b771b3d6",
-        "NR_SALA": 119,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "119",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "0d149723-24fe-4dbf-bc27-97ee5c07676d",
-        "NR_SALA": 120,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "120",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "df5adc5d-7cae-4dac-8fa7-a79a6ae057e7",
-        "NR_SALA": 136,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "136",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "29026aeb-db39-443f-a8ae-9f467a8e3631",
-        "NR_SALA": 204,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "204",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "1c414d65-3c29-4982-b881-cd3413cee8ac",
-        "NR_SALA": 209,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "209",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "1f76ce16-196d-470a-ae96-10adb75b7525",
-        "NR_SALA": 306,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "306",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "35d70855-cd0a-4253-b1e3-e46cd421328d",
         "NR_SALA": "T-22",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "bccc1f13-ef72-461f-afff-50ca0f73ffbe",
-        "NR_SALA": 109,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "109",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "bbbe9e2d-f3a5-4aff-9109-d1227a2e83b1",
-        "NR_SALA": 302,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "302",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "f8a5076f-71ca-400c-8b48-3bbd34b41223",
-        "NR_SALA": 102,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "102",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "c5419554-69b1-4c8c-b8f0-5c295093c6ee",
         "NR_SALA": "T-02",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "78b48e8f-20a9-4ec5-afb2-5ec5c1db2052",
         "NR_SALA": "T-26",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "f3715967-6056-41bc-832e-b268e6aedd6f",
-        "NR_SALA": 107,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "107",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "6a86a861-30b0-4905-b4fa-15ac0664880b",
-        "NR_SALA": 121,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "121",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "303e4bea-bf04-473f-ad6d-36fdb7adfaf7",
-        "NR_SALA": 122,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "122",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "910cd0e7-082b-4d1d-bd67-344144bcd780",
-        "NR_SALA": 123,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "123",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "0f340ba7-8e1e-4f21-b0cb-4d3641396246",
-        "NR_SALA": 124,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "124",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "ee6a7eb7-9467-4997-9767-40ab7050380f",
-        "NR_SALA": 125,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "125",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "21623aeb-ff77-46f1-b9c8-9d8dd54b4141",
-        "NR_SALA": 126,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "126",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "ce7ccfdb-fc80-47f1-aea8-4cd6b745bf3f",
-        "NR_SALA": 127,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "127",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "034e03c0-7f2b-49ef-83c3-59c773429d51",
-        "NR_SALA": 128,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "128",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "f7b58433-4b34-4dbd-b262-9699473c4c41",
-        "NR_SALA": 129,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "129",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "4752dfdb-3e5e-4dd2-8c05-622f07d5693f",
-        "NR_SALA": 130,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "130",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "a75b25a4-53e0-4083-ba94-83a75b4a2d3c",
-        "NR_SALA": 307,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "307",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "20b7bb27-18b7-46c0-a6ff-2e2cc3cc85db",
         "NR_SALA": "LAB 1 - 4R",
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "1d158407-1563-4e2b-9dad-6a68e0b7fa6f",
-        "NR_SALA": 12,
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "NR_SALA": "12",
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "40b5efef-ea1f-4c57-a6d9-a992e7cfc99a",
-        "NR_SALA": 13,
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "NR_SALA": "13",
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "d3c73209-dd9a-4cd2-a478-77a431dda2c5",
-        "NR_SALA": 24,
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "NR_SALA": "24",
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "b489991e-6df1-4aa1-bcfb-e973eb814fa2",
-        "NR_SALA": 25,
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "NR_SALA": "25",
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "f4432d61-4ac8-4f68-9ff7-c729fd725efa",
-        "NR_SALA": 28,
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "NR_SALA": "28",
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "705f3b22-fcfc-4823-8932-be6110e72e63",
-        "NR_SALA": 110,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "110",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "605af056-430e-4e6f-adad-7ba56c146c4f",
-        "NR_SALA": 27,
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "NR_SALA": "27",
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "add54104-2a09-487c-aea5-8779643311cd",
-        "NR_SALA": 15,
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "NR_SALA": "15",
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "97ba3aab-ae11-483f-94db-9b45041365dc",
-        "NR_SALA": 16,
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "NR_SALA": "16",
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "b86b8b67-0046-42fe-b91a-f497c6aff869",
         "NR_SALA": "T-20",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "4cc14589-6dfc-4e77-bb1b-77451e703743",
-        "NR_SALA": 207,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "207",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "e874a5ad-c6bd-4827-883f-80b5003c1cd1",
-        "NR_SALA": 208,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "208",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "92a918dc-aff6-40eb-b469-b27928428068",
-        "NR_SALA": 210,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "210",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "f9436b47-6a09-4c5d-9e8d-daf696ff92c2",
-        "NR_SALA": 305,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "305",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "3583c165-6b7d-4cd6-a220-1d7a2e219e87",
-        "NR_SALA": 311,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "311",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "4ce9e274-4d11-4e41-935f-4c3dd0f77fe1",
         "NR_SALA": "T-21",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "a3dd7437-5b5f-4cf0-a95d-5dc70d4f56f3",
         "NR_SALA": "T-07",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "024e369e-0ee0-403e-b931-bbf29cf0314f",
         "NR_SALA": "LAB RADIO",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "72fd7bf3-6637-4c59-99af-38a4fbb82b8f",
-        "NR_SALA": 30,
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "NR_SALA": "30",
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "21315347-3569-4142-b90a-47d2870d7c0f",
-        "NR_SALA": 31,
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "NR_SALA": "31",
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "05c790d9-5360-424e-b903-b6c9141bc7a1",
-        "NR_SALA": 32,
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "NR_SALA": "32",
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "b6c85ef9-5975-4820-93c9-80b90cc055ca",
-        "NR_SALA": 404,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "404",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "36face05-fa24-4620-a769-794f0ff3484b",
-        "NR_SALA": 405,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "405",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "326de493-4f4d-4c47-bb15-95d65f8f8e07",
-        "NR_SALA": 407,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "407",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "2ff45335-c2ef-4ae8-8ee1-ac96ed43bccc",
-        "NR_SALA": 409,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "409",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "9517a555-f1e7-432e-9d66-868a4abd44b9",
         "NR_SALA": "T-27",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "2d18e443-d322-462c-8f2f-87a57f368e97",
-        "NR_SALA": 26,
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "NR_SALA": "26",
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "2d69d67a-ad26-4d75-9a2d-e17510c6330f",
-        "NR_SALA": 29,
-        "CAMPUS": "EDIFÍCIO REZENDE R. DE REZENDE"
+        "NR_SALA": "29",
+        "CAMPUS": "00242779-b0f0-453b-91cf-bcda79ae25dc"
     },
     {
-        "_id": "505be267-f446-44a9-a351-e92b0956bf4a",
         "NR_SALA": "T-24",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "b0f1076d-1412-4224-b098-1a9141b7c214",
         "NR_SALA": "T-25",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "32b93500-2fa8-4e29-80ac-8247fb16d739",
         "NR_SALA": "T-28",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "77133623-50d8-4076-b31e-8ea4a4a71776",
-        "NR_SALA": 111,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "111",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "ee84718a-a4bf-449e-ab4c-aaa80a687a76",
-        "NR_SALA": 112,
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "NR_SALA": "112",
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "108e3092-be87-438f-b624-2f4ddfa350c0",
         "NR_SALA": "T-06",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "7ded1389-c6bd-4b45-9ade-b156e00f5e2c",
         "NR_SALA": "S-01",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     },
     {
-        "_id": "445056b7-df78-460d-90e3-26546a283f7f",
         "NR_SALA": "S-02",
-        "CAMPUS": "EDIFÍCIO SEDE"
+        "CAMPUS": "be4d8f3a-9a20-4d63-801b-f7b59db0f14d"
     }
 ]

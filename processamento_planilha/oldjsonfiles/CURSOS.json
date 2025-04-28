@@ -1,170 +1,170 @@
 [
     {
-        "_id": 1,
-        "DES_CURS": "ADMINISTRAÇÃO (BACHARELADO)"
+        "COD_CURS": 1,
+        "DES_CURS": "ADMINISTRA\u00c7\u00c3O (BACHARELADO)"
     },
     {
-        "_id": 37,
+        "COD_CURS": 37,
         "DES_CURS": "ARQUITETURA E URBANISMO (BACHARELADO)"
     },
     {
-        "_id": 44,
+        "COD_CURS": 44,
         "DES_CURS": "BIOMEDICINA (BACHARELADO)"
     },
     {
-        "_id": 54,
-        "DES_CURS": "CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)"
+        "COD_CURS": 54,
+        "DES_CURS": "CI\u00caNCIA DA COMPUTA\u00c7\u00c3O (BACHARELADO)"
     },
     {
-        "_id": 4,
-        "DES_CURS": "CIÊNCIA POLÍTICA (BACHARELADO)"
+        "COD_CURS": 4,
+        "DES_CURS": "CI\u00caNCIA POL\u00cdTICA (BACHARELADO)"
     },
     {
-        "_id": 34,
-        "DES_CURS": "CIÊNCIAS BIOLÓGICAS (BACHARELADO)"
+        "COD_CURS": 34,
+        "DES_CURS": "CI\u00caNCIAS BIOL\u00d3GICAS (BACHARELADO)"
     },
     {
-        "_id": 3,
-        "DES_CURS": "CIÊNCIAS CONTÁBEIS (BACHARELADO)"
+        "COD_CURS": 3,
+        "DES_CURS": "CI\u00caNCIAS CONT\u00c1BEIS (BACHARELADO)"
     },
     {
-        "_id": 19,
-        "DES_CURS": "CIÊNCIAS ECONÔMICAS (BACHARELADO)"
+        "COD_CURS": 19,
+        "DES_CURS": "CI\u00caNCIAS ECON\u00d4MICAS (BACHARELADO)"
     },
     {
-        "_id": 38,
-        "DES_CURS": "CST EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS"
+        "COD_CURS": 38,
+        "DES_CURS": "CST EM AN\u00c1LISE E DESENVOLVIMENTO DE SISTEMAS"
     },
     {
-        "_id": 39,
+        "COD_CURS": 39,
         "DES_CURS": "CST EM DESIGN DE INTERIORES"
     },
     {
-        "_id": 40,
-        "DES_CURS": "CST EM DESIGN GRÁFICO"
+        "COD_CURS": 40,
+        "DES_CURS": "CST EM DESIGN GR\u00c1FICO"
     },
     {
-        "_id": 57,
+        "COD_CURS": 57,
         "DES_CURS": "CST EM GASTRONOMIA"
     },
     {
-        "_id": 69,
-        "DES_CURS": "CST EM GESTÃO DE COOPERATIVAS"
+        "COD_CURS": 69,
+        "DES_CURS": "CST EM GEST\u00c3O DE COOPERATIVAS"
     },
     {
-        "_id": 21,
-        "DES_CURS": "CST EM GESTÃO DE RECURSOS HUMANOS"
+        "COD_CURS": 21,
+        "DES_CURS": "CST EM GEST\u00c3O DE RECURSOS HUMANOS"
     },
     {
-        "_id": 13,
-        "DES_CURS": "CST EM GESTÃO PÚBLICA"
+        "COD_CURS": 13,
+        "DES_CURS": "CST EM GEST\u00c3O P\u00daBLICA"
     },
     {
-        "_id": 46,
+        "COD_CURS": 46,
         "DES_CURS": "CST EM RADIOLOGIA"
     },
     {
-        "_id": 5,
+        "COD_CURS": 5,
         "DES_CURS": "DIREITO (BACHARELADO)"
     },
     {
-        "_id": 68,
-        "DES_CURS": "EDUCAÇÃO FÍSICA (ABI)"
+        "COD_CURS": 68,
+        "DES_CURS": "EDUCA\u00c7\u00c3O F\u00cdSICA (ABI)"
     },
     {
-        "_id": 32,
-        "DES_CURS": "EDUCAÇÃO FÍSICA (BACHARELADO)"
+        "COD_CURS": 32,
+        "DES_CURS": "EDUCA\u00c7\u00c3O F\u00cdSICA (BACHARELADO)"
     },
     {
-        "_id": 33,
-        "DES_CURS": "EDUCAÇÃO FÍSICA (LICENCIATURA)"
+        "COD_CURS": 33,
+        "DES_CURS": "EDUCA\u00c7\u00c3O F\u00cdSICA (LICENCIATURA)"
     },
     {
-        "_id": 31,
+        "COD_CURS": 31,
         "DES_CURS": "ENFERMAGEM (BACHARELADO)"
     },
     {
-        "_id": 6,
+        "COD_CURS": 6,
         "DES_CURS": "ENGENHARIA CIVIL (BACHARELADO)"
     },
     {
-        "_id": 7,
-        "DES_CURS": "ENGENHARIA DE PRODUÇÃO (BACHARELADO)"
+        "COD_CURS": 7,
+        "DES_CURS": "ENGENHARIA DE PRODU\u00c7\u00c3O (BACHARELADO)"
     },
     {
-        "_id": 71,
+        "COD_CURS": 71,
         "DES_CURS": "ENGENHARIA DE SOFTWARE (BACHARELADO)"
     },
     {
-        "_id": 8,
-        "DES_CURS": "ENGENHARIA ELÉTRICA (BACHARELADO)"
+        "COD_CURS": 8,
+        "DES_CURS": "ENGENHARIA EL\u00c9TRICA (BACHARELADO)"
     },
     {
-        "_id": 9,
-        "DES_CURS": "ENGENHARIA MECÂNICA (BACHARELADO)"
+        "COD_CURS": 9,
+        "DES_CURS": "ENGENHARIA MEC\u00c2NICA (BACHARELADO)"
     },
     {
-        "_id": 53,
-        "DES_CURS": "ENGENHARIA MECATRÔNICA (BACHARELADO)"
+        "COD_CURS": 53,
+        "DES_CURS": "ENGENHARIA MECATR\u00d4NICA (BACHARELADO)"
     },
     {
-        "_id": 30,
-        "DES_CURS": "FARMÁCIA (BACHARELADO)"
+        "COD_CURS": 30,
+        "DES_CURS": "FARM\u00c1CIA (BACHARELADO)"
     },
     {
-        "_id": 58,
+        "COD_CURS": 58,
         "DES_CURS": "FISIOTERAPIA (BACHARELADO)"
     },
     {
-        "_id": 67,
+        "COD_CURS": 67,
         "DES_CURS": "FONOAUDIOLOGIA (BACHARELADO)"
     },
     {
-        "_id": 66,
-        "DES_CURS": "HISTÓRIA (LICENCIATURA)"
+        "COD_CURS": 66,
+        "DES_CURS": "HIST\u00d3RIA (LICENCIATURA)"
     },
     {
-        "_id": 49,
+        "COD_CURS": 49,
         "DES_CURS": "JORNALISMO (BACHARELADO)"
     },
     {
-        "_id": 60,
-        "DES_CURS": "LETRAS - PORTUGUÊS E INGLÊS (LICENCIATURA)"
+        "COD_CURS": 60,
+        "DES_CURS": "LETRAS - PORTUGU\u00caS E INGL\u00caS (LICENCIATURA)"
     },
     {
-        "_id": 63,
-        "DES_CURS": "MEDICINA VETERINÁRIA (BACHARELADO)"
+        "COD_CURS": 63,
+        "DES_CURS": "MEDICINA VETERIN\u00c1RIA (BACHARELADO)"
     },
     {
-        "_id": 48,
-        "DES_CURS": "NUTRIÇÃO (BACHARELADO)"
+        "COD_CURS": 48,
+        "DES_CURS": "NUTRI\u00c7\u00c3O (BACHARELADO)"
     },
     {
-        "_id": 42,
+        "COD_CURS": 42,
         "DES_CURS": "ODONTOLOGIA (BACHARELADO)"
     },
     {
-        "_id": 70,
-        "DES_CURS": "ÓPTICA E OPTOMETRIA (BACHARELADO)"
+        "COD_CURS": 70,
+        "DES_CURS": "\u00d3PTICA E OPTOMETRIA (BACHARELADO)"
     },
     {
-        "_id": 22,
+        "COD_CURS": 22,
         "DES_CURS": "PEDAGOGIA (LICENCIATURA)"
     },
     {
-        "_id": 36,
+        "COD_CURS": 36,
         "DES_CURS": "PSICOLOGIA (BACHARELADO)"
     },
     {
-        "_id": 50,
+        "COD_CURS": 50,
         "DES_CURS": "PUBLICIDADE E PROPAGANDA (BACHARELADO)"
     },
     {
-        "_id": 11,
-        "DES_CURS": "RELAÇÕES INTERNACIONAIS (BACHARELADO)"
+        "COD_CURS": 11,
+        "DES_CURS": "RELA\u00c7\u00d5ES INTERNACIONAIS (BACHARELADO)"
     },
     {
-        "_id": 10,
-        "DES_CURS": "SISTEMAS DE INFORMAÇÃO (BACHARELADO)"
+        "COD_CURS": 10,
+        "DES_CURS": "SISTEMAS DE INFORMA\u00c7\u00c3O (BACHARELADO)"
     }
 ]
