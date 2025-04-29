@@ -43,15 +43,12 @@ def agrupar_documentos(dados):
 
     return resultado
 
-class NormalizeDisciplinas:
-    @staticmethod
-    def normalize_disciplinas():
-        disciplinas = 'comparedjsonfiles/DISCIPLINAS.json'
+disciplinas = 'comparedjsonfiles/DISCIPLINAS.json'
 
-        dados = carregar_json(disciplinas)
+dados = carregar_json(disciplinas)
 
-        dados_agrupados = agrupar_documentos(dados)
+dados_agrupados = agrupar_documentos(dados)
 
-        salvar_json(disciplinas, dados_agrupados)
+salvar_json(disciplinas, dados_agrupados)
 
-        print("JSON atualizado com sucesso!")
+print("JSON atualizado com sucesso!")
