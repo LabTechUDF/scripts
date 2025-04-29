@@ -1,237 +1,9 @@
 [
     {
-        "DES_DISC": "ECONOMIA",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            1
-        ]
-    },
-    {
-        "DES_DISC": "ESTRUTURAS DE CONCRETO I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO ESPEC\u00cdFICO EM PROCESSOS GRUPAIS",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
-        "DES_DISC": "BIOQU\u00cdMICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31
-        ]
-    },
-    {
-        "DES_DISC": "ENFERMAGEM NA SA\u00daDE COLETIVA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31
-        ]
-    },
-    {
-        "DES_DISC": "FARMACOT\u00c9CNICA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
-    },
-    {
-        "DES_DISC": "BIOQU\u00cdMICA CL\u00cdNICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            44
-        ]
-    },
-    {
-        "DES_DISC": "TEORIA GERAL DA ADMINISTRA\u00c7\u00c3O",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1,
-            3,
-            19,
-            21,
-            10
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO: GEST\u00c3O DA ASSIST\u00caNCIA DE ENFERMAGEM",
-        "CARG_HOR": 400,
-        "COD_CURS": [
-            31
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO: GEST\u00c3O DA ASSIST\u00caNCIA DE ENFERMAGEM NOS SERVI\u00c7OS DE SA\u00daDE",
-        "CARG_HOR": 400,
-        "COD_CURS": [
-            31
-        ]
-    },
-    {
-        "DES_DISC": "AN\u00c1LISE E MELHORIA DE PROCESSOS",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            1
-        ]
-    },
-    {
-        "DES_DISC": "PROJETOS EXPERIMENTAIS EM GEST\u00c3O P\u00daBLICA II",
-        "CARG_HOR": 100,
-        "COD_CURS": [
-            13
-        ]
-    },
-    {
-        "DES_DISC": "ADMINISTRA\u00c7\u00c3O APLICADA \u00c0 ENFERMAGEM",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO DE ODONTOLOGIA EM SA\u00daDE COLETIVA II",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO DE ODONTOLOGIA EM SA\u00daDE COLETIVA III",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
-    },
-    {
-        "DES_DISC": "CL\u00cdNICA INTEGRADA I",
-        "CARG_HOR": 120,
-        "COD_CURS": [
-            42
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM CL\u00cdNICA INTEGRADA II",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
-    },
-    {
-        "DES_DISC": "GEST\u00c3O DE OPERA\u00c7\u00d5ES E SERVI\u00c7OS",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            1
-        ]
-    },
-    {
-        "DES_DISC": "ESTUDO DE CASO I (PLANO DE NEG\u00d3CIOS)",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            1
-        ]
-    },
-    {
-        "DES_DISC": "ESTUDO DE CASO II (DIAGN\u00d3STICO ORGANIZACIONAL)",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            1
-        ]
-    },
-    {
         "DES_DISC": "PROJETO APLICADO II (PROPOSTA DE INTERVEN\u00c7\u00c3O)",
         "CARG_HOR": 80,
         "COD_CURS": [
             1
-        ]
-    },
-    {
-        "DES_DISC": "MEC\u00c2NICA GERAL",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            9
-        ]
-    },
-    {
-        "DES_DISC": "F\u00cdSICA GERAL E EXPERIMENTAL II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6
-        ]
-    },
-    {
-        "DES_DISC": "MATERIAIS DE CONSTRU\u00c7\u00c3O CIVIL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6
-        ]
-    },
-    {
-        "DES_DISC": "HIDR\u00c1ULICA GERAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6
-        ]
-    },
-    {
-        "DES_DISC": "OFICINA INTERDISCIPLINAR I",
-        "CARG_HOR": 50,
-        "COD_CURS": [
-            6
-        ]
-    },
-    {
-        "DES_DISC": "OFICINA INTERDISCIPLINAR II",
-        "CARG_HOR": 50,
-        "COD_CURS": [
-            6
-        ]
-    },
-    {
-        "DES_DISC": "OFICINA INTERDISCIPLINAR III",
-        "CARG_HOR": 50,
-        "COD_CURS": [
-            6
-        ]
-    },
-    {
-        "DES_DISC": "TERMODIN\u00c2MICA APLICADA I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            9
-        ]
-    },
-    {
-        "DES_DISC": "FABRICA\u00c7\u00c3O MEC\u00c2NICA E METROLOGIA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            9
-        ]
-    },
-    {
-        "DES_DISC": "MATERIAIS DE CONSTRU\u00c7\u00c3O MEC\u00c2NICA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            9
-        ]
-    },
-    {
-        "DES_DISC": "PROJETO DE ELEMENTOS DE M\u00c1QUINA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            9
-        ]
-    },
-    {
-        "DES_DISC": "TERMODIN\u00c2MICA APLICADA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            9
         ]
     },
     {
@@ -242,106 +14,141 @@
         ]
     },
     {
-        "DES_DISC": "M\u00c1QUINAS DE ELEVA\u00c7\u00c3O E TRANSPORTE",
+        "DES_DISC": "INTERFACES PARA M\u00cdDIAS DIGITAIS",
         "CARG_HOR": 60,
         "COD_CURS": [
-            9
+            40
         ]
     },
     {
-        "DES_DISC": "SISTEMAS DE REFRIGERA\u00c7\u00c3O E AR CONDICIONADO",
+        "DES_DISC": "PROJETO INTERDISCIPLINAR II",
+        "CARG_HOR": 50,
+        "COD_CURS": [
+            38,
+            40
+        ]
+    },
+    {
+        "DES_DISC": "RADIOLOGIA VETERIN\u00c1RIA",
         "CARG_HOR": 60,
         "COD_CURS": [
-            9
+            46
         ]
     },
     {
-        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO",
-        "CARG_HOR": 100,
-        "COD_CURS": [
-            54
-        ]
-    },
-    {
-        "DES_DISC": "TRABALHO DE CONCLUS\u00c3O DE CURSO",
-        "CARG_HOR": 200,
-        "COD_CURS": [
-            10
-        ]
-    },
-    {
-        "DES_DISC": "T\u00d3PICOS DE DIREITO II",
-        "CARG_HOR": 80,
+        "DES_DISC": "DIREITO CONSTITUCIONAL II",
+        "CARG_HOR": 60,
         "COD_CURS": [
             5
         ]
     },
     {
-        "DES_DISC": "T\u00d3PICOS DE DIREITO III",
-        "CARG_HOR": 80,
+        "DES_DISC": "CRIMINOLOGIA ",
+        "CARG_HOR": 40,
         "COD_CURS": [
             5
         ]
     },
     {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM RADIOLOGIA I",
-        "CARG_HOR": 160,
+        "DES_DISC": "PESQUISA EM EDUCA\u00c7\u00c3O F\u00cdSICA I ",
+        "CARG_HOR": 40,
         "COD_CURS": [
-            46
+            32
         ]
     },
     {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM RADIOLOGIA II",
-        "CARG_HOR": 160,
-        "COD_CURS": [
-            46
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM RADIOLOGIA III",
-        "CARG_HOR": 160,
-        "COD_CURS": [
-            46
-        ]
-    },
-    {
-        "DES_DISC": "PR\u00c1TICAS PEDAG\u00d3GICAS II",
+        "DES_DISC": "MANIFESTA\u00c7\u00d5ES CULTURAIS ESPORTIVAS",
         "CARG_HOR": 60,
         "COD_CURS": [
-            22
+            32,
+            33
         ]
     },
     {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO NOS ANOS INICIAIS DO ENSINO FUNDAMENTAL",
-        "CARG_HOR": 100,
+        "DES_DISC": "ORIENTA\u00c7\u00c3O DE EST\u00c1GIO E DE TRABALHO DE CURSO II",
+        "CARG_HOR": 30,
         "COD_CURS": [
-            22
+            34
         ]
     },
     {
-        "DES_DISC": "COMPUTA\u00c7\u00c3O GR\u00c1FICA",
+        "DES_DISC": "TRABALHO DE GRADUA\u00c7\u00c3O INTERDISCIPLINAR I",
+        "CARG_HOR": 140,
+        "COD_CURS": [
+            54
+        ]
+    },
+    {
+        "DES_DISC": "PROJETO DE LINGUAGENS DE PROGRAMA\u00c7\u00c3O",
         "CARG_HOR": 60,
         "COD_CURS": [
             54
+        ]
+    },
+    {
+        "DES_DISC": "GEST\u00c3O DE MATERIAIS E LOG\u00cdSTICA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            1
+        ]
+    },
+    {
+        "DES_DISC": "PROJETO EXPERIMENTAL II",
+        "CARG_HOR": 150,
+        "COD_CURS": [
+            50
+        ]
+    },
+    {
+        "DES_DISC": "ELETRICIDADE APLICADA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            8,
+            9,
+            53
+        ]
+    },
+    {
+        "DES_DISC": "C\u00c1LCULO DIFERENCIAL E INTEGRAL I",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            6,
+            8,
+            9,
+            53
+        ]
+    },
+    {
+        "DES_DISC": "T\u00c9CNICAS DE PROGRAMA\u00c7\u00c3O",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            71
+        ]
+    },
+    {
+        "DES_DISC": "GEST\u00c3O DE UNIDADES DE ALIMENTA\u00c7\u00c3O E NUTRI\u00c7\u00c3O",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            48
+        ]
+    },
+    {
+        "DES_DISC": "TEND\u00caNCIAS DA HISTORIOGRAFIA CONTEMPOR\u00c2NEA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            66
+        ]
+    },
+    {
+        "DES_DISC": "TERMODIN\u00c2MICA APLICADA II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            9
         ]
     },
     {
         "DES_DISC": "ORIENTA\u00c7\u00c3O DE EST\u00c1GIO E DE TRABALHO DE CURSO I",
         "CARG_HOR": 40,
-        "COD_CURS": [
-            34
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO PROFISSIONALIZANTE I",
-        "CARG_HOR": 180,
-        "COD_CURS": [
-            34
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO PROFISSIONALIZANTE II",
-        "CARG_HOR": 180,
         "COD_CURS": [
             34
         ]
@@ -354,136 +161,10 @@
         ]
     },
     {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO PROFISSIONALIZANTE EM EDUCA\u00c7\u00c3O F\u00cdSICA II",
-        "CARG_HOR": 200,
-        "COD_CURS": [
-            32
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO ESPEC\u00cdFICO EM PSICODIAGN\u00d3STICO",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO ESPEC\u00cdFICO EM PSICOLOGIA INSTITUCIONAL II",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO ESPEC\u00cdFICO EM PROJETO SOCIAL",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO ESPEC\u00cdFICO EM PSICOLOGIA E TRABALHO",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO ESPEC\u00cdFICO EM PSICOTERAPIA",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
-        "DES_DISC": "REGISTRO DE ATENDIMENTO, DIAGN\u00d3STICO E INTERVEN\u00c7\u00c3O I",
-        "CARG_HOR": 100,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO ESPEC\u00cdFICO EM COMUNIDADES",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
         "DES_DISC": "EST\u00c1GIO SUPERVISIONADO ESPEC\u00cdFICO EM PROCESSOS EDUCATIVOS",
         "CARG_HOR": 80,
         "COD_CURS": [
             36
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO ESPEC\u00cdFICO EM PSICOLOGIA E SA\u00daDE",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO ESPEC\u00cdFICO EM ATENDIMENTO COLETIVO",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO ESPEC\u00cdFICO EM PSICOTERAPIA I",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO ESPEC\u00cdFICO EM PSICOTERAPIA II",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
-        "DES_DISC": "REGISTRO DE ATENDIMENTO, DIAGN\u00d3STICO E INTERVEN\u00c7\u00c3O II",
-        "CARG_HOR": 100,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
-        "DES_DISC": "PR\u00c1TICAS INTERDISCIPLINARES I",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            32
-        ]
-    },
-    {
-        "DES_DISC": "TRABALHO DE CURSO",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "CONTABILIDADE E FINAN\u00c7AS ",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            1
-        ]
-    },
-    {
-        "DES_DISC": "GEST\u00c3O ESTRAT\u00c9GICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1
-        ]
-    },
-    {
-        "DES_DISC": "PROJETO INTEGRADOR II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            8
         ]
     },
     {
@@ -508,174 +189,6 @@
         ]
     },
     {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO - \u00c1REA III",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            58
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO - \u00c1REA IV",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            58
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO - \u00c1REA V",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            58
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO - \u00c1REA VI",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            58
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO - \u00c1REA VII",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            58
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO - \u00c1REA VIII",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            58
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO - \u00c1REA IX",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            58
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO - \u00c1REA X",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            58
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM L\u00cdNGUA PORTUGUESA II",
-        "CARG_HOR": 100,
-        "COD_CURS": [
-            60
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM L\u00cdNGUA INGLESA II",
-        "CARG_HOR": 100,
-        "COD_CURS": [
-            60
-        ]
-    },
-    {
-        "DES_DISC": "PARADIGMAS DE LINGUAGENS DE PROGRAMA\u00c7\u00c3O",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            54
-        ]
-    },
-    {
-        "DES_DISC": "FUNDAMENTOS DE INTELIG\u00caNCIA ARTIFICIAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            10
-        ]
-    },
-    {
-        "DES_DISC": "CI\u00caNCIA DE DADOS E APRENDIZAGEM DE M\u00c1QUINA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            54
-        ]
-    },
-    {
-        "DES_DISC": "ODONTOLOGIA RESTAURADORA PR\u00c9-CL\u00cdNICA",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM ATEN\u00c7\u00c3O B\u00c1SICA",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM CL\u00cdNICA INTEGRADA I",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM CL\u00cdNICA INTEGRADA III",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO DA INF\u00c2NCIA E DA ADOLESC\u00caNCIA II",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM CL\u00cdNICA INTEGRADA IV",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM CL\u00cdNICA INTEGRADA V",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
-    },
-    {
-        "DES_DISC": "PATOLOGIA GERAL VETERIN\u00c1RIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            63
-        ]
-    },
-    {
-        "DES_DISC": "HIGIENE E INSPE\u00c7\u00c3O DE PRODUTOS DE ORIGEM ANIMAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            63
-        ]
-    },
-    {
-        "DES_DISC": "ADMINISTRA\u00c7\u00c3O DE CARGOS E SAL\u00c1RIOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            21
-        ]
-    },
-    {
-        "DES_DISC": "DESENVOLVIMENTO ORGANIZACIONAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            21
-        ]
-    },
-    {
         "DES_DISC": "RECRUTAMENTO E SELE\u00c7\u00c3O DE PESSOAS",
         "CARG_HOR": 60,
         "COD_CURS": [
@@ -690,10 +203,1661 @@
         ]
     },
     {
-        "DES_DISC": "PROJETO INTERDISCIPLINAR III",
+        "DES_DISC": "PROJETO INTERDISCIPLINAR I",
+        "CARG_HOR": 50,
+        "COD_CURS": [
+            40
+        ]
+    },
+    {
+        "DES_DISC": "RESSON\u00c2NCIA MAGN\u00c9TICA NUCLEAR",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            46
+        ]
+    },
+    {
+        "DES_DISC": "AVALIA\u00c7\u00c3O PSICOL\u00d3GICA E PR\u00c1TICAS INTEGRATIVAS IV",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            36
+        ]
+    },
+    {
+        "DES_DISC": "PSICOLOGIA E TRABALHO",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            36
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO DO TRABALHO II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "ESTUDOS E INVESTIGA\u00c7\u00c3O EM PSICOLOGIA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            36
+        ]
+    },
+    {
+        "DES_DISC": "PR\u00c1TICA JUR\u00cdDICA III",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "NEUROFISIOLOGIA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            36
+        ]
+    },
+    {
+        "DES_DISC": "MANIFESTA\u00c7\u00d5ES CULTURAIS ESPORTIVAS: ESPORTES COLETIVOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            68,
+            33
+        ]
+    },
+    {
+        "DES_DISC": "ECONOMIA POL\u00cdTICA INTERNACIONAL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            11
+        ]
+    },
+    {
+        "DES_DISC": "ODONTOLOGIA INTEGRADA DA INF\u00c2NCIA E DA ADOLESC\u00caNCIA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            42
+        ]
+    },
+    {
+        "DES_DISC": "TEORIA DA HIST\u00d3RIA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            66
+        ]
+    },
+    {
+        "DES_DISC": "T\u00d3PICOS AVAN\u00c7ADOS EM ADMINISTRA\u00c7\u00c3O ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            1
+        ]
+    },
+    {
+        "DES_DISC": "LABORAT\u00d3RIO CONT\u00c1BIL II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            3
+        ]
+    },
+    {
+        "DES_DISC": "COZINHA BRASILEIRA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            57
+        ]
+    },
+    {
+        "DES_DISC": "PRODU\u00c7\u00c3O PUBLICIT\u00c1RIA AUDIOVISUAL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            50
+        ]
+    },
+    {
+        "DES_DISC": "PR\u00c1TICA DE ENSINO E ORIENTA\u00c7\u00c3O DE EST\u00c1GIO CURRICULAR SUPERVISIONADO EM L\u00cdNGUA INGLESA II",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            60
+        ]
+    },
+    {
+        "DES_DISC": "ENFERMAGEM NA SA\u00daDE DO ADULTO: CUIDADOS SEMI-INTENSIVOS E INTENSIVOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            31
+        ]
+    },
+    {
+        "DES_DISC": "ENFERMAGEM NA SA\u00daDE MENTAL",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            31
+        ]
+    },
+    {
+        "DES_DISC": "ENFERMAGEM NA SA\u00daDE DO IDOSO",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            31
+        ]
+    },
+    {
+        "DES_DISC": "GEOTECNIA APLICADA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            6
+        ]
+    },
+    {
+        "DES_DISC": "HISTOLOGIA ANIMAL ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            63
+        ]
+    },
+    {
+        "DES_DISC": "CL\u00cdNICA CIR\u00daRGICA VETERIN\u00c1RIA II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            63
+        ]
+    },
+    {
+        "DES_DISC": "BIOMEC\u00c2NICA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            58
+        ]
+    },
+    {
+        "DES_DISC": "OBSERVA\u00c7\u00c3O DE PR\u00c1TICAS CL\u00cdNICAS SUPERVISIONADAS I",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            58
+        ]
+    },
+    {
+        "DES_DISC": "PROCESSO DE ENSINO E APRENDIZAGEM E AVALIA\u00c7\u00c3O APLICADA \u00c0 EDUCA\u00c7\u00c3O F\u00cdSICA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            32,
+            33
+        ]
+    },
+    {
+        "DES_DISC": "METODOLOGIA E PR\u00c1TICA DE ENSINO DE HIST\u00d3RIA E ORIENTA\u00c7\u00c3O DE EST\u00c1GIO CURRICULAR SUPERVISIONADO EM HIST\u00d3RIA IV",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            66
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO ESPEC\u00cdFICO EM COMUNIDADES",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            36
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO ESPEC\u00cdFICO EM PSICOLOGIA E SA\u00daDE",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            36
+        ]
+    },
+    {
+        "DES_DISC": "HIGIENE E INSPE\u00c7\u00c3O DE PRODUTOS DE ORIGEM ANIMAL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            63
+        ]
+    },
+    {
+        "DES_DISC": "ERGONOMIA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            39
+        ]
+    },
+    {
+        "DES_DISC": "DIETOTERAPIA II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            48
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO PROCESSUAL DO TRABALHO I",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO PROCESSUAL PENAL I",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO CONSTITUCIONAL I",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            5,
+            11
+        ]
+    },
+    {
+        "DES_DISC": "PATOLOGIA HUMANA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            44,
+            46,
+            31,
+            30,
+            58
+        ]
+    },
+    {
+        "DES_DISC": "FISIOLOGIA HUMANA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            44,
+            34,
+            46,
+            68,
+            31,
+            30,
+            58,
+            67,
+            48
+        ]
+    },
+    {
+        "DES_DISC": "APRENDIZAGEM MOTORA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            32
+        ]
+    },
+    {
+        "DES_DISC": "POL\u00cdTICA INTERNACIONAL CONTEMPOR\u00c2NEA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            11
+        ]
+    },
+    {
+        "DES_DISC": "PR\u00c1TICAS INTERDISCIPLINARES III",
+        "CARG_HOR": 45,
+        "COD_CURS": [
+            32
+        ]
+    },
+    {
+        "DES_DISC": "PALEONTOLOGIA",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            34
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM ODONTOGERIATRIA",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            42
+        ]
+    },
+    {
+        "DES_DISC": "CL\u00cdNICA INTEGRADA II",
+        "CARG_HOR": 120,
+        "COD_CURS": [
+            42
+        ]
+    },
+    {
+        "DES_DISC": "PR\u00c1TICA DE ENSINO E ORIENTA\u00c7\u00c3O DE EST\u00c1GIO CURRICULAR SUPERVISIONADO EM L\u00cdNGUA PORTUGUESA II",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            60
+        ]
+    },
+    {
+        "DES_DISC": "MARKETING APLICADO EM PUBLICIDADE",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            50
+        ]
+    },
+    {
+        "DES_DISC": "SISTEMAS AUTOMOTIVOS ",
         "CARG_HOR": 40,
         "COD_CURS": [
+            9
+        ]
+    },
+    {
+        "DES_DISC": "TRABALHO DE CONCLUS\u00c3O DE CURSO II",
+        "CARG_HOR": 120,
+        "COD_CURS": [
+            9,
+            53
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO IV",
+        "CARG_HOR": 240,
+        "COD_CURS": [
+            30
+        ]
+    },
+    {
+        "DES_DISC": "GEST\u00c3O DE PROJETO EM SISTEMAS DE INFORMA\u00c7\u00c3O",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            10
+        ]
+    },
+    {
+        "DES_DISC": "SEMIOLOGIA E LABORAT\u00d3RIO CL\u00cdNICO VETERIN\u00c1RIO I",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            63
+        ]
+    },
+    {
+        "DES_DISC": "CL\u00cdNICA M\u00c9DICA E TERAP\u00caUTICA DE PEQUENOS ANIMAIS II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            63
+        ]
+    },
+    {
+        "DES_DISC": "FISIOTERAPIA NEUROFUNCIONAL E NA SA\u00daDE DA CRIAN\u00c7A ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            58
+        ]
+    },
+    {
+        "DES_DISC": "INSTALA\u00c7\u00d5ES E EQUIPAMENTOS EL\u00c9TRICOS E HIDR\u00c1ULICOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            37
+        ]
+    },
+    {
+        "DES_DISC": "DESENHO ARQUITET\u00d4NICO",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            37
+        ]
+    },
+    {
+        "DES_DISC": "RELAT\u00d3RIO DE PESQUISA",
+        "CARG_HOR": 160,
+        "COD_CURS": [
+            11
+        ]
+    },
+    {
+        "DES_DISC": "TRABALHO DE CURSO EM MEDICINA VETERIN\u00c1RIA",
+        "CARG_HOR": 40,
+        "COD_CURS": [
+            63
+        ]
+    },
+    {
+        "DES_DISC": "ATUALIDADES EM NUTRI\u00c7\u00c3O",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            48
+        ]
+    },
+    {
+        "DES_DISC": "PROJETOS INTERDISCIPLINARES PARA DOC\u00caNCIA DE HIST\u00d3RIA II ",
+        "CARG_HOR": 20,
+        "COD_CURS": [
+            66
+        ]
+    },
+    {
+        "DES_DISC": "PR\u00c1TICA DE INTEGRA\u00c7\u00c3O: ENSINO-SERVI\u00c7O-COMUNIDADE I",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            31
+        ]
+    },
+    {
+        "DES_DISC": "ESTRUTURAS DE CONCRETO I",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            6
+        ]
+    },
+    {
+        "DES_DISC": "BIOQU\u00cdMICA CL\u00cdNICA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            44
+        ]
+    },
+    {
+        "DES_DISC": "AN\u00c1LISE E MELHORIA DE PROCESSOS",
+        "CARG_HOR": 40,
+        "COD_CURS": [
+            1
+        ]
+    },
+    {
+        "DES_DISC": "FABRICA\u00c7\u00c3O MEC\u00c2NICA E METROLOGIA II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            9
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM RADIOLOGIA I",
+        "CARG_HOR": 160,
+        "COD_CURS": [
+            46
+        ]
+    },
+    {
+        "DES_DISC": "PR\u00c1TICAS PEDAG\u00d3GICAS II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "CONTABILIDADE E FINAN\u00c7AS ",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            1
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO - \u00c1REA VI",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            58
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO - \u00c1REA VIII",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            58
+        ]
+    },
+    {
+        "DES_DISC": "DESENHO T\u00c9CNICO E INFORM\u00c1TICA APLICADA AO DESIGN DE INTERIORES",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            39
+        ]
+    },
+    {
+        "DES_DISC": "HIST\u00d3RIA DE PROCESSOS E DO DESIGN GR\u00c1FICO",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            40
+        ]
+    },
+    {
+        "DES_DISC": "RADIOLOGIA INDUSTRIAL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            46
+        ]
+    },
+    {
+        "DES_DISC": "T\u00c9CNICAS RADIOL\u00d3GICAS",
+        "CARG_HOR": 120,
+        "COD_CURS": [
+            46
+        ]
+    },
+    {
+        "DES_DISC": "INSTITUI\u00c7\u00d5ES POL\u00cdTICAS BRASILEIRAS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            11
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO PROCESSUAL CIVIL IV",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO PREVIDENCI\u00c1RIO",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "IMAGENOLOGIA",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            44
+        ]
+    },
+    {
+        "DES_DISC": "LABORAT\u00d3RIO DE RELA\u00c7\u00d5ES INTERNACIONAIS III",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            11
+        ]
+    },
+    {
+        "DES_DISC": "SEGURAN\u00c7A INTERNACIONAL E DEFESA NACIONAL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            11
+        ]
+    },
+    {
+        "DES_DISC": "FILOGENIA E EVOLU\u00c7\u00c3O",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            34
+        ]
+    },
+    {
+        "DES_DISC": "PROGRAMA\u00c7\u00c3O PARA DISPOSITIVOS M\u00d3VEIS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            38
+        ]
+    },
+    {
+        "DES_DISC": "PROGRAMA\u00c7\u00c3O ORIENTADA A OBJETOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            38
+        ]
+    },
+    {
+        "DES_DISC": "HIST\u00d3RIA CONTEMPOR\u00c2NEA II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            66
+        ]
+    },
+    {
+        "DES_DISC": "GEST\u00c3O DO CONHECIMENTO E DA INOVA\u00c7\u00c3O",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            1
+        ]
+    },
+    {
+        "DES_DISC": "AUDITORIA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            3
+        ]
+    },
+    {
+        "DES_DISC": "LITERATURA DE L\u00cdNGUA PORTUGUESA: PO\u00c9TICA E PROSA II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            60
+        ]
+    },
+    {
+        "DES_DISC": "ENFERMAGEM NA SA\u00daDE DA MULHER: ASSIST\u00caNCIA GINECOL\u00d3GICA  ",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            31
+        ]
+    },
+    {
+        "DES_DISC": "TRANSFER\u00caNCIA DE CALOR ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            9
+        ]
+    },
+    {
+        "DES_DISC": "F\u00cdSICA APLICADA I",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            6,
+            8,
+            9,
+            53
+        ]
+    },
+    {
+        "DES_DISC": "ROB\u00d3TICA INDUSTRIAL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            53
+        ]
+    },
+    {
+        "DES_DISC": "FARMACOBOT\u00c2NICA",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            30
+        ]
+    },
+    {
+        "DES_DISC": "MICROBIOLOGIA GERAL E CL\u00cdNICA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            30
+        ]
+    },
+    {
+        "DES_DISC": "SEGURAN\u00c7A E AUDITORIA DE SISTEMAS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            10
+        ]
+    },
+    {
+        "DES_DISC": "AN\u00c1LISE E PROJETO DE SISTEMAS II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            38
+        ]
+    },
+    {
+        "DES_DISC": "MODELAGEM DE NEG\u00d3CIOS E REQUISITOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            38
+        ]
+    },
+    {
+        "DES_DISC": "PLANEJAMENTO URBANO E REGIONAL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            37
+        ]
+    },
+    {
+        "DES_DISC": "T\u00d3PICOS DE DIREITO I",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "PROJETOS EXPERIMENTAIS EM GEST\u00c3O P\u00daBLICA II",
+        "CARG_HOR": 100,
+        "COD_CURS": [
+            13
+        ]
+    },
+    {
+        "DES_DISC": "CL\u00cdNICA INTEGRADA I",
+        "CARG_HOR": 120,
+        "COD_CURS": [
+            42
+        ]
+    },
+    {
+        "DES_DISC": "M\u00c1QUINAS DE ELEVA\u00c7\u00c3O E TRANSPORTE",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            9
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO",
+        "CARG_HOR": 100,
+        "COD_CURS": [
+            54
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO ESPEC\u00cdFICO EM PSICOLOGIA E TRABALHO",
+        "CARG_HOR": 40,
+        "COD_CURS": [
+            36
+        ]
+    },
+    {
+        "DES_DISC": "EXAMES RADIOL\u00d3GICOS CONTRASTADOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            46
+        ]
+    },
+    {
+        "DES_DISC": "RELA\u00c7\u00d5ES FEDERATIVAS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            4
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO TRIBUT\u00c1RIO II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO TRIBUT\u00c1RIO I",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "GEN\u00c9TICA E IMUNOLOGIA ",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            48
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO III",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO INTERNACIONAL DOS DIREITOS HUMANOS ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            11
+        ]
+    },
+    {
+        "DES_DISC": "T\u00c9CNICAS DE DESENVOLVIMENTO DE ALGORITMOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            54,
+            38,
+            10
+        ]
+    },
+    {
+        "DES_DISC": "LICITA\u00c7\u00d5ES, CONTRATOS E AQUISI\u00c7\u00d5ES NO SETOR P\u00daBLICO",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            13
+        ]
+    },
+    {
+        "DES_DISC": "AUDITORIA E CONTROLADORIA GOVERNAMENTAL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            13
+        ]
+    },
+    {
+        "DES_DISC": "M\u00c9TODOS QUANTITATIVOS PARA A TOMADA DE DECIS\u00c3O",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            3
+        ]
+    },
+    {
+        "DES_DISC": "PROJETOS INTERDISCIPLINARES - GEST\u00c3O",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            50
+        ]
+    },
+    {
+        "DES_DISC": "PRODU\u00c7\u00c3O APLICADA A PROJETO",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            50
+        ]
+    },
+    {
+        "DES_DISC": "DISCURSO, IDENTIDADE E INTERCULTURALIDADE",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            60
+        ]
+    },
+    {
+        "DES_DISC": "ENSINO DE PORTUGU\u00caS COMO L\u00cdNGUA ESTRANGEIRA",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            60
+        ]
+    },
+    {
+        "DES_DISC": "PR\u00c1TICA CL\u00cdNICA DE ENFERMAGEM NA SA\u00daDE DA CRIAN\u00c7A E DO ADOLESCENTE II",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            31
+        ]
+    },
+    {
+        "DES_DISC": "PR\u00c1TICA CL\u00cdNICA DE ENFERMAGEM NA SA\u00daDE DA MULHER: CICLO GRAV\u00cdDICO PUERPERAL",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            31
+        ]
+    },
+    {
+        "DES_DISC": "PR\u00c1TICA CL\u00cdNICA DE ENFERMAGEM NA SA\u00daDE DA CRIAN\u00c7A E DO ADOLESCENTE I",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            31
+        ]
+    },
+    {
+        "DES_DISC": "HIST\u00d3RIA DA EDUCA\u00c7\u00c3O E DA PEDAGOGIA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "TEMAS ESPECIAIS DE CONCRETO ARMADO ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            6
+        ]
+    },
+    {
+        "DES_DISC": "MODELAGEM E CONTROLE DE SISTEMAS I",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            53
+        ]
+    },
+    {
+        "DES_DISC": "EDUCA\u00c7\u00c3O: JOGOS E BRINCADEIRAS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "HEMATOLOGIA E CITOLOGIA CL\u00cdNICA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            30
+        ]
+    },
+    {
+        "DES_DISC": "PR\u00c1TICAS PEDAG\u00d3GICAS II",
+        "CARG_HOR": 66,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "FARM\u00c1CIA HOSPITALAR E CL\u00cdNICA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            30
+        ]
+    },
+    {
+        "DES_DISC": "GEST\u00c3O DE SISTEMAS DE INFORMA\u00c7\u00c3O E M\u00c9TODOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            10
+        ]
+    },
+    {
+        "DES_DISC": "PROJETO INTERDISCIPLINAR",
+        "CARG_HOR": 50,
+        "COD_CURS": [
+            38
+        ]
+    },
+    {
+        "DES_DISC": "FISIOTERAPIA REUMATOL\u00d3GICA E NA SA\u00daDE DO IDOSO",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            58
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO EM ENGENHARIA MEC\u00c2NICA I",
+        "CARG_HOR": 100,
+        "COD_CURS": [
+            9
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM NUTRI\u00c7\u00c3O - \u00c1REA I",
+        "CARG_HOR": 214,
+        "COD_CURS": [
+            48
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM NUTRI\u00c7\u00c3O - \u00c1REA III",
+        "CARG_HOR": 214,
+        "COD_CURS": [
+            48
+        ]
+    },
+    {
+        "DES_DISC": "ELETROMAGNETISMO APLICADO",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            8
+        ]
+    },
+    {
+        "DES_DISC": "AN\u00c1LISE DE SISTEMAS DE POT\u00caNCIA II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            8
+        ]
+    },
+    {
+        "DES_DISC": "DESENVOLVIMENTO DO TRABALHO DE CONCLUS\u00c3O DE CURSO",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            44
+        ]
+    },
+    {
+        "DES_DISC": "HIDR\u00c1ULICA GERAL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            6
+        ]
+    },
+    {
+        "DES_DISC": "OFICINA INTERDISCIPLINAR I",
+        "CARG_HOR": 50,
+        "COD_CURS": [
+            6
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM RADIOLOGIA II",
+        "CARG_HOR": 160,
+        "COD_CURS": [
+            46
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO ESPEC\u00cdFICO EM PROJETO SOCIAL",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            36
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO ESPEC\u00cdFICO EM PSICOTERAPIA",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            36
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO - \u00c1REA VII",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            58
+        ]
+    },
+    {
+        "DES_DISC": "ODONTOLOGIA RESTAURADORA PR\u00c9-CL\u00cdNICA",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            42
+        ]
+    },
+    {
+        "DES_DISC": "MATERIAIS E ACABAMENTOS PARA DESIGN DE INTERIORES ",
+        "CARG_HOR": 40,
+        "COD_CURS": [
+            39
+        ]
+    },
+    {
+        "DES_DISC": "MAMOGRAFIA E DENSITOMETRIA \u00d3SSEA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            46
+        ]
+    },
+    {
+        "DES_DISC": "LEGISLA\u00c7\u00c3O E \u00c9TICA PROFISSIONAL",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "NUTRI\u00c7\u00c3O MATERNO-INFANTIL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            48
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO DO CONSUMIDOR",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO CONSTITUCIONAL III",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "BIOMEDICINA EST\u00c9TICA",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            44
+        ]
+    },
+    {
+        "DES_DISC": "COOPERA\u00c7\u00c3O INTERNACIONAL ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            11
+        ]
+    },
+    {
+        "DES_DISC": "BOT\u00c2NICA ECON\u00d4MICA",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            34
+        ]
+    },
+    {
+        "DES_DISC": "COMPUTABILIDADE E COMPLEXIDADE DE ALGORITMOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            54
+        ]
+    },
+    {
+        "DES_DISC": "PROJETOS INTERDISCIPLINARES - PRODU\u00c7\u00c3O",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            50
+        ]
+    },
+    {
+        "DES_DISC": "ENFERMAGEM NA SA\u00daDE DA CRIAN\u00c7A E DO ADOLESCENTE I",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            31
+        ]
+    },
+    {
+        "DES_DISC": "PR\u00c1TICA CL\u00cdNICA DE ENFERMAGEM NA SA\u00daDE DO IDOSO",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            31
+        ]
+    },
+    {
+        "DES_DISC": "PROJETO E EXECU\u00c7\u00c3O DE RODOVIAS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            6
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO II",
+        "CARG_HOR": 100,
+        "COD_CURS": [
+            53
+        ]
+    },
+    {
+        "DES_DISC": "FUNDAMENTOS METODOL\u00d3GICOS DO ENSINO DE ARTE E DE M\u00daSICA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "TECNOLOGIA E OPERA\u00c7\u00d5ES FARMAC\u00caUTICAS ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            30
+        ]
+    },
+    {
+        "DES_DISC": "GEST\u00c3O E ORGANIZA\u00c7\u00c3O DO TRABALHO PEDAG\u00d3GICO",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "FISIOTERAPIA DERMATOFUNCIONAL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            58
+        ]
+    },
+    {
+        "DES_DISC": "T\u00d3PICOS INTEGRADORES EM FISIOTERAPIA I",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            58
+        ]
+    },
+    {
+        "DES_DISC": "TRABALHO DE CURSO EM ARQUITETURA E URBANISMO I",
+        "CARG_HOR": 140,
+        "COD_CURS": [
+            37
+        ]
+    },
+    {
+        "DES_DISC": "PR\u00c1TICAS DE MULTILETRAMENTOS E TRANSDISCIPLINARIDADE: DESIGN THINKING, PESQUISA E ENSINO IV",
+        "CARG_HOR": 35,
+        "COD_CURS": [
+            60
+        ]
+    },
+    {
+        "DES_DISC": "RESIST\u00caNCIA DOS MATERIAIS ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            6,
+            9
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO: GEST\u00c3O DA ASSIST\u00caNCIA DE ENFERMAGEM NOS SERVI\u00c7OS DE SA\u00daDE",
+        "CARG_HOR": 400,
+        "COD_CURS": [
+            31
+        ]
+    },
+    {
+        "DES_DISC": "ADMINISTRA\u00c7\u00c3O APLICADA \u00c0 ENFERMAGEM",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            31
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM CL\u00cdNICA INTEGRADA II",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            42
+        ]
+    },
+    {
+        "DES_DISC": "MATERIAIS DE CONSTRU\u00c7\u00c3O CIVIL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            6
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO PROFISSIONALIZANTE I",
+        "CARG_HOR": 180,
+        "COD_CURS": [
+            34
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO PROFISSIONALIZANTE II",
+        "CARG_HOR": 180,
+        "COD_CURS": [
+            34
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO ESPEC\u00cdFICO EM PSICOTERAPIA II",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            36
+        ]
+    },
+    {
+        "DES_DISC": "TRABALHO DE CURSO",
+        "CARG_HOR": 40,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO - \u00c1REA IX",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            58
+        ]
+    },
+    {
+        "DES_DISC": "CI\u00caNCIA DE DADOS E APRENDIZAGEM DE M\u00c1QUINA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            54
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM CL\u00cdNICA INTEGRADA I",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            42
+        ]
+    },
+    {
+        "DES_DISC": "DESENVOLVIMENTO ORGANIZACIONAL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
             21
+        ]
+    },
+    {
+        "DES_DISC": "METODOLOGIA DE PROJETO EM DESIGN",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            1,
+            40
+        ]
+    },
+    {
+        "DES_DISC": "INSPE\u00c7\u00c3O RADIOL\u00d3GICA DE SEGURAN\u00c7A ",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            46
+        ]
+    },
+    {
+        "DES_DISC": "POL\u00cdTICAS P\u00daBLICAS E PROCESSO DECIS\u00d3RIO",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            4
+        ]
+    },
+    {
+        "DES_DISC": "RELAT\u00d3RIO DE PESQUISA",
+        "CARG_HOR": 120,
+        "COD_CURS": [
+            4
+        ]
+    },
+    {
+        "DES_DISC": "PSICOLOGIA E EDUCA\u00c7\u00c3O",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            36
+        ]
+    },
+    {
+        "DES_DISC": "PROCESSOS PSICOL\u00d3GICOS B\u00c1SICOS ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            36
+        ]
+    },
+    {
+        "DES_DISC": "BIOLOGIA MOLECULAR E BIOTECNOLOGIA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            44
+        ]
+    },
+    {
+        "DES_DISC": "AN\u00c1LISE DE POL\u00cdTICA EXTERNA BRASILEIRA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            11
+        ]
+    },
+    {
+        "DES_DISC": "ORIENTA\u00c7\u00c3O DE EST\u00c1GIO CURRICULAR SUPERVISIONADO PROFISSIONALIZANTE EM EDUCA\u00c7\u00c3O F\u00cdSICA II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            32
+        ]
+    },
+    {
+        "DES_DISC": "AVALIA\u00c7\u00c3O DAS APTID\u00d5ES F\u00cdSICAS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            32
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM PACIENTES COM NECESSIDADES ESPECIAIS",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            42
+        ]
+    },
+    {
+        "DES_DISC": "MATEM\u00c1TICA ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            1
+        ]
+    },
+    {
+        "DES_DISC": "ESTUDOS LINGUISTICO-DISCURSIVOS EM LINGUA INGLESA  V",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            60
+        ]
+    },
+    {
+        "DES_DISC": "ENFERMAGEM NA SA\u00daDE DA MULHER: CICLO GRAV\u00cdDICO PUERPERAL ",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            31
+        ]
+    },
+    {
+        "DES_DISC": "L\u00cdNGUA BRASILEIRA DE SINAIS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            68,
+            66,
+            60
+        ]
+    },
+    {
+        "DES_DISC": "C\u00c1LCULOS FARMAC\u00caUTICOS",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            30
+        ]
+    },
+    {
+        "DES_DISC": "PR\u00c1TICAS PEDAG\u00d3GICAS ",
+        "CARG_HOR": 70,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO VI",
+        "CARG_HOR": 240,
+        "COD_CURS": [
+            30
+        ]
+    },
+    {
+        "DES_DISC": "ENGENHARIA DE SOFTWARE",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            38,
+            71,
+            10
+        ]
+    },
+    {
+        "DES_DISC": "DOEN\u00c7AS INFECCIOSAS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            63
+        ]
+    },
+    {
+        "DES_DISC": "PR\u00c1TICAS PEDAG\u00d3GICAS III",
+        "CARG_HOR": 66,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM HIST\u00d3RIA IV",
+        "CARG_HOR": 100,
+        "COD_CURS": [
+            66
+        ]
+    },
+    {
+        "DES_DISC": "ELETR\u00d4NICA GERAL ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            9
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO: GEST\u00c3O DA ASSIST\u00caNCIA DE ENFERMAGEM",
+        "CARG_HOR": 400,
+        "COD_CURS": [
+            31
+        ]
+    },
+    {
+        "DES_DISC": "ESTUDO DE CASO II (DIAGN\u00d3STICO ORGANIZACIONAL)",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            1
+        ]
+    },
+    {
+        "DES_DISC": "MEC\u00c2NICA GERAL",
+        "CARG_HOR": 40,
+        "COD_CURS": [
+            9
+        ]
+    },
+    {
+        "DES_DISC": "F\u00cdSICA GERAL E EXPERIMENTAL II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            6
+        ]
+    },
+    {
+        "DES_DISC": "OFICINA INTERDISCIPLINAR II",
+        "CARG_HOR": 50,
+        "COD_CURS": [
+            6
+        ]
+    },
+    {
+        "DES_DISC": "OFICINA INTERDISCIPLINAR III",
+        "CARG_HOR": 50,
+        "COD_CURS": [
+            6
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO ESPEC\u00cdFICO EM PSICOTERAPIA I",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            36
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM CL\u00cdNICA INTEGRADA IV",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            42
+        ]
+    },
+    {
+        "DES_DISC": "DESENVOLVIMENTO DE EMBALAGENS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            40
+        ]
+    },
+    {
+        "DES_DISC": "SA\u00daDE COLETIVA, POL\u00cdTICAS P\u00daBLICAS E DIREITOS HUMANOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            36
+        ]
+    },
+    {
+        "DES_DISC": "IMUNOLOGIA CL\u00cdNICA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            44
+        ]
+    },
+    {
+        "DES_DISC": "TREINAMENTO DE FOR\u00c7A",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            32
+        ]
+    },
+    {
+        "DES_DISC": "TRABALHO DE GRADUA\u00c7\u00c3O INTERDISCIPLINAR II",
+        "CARG_HOR": 140,
+        "COD_CURS": [
+            54
+        ]
+    },
+    {
+        "DES_DISC": "PERIODONTIA CL\u00cdNICA ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            42
+        ]
+    },
+    {
+        "DES_DISC": "DIMENS\u00d5ES POL\u00cdTICAS E SOCIAIS NAS ORGANIZA\u00c7\u00d5ES",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            1
+        ]
+    },
+    {
+        "DES_DISC": "CONTABILIDADE SOCIET\u00c1RIA AVAN\u00c7ADA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            3
+        ]
+    },
+    {
+        "DES_DISC": "METODOLOGIA DE ENSINO DE L\u00cdNGUA INGLESA II",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            60
+        ]
+    },
+    {
+        "DES_DISC": "PR\u00c1TICAS PUBLICIT\u00c1RIAS II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            50
+        ]
+    },
+    {
+        "DES_DISC": "ENFERMAGEM EM CENTRO CIR\u00daRGICO E CENTRAL DE MATERIAL E ESTERILIZA\u00c7\u00c3O",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            31
+        ]
+    },
+    {
+        "DES_DISC": "EDUCA\u00c7\u00c3O N\u00c3O-FORMAL, FAM\u00cdLIA E COMUNIDADE",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "ELETR\u00d4NICA DE POT\u00caNCIA E ATUADORES",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            53
+        ]
+    },
+    {
+        "DES_DISC": "ELEMENTOS DE M\u00c1QUINAS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            53
+        ]
+    },
+    {
+        "DES_DISC": "SISTEMAS DIGITAIS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            53
+        ]
+    },
+    {
+        "DES_DISC": "FILOSOFIA DA EDUCA\u00c7\u00c3O",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "HOMEOPATIA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            30
+        ]
+    },
+    {
+        "DES_DISC": "PR\u00c1TICAS PEDAG\u00d3GICAS IV",
+        "CARG_HOR": 66,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "QU\u00cdMICA GERAL E INORG\u00c2NICA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            30
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO",
+        "CARG_HOR": 150,
+        "COD_CURS": [
+            10
+        ]
+    },
+    {
+        "DES_DISC": "TRABALHO DE CONCLUS\u00c3O DE CURSO EM ENGENHARIA CIVIL II",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            6
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM GEST\u00c3O EDUCACIONAL II",
+        "CARG_HOR": 50,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "HIST\u00d3RIA DO BRASIL REP\u00daBLICA II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            66
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO DE ODONTOLOGIA EM SA\u00daDE COLETIVA III",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            42
+        ]
+    },
+    {
+        "DES_DISC": "PROJETO INTEGRADOR II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            8
         ]
     },
     {
@@ -719,307 +1883,10 @@
         ]
     },
     {
-        "DES_DISC": "DESENHO T\u00c9CNICO E INFORM\u00c1TICA APLICADA AO DESIGN DE INTERIORES",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            39
-        ]
-    },
-    {
-        "DES_DISC": "ERGONOMIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            39
-        ]
-    },
-    {
-        "DES_DISC": "MATERIAIS E ACABAMENTOS PARA DESIGN DE INTERIORES ",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            39
-        ]
-    },
-    {
-        "DES_DISC": "INTERFACES PARA M\u00cdDIAS DIGITAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            40
-        ]
-    },
-    {
-        "DES_DISC": "MOTION DESIGN E NARRATIVAS GR\u00c1FICAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            40
-        ]
-    },
-    {
-        "DES_DISC": "DESENVOLVIMENTO DE EMBALAGENS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            40
-        ]
-    },
-    {
-        "DES_DISC": "ERGONOMIA E PERCEP\u00c7\u00c3O VISUAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            40
-        ]
-    },
-    {
-        "DES_DISC": "METODOLOGIA DE PROJETO EM DESIGN",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1,
-            40
-        ]
-    },
-    {
-        "DES_DISC": "HIST\u00d3RIA DE PROCESSOS E DO DESIGN GR\u00c1FICO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            40
-        ]
-    },
-    {
-        "DES_DISC": "PROJETO GR\u00c1FICO - IDENTIDADE VISUAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            40
-        ]
-    },
-    {
-        "DES_DISC": "PROJETO INTERDISCIPLINAR I",
-        "CARG_HOR": 50,
-        "COD_CURS": [
-            40
-        ]
-    },
-    {
-        "DES_DISC": "PROJETO INTERDISCIPLINAR II",
-        "CARG_HOR": 50,
-        "COD_CURS": [
-            38,
-            40
-        ]
-    },
-    {
-        "DES_DISC": "NEUROANATOMIA RADIOL\u00d3GICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            46
-        ]
-    },
-    {
-        "DES_DISC": "RADIOLOGIA FORENSE",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            46
-        ]
-    },
-    {
-        "DES_DISC": "RADIOLOGIA INDUSTRIAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            46
-        ]
-    },
-    {
-        "DES_DISC": "RESSON\u00c2NCIA MAGN\u00c9TICA NUCLEAR",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            46
-        ]
-    },
-    {
-        "DES_DISC": "ANATOMIA HUMANA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            44,
-            34,
-            68,
-            31,
-            30,
-            58,
-            67,
-            48
-        ]
-    },
-    {
-        "DES_DISC": "MAMOGRAFIA E DENSITOMETRIA \u00d3SSEA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            46
-        ]
-    },
-    {
-        "DES_DISC": "RADIOLOGIA VETERIN\u00c1RIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            46
-        ]
-    },
-    {
         "DES_DISC": "PROCESSAMENTO DE IMAGENS CONVENCIONAIS E DIGITAIS",
         "CARG_HOR": 60,
         "COD_CURS": [
             46
-        ]
-    },
-    {
-        "DES_DISC": "T\u00c9CNICAS RADIOL\u00d3GICAS",
-        "CARG_HOR": 120,
-        "COD_CURS": [
-            46
-        ]
-    },
-    {
-        "DES_DISC": "EXAMES RADIOL\u00d3GICOS CONTRASTADOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            46
-        ]
-    },
-    {
-        "DES_DISC": "INSPE\u00c7\u00c3O RADIOL\u00d3GICA DE SEGURAN\u00c7A ",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            46
-        ]
-    },
-    {
-        "DES_DISC": "AN\u00c1LISE POL\u00cdTICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            4
-        ]
-    },
-    {
-        "DES_DISC": "COMUNICA\u00c7\u00c3O, OPINI\u00c3O P\u00daBLICA E PODER",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            4
-        ]
-    },
-    {
-        "DES_DISC": "FORMA\u00c7\u00c3O ECON\u00d4MICA, POL\u00cdTICA E SOCIAL DO BRASIL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            11
-        ]
-    },
-    {
-        "DES_DISC": "GEOGRAFIA E MEIO AMBIENTE",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            11
-        ]
-    },
-    {
-        "DES_DISC": "POL\u00cdTICAS P\u00daBLICAS E PROCESSO DECIS\u00d3RIO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            4
-        ]
-    },
-    {
-        "DES_DISC": "RELA\u00c7\u00d5ES FEDERATIVAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            4
-        ]
-    },
-    {
-        "DES_DISC": "PROJETO DE PESQUISA ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            4
-        ]
-    },
-    {
-        "DES_DISC": "LABORAT\u00d3RIO POL\u00cdTICO III",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            4
-        ]
-    },
-    {
-        "DES_DISC": "RELAT\u00d3RIO DE PESQUISA",
-        "CARG_HOR": 120,
-        "COD_CURS": [
-            4
-        ]
-    },
-    {
-        "DES_DISC": "INSTITUI\u00c7\u00d5ES POL\u00cdTICAS BRASILEIRAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            11
-        ]
-    },
-    {
-        "DES_DISC": "TEORIA POL\u00cdTICA MODERNA E CONTEMPOR\u00c2NEA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            4
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO CONSTITUCIONAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            4
-        ]
-    },
-    {
-        "DES_DISC": "DIETOTERAPIA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            48
-        ]
-    },
-    {
-        "DES_DISC": "EDUCA\u00c7\u00c3O ALIMENTAR E NUTRICIONAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            48
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO TRIBUT\u00c1RIO II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "LEGISLA\u00c7\u00c3O E \u00c9TICA PROFISSIONAL",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "HIGIENE DOS ALIMENTOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            57,
-            48
-        ]
-    },
-    {
-        "DES_DISC": "SA\u00daDE COLETIVA, POL\u00cdTICAS P\u00daBLICAS E DIREITOS HUMANOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO TRIBUT\u00c1RIO I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
         ]
     },
     {
@@ -1030,289 +1897,8 @@
         ]
     },
     {
-        "DES_DISC": "DIREITO PROCESSUAL DO TRABALHO II",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "AVALIA\u00c7\u00c3O DO ESTADO NUTRICIONAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            48
-        ]
-    },
-    {
-        "DES_DISC": "T\u00c9CNICA DIET\u00c9TICA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            48
-        ]
-    },
-    {
-        "DES_DISC": "NUTRI\u00c7\u00c3O MATERNO-INFANTIL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            48
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO DO CONSUMIDOR",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "FARMACOLOGIA APLICADA \u00c0 NUTRI\u00c7\u00c3O ",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            48
-        ]
-    },
-    {
-        "DES_DISC": "NUTRI\u00c7\u00c3O APLICADA AO EXERC\u00cdCIO F\u00cdSICO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            48
-        ]
-    },
-    {
-        "DES_DISC": "POL\u00cdTICAS P\u00daBLICAS EM NUTRI\u00c7\u00c3O",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            48
-        ]
-    },
-    {
-        "DES_DISC": "BIOLOGIA CELULAR E TECIDUAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            44,
-            34,
-            31,
-            30,
-            58,
-            67,
-            63,
-            48
-        ]
-    },
-    {
-        "DES_DISC": "GEN\u00c9TICA E IMUNOLOGIA ",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            48
-        ]
-    },
-    {
-        "DES_DISC": "AVALIA\u00c7\u00c3O PSICOL\u00d3GICA E PR\u00c1TICAS INTEGRATIVAS IV",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
-        "DES_DISC": "PSICOLOGIA E EDUCA\u00c7\u00c3O",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
-        "DES_DISC": "PSICOLOGIA E TRABALHO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
-        "DES_DISC": "PSICOPATOLOGIA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
-        "DES_DISC": "PSICOLOGIA SOCIAL E COMUNIT\u00c1RIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO ADMINISTRATIVO II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO PROCESSUAL DO TRABALHO I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO EMPRESARIAL II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO ADMINISTRATIVO I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO DO TRABALHO II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO PROCESSUAL PENAL II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO DO TRABALHO I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO PROCESSUAL PENAL I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "BASES BIOL\u00d3GICAS DOS PROCESSOS PSICOL\u00d3GICOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO CONSTITUCIONAL II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
         "DES_DISC": "DIREITO EMPRESARIAL I",
         "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO PENAL II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "TEORIAS DA PERSONALIDADE II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
-        "DES_DISC": "ESTUDOS E INVESTIGA\u00c7\u00c3O EM PSICOLOGIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
-        "DES_DISC": "CRIMINOLOGIA ",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO CONSTITUCIONAL I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5,
-            11
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO PENAL I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO PROCESSUAL CIVIL I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO CONSTITUCIONAL III",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO PENAL III",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO PROCESSUAL CIVIL II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO PENAL IV",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO PROCESSUAL CIVIL III",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO PROCESSUAL CIVIL IV",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO CIVIL VI",
-        "CARG_HOR": 30,
         "COD_CURS": [
             5
         ]
@@ -1332,368 +1918,10 @@
         ]
     },
     {
-        "DES_DISC": "PR\u00c1TICA JUR\u00cdDICA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO II",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "PR\u00c1TICA JUR\u00cdDICA III",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO III",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO PREVIDENCI\u00c1RIO",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "T\u00d3PICOS DE DIREITO IV",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO IV",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "PROCESSOS PSICOL\u00d3GICOS B\u00c1SICOS ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
-        "DES_DISC": "NEUROFISIOLOGIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
-        "DES_DISC": "INTRODU\u00c7\u00c3O AO ESTUDO DO DIREITO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "BIOQU\u00cdMICA CL\u00cdNICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
-    },
-    {
-        "DES_DISC": "HEMATOLOGIA CL\u00cdNICA E BANCO DE SANGUE",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            44
-        ]
-    },
-    {
-        "DES_DISC": "IMAGENOLOGIA",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            44
-        ]
-    },
-    {
-        "DES_DISC": "BIOMEDICINA EST\u00c9TICA",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            44
-        ]
-    },
-    {
-        "DES_DISC": "PATOLOGIA HUMANA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            44,
-            46,
-            31,
-            30,
-            58
-        ]
-    },
-    {
-        "DES_DISC": "IMUNOLOGIA CL\u00cdNICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            44
-        ]
-    },
-    {
-        "DES_DISC": "BIOLOGIA MOLECULAR E BIOTECNOLOGIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            44
-        ]
-    },
-    {
-        "DES_DISC": "FISIOLOGIA HUMANA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            44,
-            34,
-            46,
-            68,
-            31,
-            30,
-            58,
-            67,
-            48
-        ]
-    },
-    {
-        "DES_DISC": "BASES TE\u00d3RICO-PR\u00c1TICAS DO CONDICIONAMENTO F\u00cdSICO ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32,
-            33
-        ]
-    },
-    {
-        "DES_DISC": "TREINAMENTO DE FOR\u00c7A",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32
-        ]
-    },
-    {
-        "DES_DISC": "PESQUISA EM EDUCA\u00c7\u00c3O F\u00cdSICA I ",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            32
-        ]
-    },
-    {
-        "DES_DISC": "PESQUISA EM EDUCA\u00c7\u00c3O F\u00cdSICA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32
-        ]
-    },
-    {
-        "DES_DISC": "MANIFESTA\u00c7\u00d5ES CULTURAIS ESPORTIVAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32,
-            33
-        ]
-    },
-    {
-        "DES_DISC": "MANIFESTA\u00c7\u00d5ES CULTURAIS R\u00cdTMICAS E EXPRESSIVAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32
-        ]
-    },
-    {
-        "DES_DISC": "AN\u00c1LISE DE POL\u00cdTICA EXTERNA BRASILEIRA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            11
-        ]
-    },
-    {
-        "DES_DISC": "ORGANIZA\u00c7\u00d5ES INTERNACIONAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            11
-        ]
-    },
-    {
-        "DES_DISC": "LABORAT\u00d3RIO DE RELA\u00c7\u00d5ES INTERNACIONAIS III",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            11
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO INTERNACIONAL DOS DIREITOS HUMANOS ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            11
-        ]
-    },
-    {
-        "DES_DISC": "SEGURAN\u00c7A INTERNACIONAL E DEFESA NACIONAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            11
-        ]
-    },
-    {
-        "DES_DISC": "AN\u00c1LISE DAS RELA\u00c7\u00d5ES INTERNACIONAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            11
-        ]
-    },
-    {
-        "DES_DISC": "COOPERA\u00c7\u00c3O INTERNACIONAL ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            11
-        ]
-    },
-    {
-        "DES_DISC": "MANIFESTA\u00c7\u00d5ES CULTURAIS ESPORTIVAS: ESPORTES COLETIVOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            68,
-            33
-        ]
-    },
-    {
-        "DES_DISC": "APRENDIZAGEM MOTORA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32
-        ]
-    },
-    {
-        "DES_DISC": "METODOLOGIA DO TREINAMENTO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32
-        ]
-    },
-    {
-        "DES_DISC": "POL\u00cdTICA INTERNACIONAL CONTEMPOR\u00c2NEA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            11
-        ]
-    },
-    {
         "DES_DISC": "HIST\u00d3RIA DAS RELA\u00c7\u00d5ES INTERNACIONAIS",
         "CARG_HOR": 60,
         "COD_CURS": [
             11
-        ]
-    },
-    {
-        "DES_DISC": "GIN\u00c1STICA COLETIVA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32
-        ]
-    },
-    {
-        "DES_DISC": "ECONOMIA POL\u00cdTICA INTERNACIONAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            11
-        ]
-    },
-    {
-        "DES_DISC": "ORIENTA\u00c7\u00c3O DE EST\u00c1GIO CURRICULAR SUPERVISIONADO PROFISSIONALIZANTE EM EDUCA\u00c7\u00c3O F\u00cdSICA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32
-        ]
-    },
-    {
-        "DES_DISC": "PR\u00c1TICAS INTERDISCIPLINARES III",
-        "CARG_HOR": 45,
-        "COD_CURS": [
-            32
-        ]
-    },
-    {
-        "DES_DISC": "PR\u00c1TICAS INTERDISCIPLINARES IV",
-        "CARG_HOR": 45,
-        "COD_CURS": [
-            32
-        ]
-    },
-    {
-        "DES_DISC": "MANIFESTA\u00c7\u00d5ES CULTURAIS G\u00cdMNICAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            68
-        ]
-    },
-    {
-        "DES_DISC": "ORIENTA\u00c7\u00c3O DE EST\u00c1GIO E DE TRABALHO DE CURSO II",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            34
-        ]
-    },
-    {
-        "DES_DISC": "ELABORA\u00c7\u00c3O DO TRABALHO DE CURSO II",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            34
-        ]
-    },
-    {
-        "DES_DISC": "PR\u00c1TICAS LABORATORIAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            34
-        ]
-    },
-    {
-        "DES_DISC": "BOT\u00c2NICA ECON\u00d4MICA",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            34
-        ]
-    },
-    {
-        "DES_DISC": "AVALIA\u00c7\u00c3O DAS APTID\u00d5ES F\u00cdSICAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32
-        ]
-    },
-    {
-        "DES_DISC": "JOGOS E BRINCADEIRAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32
-        ]
-    },
-    {
-        "DES_DISC": "FILOGENIA E EVOLU\u00c7\u00c3O",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            34
-        ]
-    },
-    {
-        "DES_DISC": "PALEONTOLOGIA",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            34
         ]
     },
     {
@@ -1704,217 +1932,8 @@
         ]
     },
     {
-        "DES_DISC": "EDUCA\u00c7\u00c3O AMBIENTAL",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            34
-        ]
-    },
-    {
-        "DES_DISC": "ECOLOGIA AQU\u00c1TICA",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            34
-        ]
-    },
-    {
-        "DES_DISC": "ELABORA\u00c7\u00c3O DE TRABALHO DE CURSO II",
-        "CARG_HOR": 50,
-        "COD_CURS": [
-            34
-        ]
-    },
-    {
-        "DES_DISC": "RESTAURA\u00c7\u00c3O DE \u00c1REAS DEGRADADAS E BIOMONITORAMENTO",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            34
-        ]
-    },
-    {
-        "DES_DISC": "SISTEMAS OPERACIONAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            54,
-            38
-        ]
-    },
-    {
-        "DES_DISC": "AN\u00c1LISE E PROJETO DE SISTEMAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            54,
-            10
-        ]
-    },
-    {
-        "DES_DISC": "COMPUTABILIDADE E COMPLEXIDADE DE ALGORITMOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            54
-        ]
-    },
-    {
-        "DES_DISC": "PROGRAMA\u00c7\u00c3O PARA DISPOSITIVOS M\u00d3VEIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            38
-        ]
-    },
-    {
-        "DES_DISC": "TRABALHO DE GRADUA\u00c7\u00c3O INTERDISCIPLINAR I",
-        "CARG_HOR": 140,
-        "COD_CURS": [
-            54
-        ]
-    },
-    {
-        "DES_DISC": "PROJETO DE LINGUAGENS DE PROGRAMA\u00c7\u00c3O",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            54
-        ]
-    },
-    {
-        "DES_DISC": "TRABALHO DE GRADUA\u00c7\u00c3O INTERDISCIPLINAR II",
-        "CARG_HOR": 140,
-        "COD_CURS": [
-            54
-        ]
-    },
-    {
-        "DES_DISC": "PROGRAMA\u00c7\u00c3O WEB",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            54,
-            38,
-            71
-        ]
-    },
-    {
-        "DES_DISC": "T\u00c9CNICAS DE DESENVOLVIMENTO DE ALGORITMOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            54,
-            38,
-            10
-        ]
-    },
-    {
-        "DES_DISC": "PROGRAMA\u00c7\u00c3O ORIENTADA A OBJETOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            38
-        ]
-    },
-    {
-        "DES_DISC": "ORGANIZA\u00c7\u00c3O E ARQUITETURA DE COMPUTADORES",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            38
-        ]
-    },
-    {
-        "DES_DISC": "LICITA\u00c7\u00d5ES, CONTRATOS E AQUISI\u00c7\u00d5ES NO SETOR P\u00daBLICO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            13
-        ]
-    },
-    {
-        "DES_DISC": "PLANEJAMENTO ESTRAT\u00c9GICO E GEST\u00c3O DE PROGRAMAS P\u00daBLICOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            13
-        ]
-    },
-    {
-        "DES_DISC": "POL\u00cdTICAS P\u00daBLICAS, MONITORAMENTO E AVALIA\u00c7\u00c3O",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            13
-        ]
-    },
-    {
-        "DES_DISC": "AUDITORIA E CONTROLADORIA GOVERNAMENTAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            13
-        ]
-    },
-    {
-        "DES_DISC": "ENDODONTIA CL\u00cdNICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            42
-        ]
-    },
-    {
-        "DES_DISC": "ODONTOLOGIA INTEGRADA DA INF\u00c2NCIA E DA ADOLESC\u00caNCIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            42
-        ]
-    },
-    {
-        "DES_DISC": "PERIODONTIA CL\u00cdNICA ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            42
-        ]
-    },
-    {
-        "DES_DISC": "REABILITA\u00c7\u00c3O ODONTOL\u00d3GICA PROT\u00c9TICA I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            42
-        ]
-    },
-    {
         "DES_DISC": "CIRURGIA ORAL II",
         "CARG_HOR": 60,
-        "COD_CURS": [
-            42
-        ]
-    },
-    {
-        "DES_DISC": "ODONTOLOGIA INTEGRADA DO ADULTO E DO IDOSO ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            42
-        ]
-    },
-    {
-        "DES_DISC": "PACIENTES COM NECESSIDADES ESPECIAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            42
-        ]
-    },
-    {
-        "DES_DISC": "TRABALHO DE CONCLUS\u00c3O DE CURSO EM ODONTOLOGIA I",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            42
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM ODONTOGERIATRIA",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
-    },
-    {
-        "DES_DISC": "TRABALHO DE CONCLUS\u00c3O DE CURSO EM ODONTOLOGIA II",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            42
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM PACIENTES COM NECESSIDADES ESPECIAIS",
-        "CARG_HOR": 80,
         "COD_CURS": [
             42
         ]
@@ -1927,305 +1946,8 @@
         ]
     },
     {
-        "DES_DISC": "CL\u00cdNICA INTEGRADA II",
-        "CARG_HOR": 120,
-        "COD_CURS": [
-            42
-        ]
-    },
-    {
-        "DES_DISC": "HIST\u00d3RIA CONTEMPOR\u00c2NEA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            66
-        ]
-    },
-    {
-        "DES_DISC": "TEORIA DA HIST\u00d3RIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            66
-        ]
-    },
-    {
-        "DES_DISC": "JOGOS EMPRESARIAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1
-        ]
-    },
-    {
-        "DES_DISC": "T\u00d3PICOS AVAN\u00c7ADOS EM ADMINISTRA\u00c7\u00c3O ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1
-        ]
-    },
-    {
-        "DES_DISC": "DIMENS\u00d5ES POL\u00cdTICAS E SOCIAIS NAS ORGANIZA\u00c7\u00d5ES",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1
-        ]
-    },
-    {
-        "DES_DISC": "GEST\u00c3O AVAN\u00c7ADA DE MARKETING ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1,
-            19
-        ]
-    },
-    {
-        "DES_DISC": "GEST\u00c3O DA QUALIDADE",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1
-        ]
-    },
-    {
-        "DES_DISC": "GEST\u00c3O DE MATERIAIS E LOG\u00cdSTICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1
-        ]
-    },
-    {
-        "DES_DISC": "CRIA\u00c7\u00c3O E DESENVOLVIMENTO DE NOVOS NEG\u00d3CIOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1
-        ]
-    },
-    {
-        "DES_DISC": "GEST\u00c3O DO CONHECIMENTO E DA INOVA\u00c7\u00c3O",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1
-        ]
-    },
-    {
-        "DES_DISC": "GEST\u00c3O DE PROJETOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1
-        ]
-    },
-    {
-        "DES_DISC": "ADMINISTRA\u00c7\u00c3O FINANCEIRA E OR\u00c7AMENT\u00c1RIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            3
-        ]
-    },
-    {
-        "DES_DISC": "GEST\u00c3O DE MARKETING",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1,
-            19
-        ]
-    },
-    {
-        "DES_DISC": "GEST\u00c3O DE OPERA\u00c7\u00d5ES E SERVI\u00c7OS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1
-        ]
-    },
-    {
-        "DES_DISC": "CONTABILIDADE GERAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            3
-        ]
-    },
-    {
-        "DES_DISC": "MATEM\u00c1TICA ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO EMPRESARIAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1,
-            3
-        ]
-    },
-    {
-        "DES_DISC": "CONTABILIDADE SOCIET\u00c1RIA AVAN\u00c7ADA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            3
-        ]
-    },
-    {
-        "DES_DISC": "PER\u00cdCIA CONT\u00c1BIL E ARBITRAGEM",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            3
-        ]
-    },
-    {
-        "DES_DISC": "AUDITORIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            3
-        ]
-    },
-    {
-        "DES_DISC": "T\u00d3PICOS CONTEMPOR\u00c2NEOS EM CONTABILIDADE P\u00daBLICA E PRIVADA I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            3
-        ]
-    },
-    {
-        "DES_DISC": "M\u00c9TODOS QUANTITATIVOS PARA A TOMADA DE DECIS\u00c3O",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            3
-        ]
-    },
-    {
-        "DES_DISC": "LABORAT\u00d3RIO CONT\u00c1BIL II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            3
-        ]
-    },
-    {
-        "DES_DISC": "MANUSEIO DE CARNES, AVES E PESCADOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            57
-        ]
-    },
-    {
-        "DES_DISC": "CONTABILIDADE PARA ATIVIDADES ESPEC\u00cdFICAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            3
-        ]
-    },
-    {
-        "DES_DISC": "COZINHA BRASILEIRA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            57
-        ]
-    },
-    {
-        "DES_DISC": "ESTRUTURA E ELABORA\u00c7\u00c3O DAS DEMONSTRA\u00c7\u00d5ES CONT\u00c1BEIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            3
-        ]
-    },
-    {
-        "DES_DISC": "ESTUDOS LINGU\u00cdSTICO-DISCURSIVOS EM L\u00cdNGUA INGLESA III",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            60
-        ]
-    },
-    {
-        "DES_DISC": "LITERATURA DE L\u00cdNGUA PORTUGUESA: PO\u00c9TICA E PROSA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            60
-        ]
-    },
-    {
-        "DES_DISC": "METODOLOGIA DE ENSINO DE L\u00cdNGUA INGLESA II",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            60
-        ]
-    },
-    {
-        "DES_DISC": "METODOLOGIA DE ENSINO DE L\u00cdNGUA PORTUGUESA II",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            60
-        ]
-    },
-    {
-        "DES_DISC": "PR\u00c1TICA DE ENSINO E ORIENTA\u00c7\u00c3O DE EST\u00c1GIO CURRICULAR SUPERVISIONADO EM L\u00cdNGUA PORTUGUESA II",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            60
-        ]
-    },
-    {
         "DES_DISC": "PRODU\u00c7\u00c3O GR\u00c1FICA E GEST\u00c3O DE MARCAS",
         "CARG_HOR": 60,
-        "COD_CURS": [
-            50
-        ]
-    },
-    {
-        "DES_DISC": "PRODU\u00c7\u00c3O PUBLICIT\u00c1RIA AUDIOVISUAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            50
-        ]
-    },
-    {
-        "DES_DISC": "PROJETOS INTERDISCIPLINARES - GEST\u00c3O",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            50
-        ]
-    },
-    {
-        "DES_DISC": "PRODU\u00c7\u00c3O APLICADA A PROJETO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            50
-        ]
-    },
-    {
-        "DES_DISC": "PROJETO EXPERIMENTAL II",
-        "CARG_HOR": 150,
-        "COD_CURS": [
-            50
-        ]
-    },
-    {
-        "DES_DISC": "DISCURSO, IDENTIDADE E INTERCULTURALIDADE",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            60
-        ]
-    },
-    {
-        "DES_DISC": "ENSINO DE PORTUGU\u00caS COMO L\u00cdNGUA ESTRANGEIRA",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            60
-        ]
-    },
-    {
-        "DES_DISC": "PR\u00c1TICA DE ENSINO E ORIENTA\u00c7\u00c3O DE EST\u00c1GIO CURRICULAR SUPERVISIONADO EM L\u00cdNGUA INGLESA II",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            60
-        ]
-    },
-    {
-        "DES_DISC": "MARKETING APLICADO EM PUBLICIDADE",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            50
-        ]
-    },
-    {
-        "DES_DISC": "PROJETOS INTERDISCIPLINARES - CRIA\u00c7\u00c3O",
-        "CARG_HOR": 30,
         "COD_CURS": [
             50
         ]
@@ -2239,21 +1961,6 @@
         ]
     },
     {
-        "DES_DISC": "TEORIAS DA COMUNICA\u00c7\u00c3O",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            49,
-            50
-        ]
-    },
-    {
-        "DES_DISC": "ATENDIMENTO E PLANEJAMENTO PUBLICIT\u00c1RIO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            50
-        ]
-    },
-    {
         "DES_DISC": "PROJETOS INTERDISCIPLINARES - PLANEJAMENTO",
         "CARG_HOR": 30,
         "COD_CURS": [
@@ -2261,22 +1968,141 @@
         ]
     },
     {
-        "DES_DISC": "CRIA\u00c7\u00c3O E ARTE PUBLICIT\u00c1RIA",
+        "DES_DISC": "DIFICULDADES DE APRENDIZAGEM",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "EDUCA\u00c7\u00c3O DE JOVENS E ADULTOS: FUNDAMENTOS E PR\u00c1TICAS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM GEST\u00c3O EDUCACIONAL II",
+        "CARG_HOR": 50,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "CINESIOLOGIA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            68
+        ]
+    },
+    {
+        "DES_DISC": "TEORIA DA ARQUITETURA, DO URBANISMO E DO PAISAGISMO",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            37
+        ]
+    },
+    {
+        "DES_DISC": "GEST\u00c3O DE OPERA\u00c7\u00d5ES, LOG\u00cdSTICA DE MATERIAIS E PATRIM\u00d4NIO NO SERVI\u00c7O P\u00daBLICO",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            13
+        ]
+    },
+    {
+        "DES_DISC": "T\u00d3PICOS INTEGRADORES EM FISIOTERAPIA II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            58
+        ]
+    },
+    {
+        "DES_DISC": "ESTRAT\u00c9GIAS E T\u00c1TICAS DE M\u00cdDIA",
         "CARG_HOR": 60,
         "COD_CURS": [
             50
         ]
     },
     {
-        "DES_DISC": "PROJETOS INTERDISCIPLINARES - PRODU\u00c7\u00c3O",
+        "DES_DISC": "PRINC\u00cdPIOS DA COMUNICA\u00c7\u00c3O APLICADA ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            8
+        ]
+    },
+    {
+        "DES_DISC": "ESTUDO DE CASO I (PLANO DE NEG\u00d3CIOS)",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            1
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO - \u00c1REA V",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            58
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO - \u00c1REA X",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            58
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO DA INF\u00c2NCIA E DA ADOLESC\u00caNCIA II",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            42
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO DO TRABALHO I",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO PROCESSUAL CIVIL I",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "ORGANIZA\u00c7\u00d5ES INTERNACIONAIS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            11
+        ]
+    },
+    {
+        "DES_DISC": "MANIFESTA\u00c7\u00d5ES CULTURAIS G\u00cdMNICAS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            68
+        ]
+    },
+    {
+        "DES_DISC": "ECOLOGIA AQU\u00c1TICA",
         "CARG_HOR": 30,
         "COD_CURS": [
-            50
+            34
         ]
     },
     {
-        "DES_DISC": "PR\u00c1TICAS PUBLICIT\u00c1RIAS II",
+        "DES_DISC": "POL\u00cdTICAS P\u00daBLICAS, MONITORAMENTO E AVALIA\u00c7\u00c3O",
         "CARG_HOR": 60,
+        "COD_CURS": [
+            13
+        ]
+    },
+    {
+        "DES_DISC": "PROJETOS INTERDISCIPLINARES - CRIA\u00c7\u00c3O",
+        "CARG_HOR": 30,
         "COD_CURS": [
             50
         ]
@@ -2286,62 +2112,6 @@
         "CARG_HOR": 40,
         "COD_CURS": [
             60
-        ]
-    },
-    {
-        "DES_DISC": "ESTUDOS LINGUISTICO-DISCURSIVOS EM LINGUA INGLESA  V",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            60
-        ]
-    },
-    {
-        "DES_DISC": "LITERATURA BRASILEIRA: PO\u00c9TICA E PROSA I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            60
-        ]
-    },
-    {
-        "DES_DISC": "ENFERMAGEM NA SA\u00daDE DA CRIAN\u00c7A E DO ADOLESCENTE II",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            31
-        ]
-    },
-    {
-        "DES_DISC": "ENFERMAGEM NA SA\u00daDE DA MULHER: CICLO GRAV\u00cdDICO PUERPERAL ",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            31
-        ]
-    },
-    {
-        "DES_DISC": "ENFERMAGEM NA SA\u00daDE DO ADULTO: CUIDADOS SEMI-INTENSIVOS E INTENSIVOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31
-        ]
-    },
-    {
-        "DES_DISC": "ENFERMAGEM NA SA\u00daDE MENTAL",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            31
-        ]
-    },
-    {
-        "DES_DISC": "PR\u00c1TICA CL\u00cdNICA DE ENFERMAGEM NA SA\u00daDE DA CRIAN\u00c7A E DO ADOLESCENTE II",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            31
-        ]
-    },
-    {
-        "DES_DISC": "PR\u00c1TICA CL\u00cdNICA DE ENFERMAGEM NA SA\u00daDE DA MULHER: CICLO GRAV\u00cdDICO PUERPERAL",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            31
         ]
     },
     {
@@ -2359,381 +2129,10 @@
         ]
     },
     {
-        "DES_DISC": "ENFERMAGEM NA SA\u00daDE DA CRIAN\u00c7A E DO ADOLESCENTE I",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            31
-        ]
-    },
-    {
-        "DES_DISC": "ENFERMAGEM NA SA\u00daDE DA MULHER: ASSIST\u00caNCIA GINECOL\u00d3GICA  ",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            31
-        ]
-    },
-    {
-        "DES_DISC": "ENFERMAGEM NA SA\u00daDE DO ADULTO: CUIDADOS M\u00cdNIMOS E INTERMEDI\u00c1RIOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31
-        ]
-    },
-    {
-        "DES_DISC": "ENFERMAGEM NA SA\u00daDE DO IDOSO",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            31
-        ]
-    },
-    {
-        "DES_DISC": "PR\u00c1TICA CL\u00cdNICA DE ENFERMAGEM NA SA\u00daDE DA CRIAN\u00c7A E DO ADOLESCENTE I",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            31
-        ]
-    },
-    {
         "DES_DISC": "PR\u00c1TICA CL\u00cdNICA DE ENFERMAGEM NA SA\u00daDE DA MULHER: ASSIST\u00caNCIA GINECOL\u00d3GICA",
         "CARG_HOR": 30,
         "COD_CURS": [
             31
-        ]
-    },
-    {
-        "DES_DISC": "PR\u00c1TICA CL\u00cdNICA DE ENFERMAGEM NA SA\u00daDE DO ADULTO: CUIDADOS M\u00cdNIMOS E INTERMEDI\u00c1RIOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31
-        ]
-    },
-    {
-        "DES_DISC": "PR\u00c1TICA CL\u00cdNICA DE ENFERMAGEM NA SA\u00daDE DO IDOSO",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            31
-        ]
-    },
-    {
-        "DES_DISC": "ENFERMAGEM EM CENTRO CIR\u00daRGICO E CENTRAL DE MATERIAL E ESTERILIZA\u00c7\u00c3O",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31
-        ]
-    },
-    {
-        "DES_DISC": "FARMACOLOGIA APLICADA \u00c0 ENFERMAGEM ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31
-        ]
-    },
-    {
-        "DES_DISC": "PROCESSO DE CUIDAR EM ENFERMAGEM",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31
-        ]
-    },
-    {
-        "DES_DISC": "DIFICULDADES DE APRENDIZAGEM",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
-    },
-    {
-        "DES_DISC": "EDUCA\u00c7\u00c3O N\u00c3O-FORMAL, FAM\u00cdLIA E COMUNIDADE",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
-    },
-    {
-        "DES_DISC": "SISTEMAS AUTOMOTIVOS ",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            9
-        ]
-    },
-    {
-        "DES_DISC": "HIST\u00d3RIA DA EDUCA\u00c7\u00c3O E DA PEDAGOGIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
-    },
-    {
-        "DES_DISC": "POL\u00cdTICAS P\u00daBLICAS E EDUCA\u00c7\u00c3O INFANTIL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
-    },
-    {
-        "DES_DISC": "SISTEMAS FLUIDO-MEC\u00c2NICOS ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            9
-        ]
-    },
-    {
-        "DES_DISC": "TRANSFER\u00caNCIA DE CALOR ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            9
-        ]
-    },
-    {
-        "DES_DISC": "EDUCA\u00c7\u00c3O DE JOVENS E ADULTOS: FUNDAMENTOS E PR\u00c1TICAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
-    },
-    {
-        "DES_DISC": "LITERATURA INFANTOJUVENIL ",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            22
-        ]
-    },
-    {
-        "DES_DISC": "ELETRICIDADE APLICADA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            8,
-            9,
-            53
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO II",
-        "CARG_HOR": 100,
-        "COD_CURS": [
-            9
-        ]
-    },
-    {
-        "DES_DISC": "C\u00c1LCULO DIFERENCIAL E INTEGRAL I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6,
-            8,
-            9,
-            53
-        ]
-    },
-    {
-        "DES_DISC": "DESENHO T\u00c9CNICO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6,
-            8,
-            9,
-            53
-        ]
-    },
-    {
-        "DES_DISC": "F\u00cdSICA APLICADA I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6,
-            8,
-            9,
-            53
-        ]
-    },
-    {
-        "DES_DISC": "L\u00cdNGUA BRASILEIRA DE SINAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            68,
-            66,
-            60
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM GEST\u00c3O EDUCACIONAL II",
-        "CARG_HOR": 50,
-        "COD_CURS": [
-            22
-        ]
-    },
-    {
-        "DES_DISC": "ESTRUTURAS MET\u00c1LICAS E MADEIRAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6
-        ]
-    },
-    {
-        "DES_DISC": "OBRAS HIDR\u00c1ULICAS E PORTOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6
-        ]
-    },
-    {
-        "DES_DISC": "HIDROLOGIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6
-        ]
-    },
-    {
-        "DES_DISC": "TEORIA DAS ESTRUTURAS II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6
-        ]
-    },
-    {
-        "DES_DISC": "PROJETO E EXECU\u00c7\u00c3O DE RODOVIAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6
-        ]
-    },
-    {
-        "DES_DISC": "TEMAS ESPECIAIS DE CONCRETO ARMADO ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6
-        ]
-    },
-    {
-        "DES_DISC": "ESTRUTURAS DE CONCRETO PROTENDIDO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6
-        ]
-    },
-    {
-        "DES_DISC": "GEOTECNIA APLICADA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6
-        ]
-    },
-    {
-        "DES_DISC": "ELETR\u00d4NICA DE POT\u00caNCIA E ATUADORES",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            53
-        ]
-    },
-    {
-        "DES_DISC": "MODELAGEM E CONTROLE DE SISTEMAS I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            53
-        ]
-    },
-    {
-        "DES_DISC": "ROB\u00d3TICA INDUSTRIAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            53
-        ]
-    },
-    {
-        "DES_DISC": "TRABALHO DE CONCLUS\u00c3O DE CURSO II",
-        "CARG_HOR": 120,
-        "COD_CURS": [
-            9,
-            53
-        ]
-    },
-    {
-        "DES_DISC": "M\u00c1QUINAS EL\u00c9TRICAS E ACIONAMENTOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            53
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO I",
-        "CARG_HOR": 100,
-        "COD_CURS": [
-            53
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO II",
-        "CARG_HOR": 100,
-        "COD_CURS": [
-            53
-        ]
-    },
-    {
-        "DES_DISC": "ELEMENTOS DE M\u00c1QUINAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            53
-        ]
-    },
-    {
-        "DES_DISC": "REDES INDUSTRIAIS E SISTEMAS SUPERVIS\u00d3RIOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            53
-        ]
-    },
-    {
-        "DES_DISC": "ELETR\u00d4NICA DE AQUISI\u00c7\u00c3O E PROCESSAMENTO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            53
-        ]
-    },
-    {
-        "DES_DISC": "SISTEMAS DIGITAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            53
-        ]
-    },
-    {
-        "DES_DISC": "EDUCA\u00c7\u00c3O: JOGOS E BRINCADEIRAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
-    },
-    {
-        "DES_DISC": "FILOSOFIA DA EDUCA\u00c7\u00c3O",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
-    },
-    {
-        "DES_DISC": "PENSAMENTO, LINGUAGEM E DESENVOLVIMENTO HUMANO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
-    },
-    {
-        "DES_DISC": "FUNDAMENTOS METODOL\u00d3GICOS DO ENSINO DE ARTE E DE M\u00daSICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
-    },
-    {
-        "DES_DISC": "FUNDAMENTOS METODOL\u00d3GICOS DO ENSINO DE MATEM\u00c1TICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
-    },
-    {
-        "DES_DISC": "ESCOLA,CURR\u00cdCULO E SOCIEDADE",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
         ]
     },
     {
@@ -2744,91 +2143,7 @@
         ]
     },
     {
-        "DES_DISC": "FUNDAMENTOS METODOL\u00d3GICOS DO ENSINO DE HIST\u00d3RIA E DE GEOGRAFIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
-    },
-    {
-        "DES_DISC": "FARMACOBIOTECNOLOGIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
-    },
-    {
-        "DES_DISC": "TECNOLOGIA E OPERA\u00c7\u00d5ES FARMAC\u00caUTICAS ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
-    },
-    {
-        "DES_DISC": "GEST\u00c3O E ORGANIZA\u00c7\u00c3O DO TRABALHO PEDAG\u00d3GICO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
-    },
-    {
-        "DES_DISC": "PR\u00c1TICA DE ENSINO E ORIENTA\u00c7\u00c3O DE EST\u00c1GIO CURRICULAR SUPERVISIONADO NOS ANOS INICIAIS DO ENSINO FUNDAMENTAL E GEST\u00c3O EDUCACIONAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
-    },
-    {
-        "DES_DISC": "C\u00c1LCULOS FARMAC\u00caUTICOS",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            30
-        ]
-    },
-    {
-        "DES_DISC": "FARMACOLOGIA APLICADA \u00c0 FARM\u00c1CIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
-    },
-    {
         "DES_DISC": "FITOTERAPIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
-    },
-    {
-        "DES_DISC": "HEMATOLOGIA E CITOLOGIA CL\u00cdNICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
-    },
-    {
-        "DES_DISC": "HOMEOPATIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
-    },
-    {
-        "DES_DISC": "PR\u00c1TICAS PEDAG\u00d3GICAS I",
-        "CARG_HOR": 66,
-        "COD_CURS": [
-            22
-        ]
-    },
-    {
-        "DES_DISC": "PR\u00c1TICAS PEDAG\u00d3GICAS II",
-        "CARG_HOR": 66,
-        "COD_CURS": [
-            22
-        ]
-    },
-    {
-        "DES_DISC": "FARM\u00c1CIA HOSPITALAR E CL\u00cdNICA",
         "CARG_HOR": 60,
         "COD_CURS": [
             30
@@ -2842,141 +2157,6 @@
         ]
     },
     {
-        "DES_DISC": "PR\u00c1TICAS PEDAG\u00d3GICAS IV",
-        "CARG_HOR": 66,
-        "COD_CURS": [
-            22
-        ]
-    },
-    {
-        "DES_DISC": "PR\u00c1TICAS PEDAG\u00d3GICAS ",
-        "CARG_HOR": 70,
-        "COD_CURS": [
-            22
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO IV",
-        "CARG_HOR": 240,
-        "COD_CURS": [
-            30
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO VI",
-        "CARG_HOR": 240,
-        "COD_CURS": [
-            30
-        ]
-    },
-    {
-        "DES_DISC": "QU\u00cdMICA GERAL E INORG\u00c2NICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
-    },
-    {
-        "DES_DISC": "FISIOPATOLOGIA APLICADA \u00c0 FARM\u00c1CIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
-    },
-    {
-        "DES_DISC": "FARMACOBOT\u00c2NICA",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            30
-        ]
-    },
-    {
-        "DES_DISC": "MICROBIOLOGIA GERAL E CL\u00cdNICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
-    },
-    {
-        "DES_DISC": "GEST\u00c3O DE SISTEMAS DE INFORMA\u00c7\u00c3O E M\u00c9TODOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            10
-        ]
-    },
-    {
-        "DES_DISC": "GEST\u00c3O DE PROJETO EM SISTEMAS DE INFORMA\u00c7\u00c3O",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            10
-        ]
-    },
-    {
-        "DES_DISC": "LABORAT\u00d3RIO DE BANCO DE DADOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            10
-        ]
-    },
-    {
-        "DES_DISC": "SEGURAN\u00c7A E AUDITORIA DE SISTEMAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            10
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO",
-        "CARG_HOR": 150,
-        "COD_CURS": [
-            10
-        ]
-    },
-    {
-        "DES_DISC": "AN\u00c1LISE E PROJETO DE SISTEMAS II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            38
-        ]
-    },
-    {
-        "DES_DISC": "MODELAGEM DE NEG\u00d3CIOS E REQUISITOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            38
-        ]
-    },
-    {
-        "DES_DISC": "ENGENHARIA DE SOFTWARE",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            38,
-            71,
-            10
-        ]
-    },
-    {
-        "DES_DISC": "T\u00c9CNICAS DE PROGRAMA\u00c7\u00c3O",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            71
-        ]
-    },
-    {
-        "DES_DISC": "PROJETO INTERDISCIPLINAR III",
-        "CARG_HOR": 50,
-        "COD_CURS": [
-            38
-        ]
-    },
-    {
-        "DES_DISC": "PROJETO INTERDISCIPLINAR",
-        "CARG_HOR": 50,
-        "COD_CURS": [
-            38
-        ]
-    },
-    {
         "DES_DISC": "EDUCA\u00c7\u00c3O INFANTIL: CURR\u00cdCULO",
         "CARG_HOR": 60,
         "COD_CURS": [
@@ -2984,70 +2164,7 @@
         ]
     },
     {
-        "DES_DISC": "ANATOMIA SIST\u00caMICA DOS ANIMAIS DOM\u00c9STICOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            63
-        ]
-    },
-    {
-        "DES_DISC": "HISTOLOGIA ANIMAL ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            63
-        ]
-    },
-    {
         "DES_DISC": "FISIOLOGIA ANIMAL II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            63
-        ]
-    },
-    {
-        "DES_DISC": "SEMIOLOGIA E LABORAT\u00d3RIO CL\u00cdNICO VETERIN\u00c1RIO I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            63
-        ]
-    },
-    {
-        "DES_DISC": "DOEN\u00c7AS INFECCIOSAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            63
-        ]
-    },
-    {
-        "DES_DISC": "FARMACOLOGIA E TOXICOLOGIA VETERIN\u00c1RIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            63
-        ]
-    },
-    {
-        "DES_DISC": "REPRODU\u00c7\u00c3O ANIMAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            63
-        ]
-    },
-    {
-        "DES_DISC": "T\u00c9CNICA CIR\u00daRGICA E ANESTESIOLOGIA VETERIN\u00c1RIA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            63
-        ]
-    },
-    {
-        "DES_DISC": "PR\u00c1TICAS PEDAG\u00d3GICAS III",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            22
-        ]
-    },
-    {
-        "DES_DISC": "CL\u00cdNICA CIR\u00daRGICA VETERIN\u00c1RIA II",
         "CARG_HOR": 60,
         "COD_CURS": [
             63
@@ -3061,10 +2178,208 @@
         ]
     },
     {
-        "DES_DISC": "CL\u00cdNICA M\u00c9DICA E TERAP\u00caUTICA DE PEQUENOS ANIMAIS II",
+        "DES_DISC": "DIAGN\u00d3STICO E INTERVEN\u00c7\u00c3O URBANA",
         "CARG_HOR": 60,
         "COD_CURS": [
-            63
+            37
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM ENGENHARIA CIVIL II",
+        "CARG_HOR": 100,
+        "COD_CURS": [
+            6
+        ]
+    },
+    {
+        "DES_DISC": "REDA\u00c7\u00c3O PUBLICIT\u00c1RIA APLICADA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            50
+        ]
+    },
+    {
+        "DES_DISC": "T\u00c9CNICAS DIGITAIS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            8
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO ESPEC\u00cdFICO EM PROCESSOS GRUPAIS",
+        "CARG_HOR": 40,
+        "COD_CURS": [
+            36
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO PROFISSIONALIZANTE EM EDUCA\u00c7\u00c3O F\u00cdSICA II",
+        "CARG_HOR": 200,
+        "COD_CURS": [
+            32
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO ESPEC\u00cdFICO EM PSICODIAGN\u00d3STICO",
+        "CARG_HOR": 40,
+        "COD_CURS": [
+            36
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO - \u00c1REA III",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            58
+        ]
+    },
+    {
+        "DES_DISC": "PARADIGMAS DE LINGUAGENS DE PROGRAMA\u00c7\u00c3O",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            54
+        ]
+    },
+    {
+        "DES_DISC": "MOTION DESIGN E NARRATIVAS GR\u00c1FICAS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            40
+        ]
+    },
+    {
+        "DES_DISC": "PROJETO DE PESQUISA ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            4
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO CONSTITUCIONAL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            4
+        ]
+    },
+    {
+        "DES_DISC": "HIGIENE DOS ALIMENTOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            57,
+            48
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO ADMINISTRATIVO I",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "BASES BIOL\u00d3GICAS DOS PROCESSOS PSICOL\u00d3GICOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            36
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO PENAL II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "TEORIAS DA PERSONALIDADE II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            36
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO PROCESSUAL CIVIL II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "PR\u00c1TICA JUR\u00cdDICA II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "T\u00d3PICOS DE DIREITO IV",
+        "CARG_HOR": 40,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "ELABORA\u00c7\u00c3O DO TRABALHO DE CURSO II",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            34
+        ]
+    },
+    {
+        "DES_DISC": "JOGOS E BRINCADEIRAS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            32
+        ]
+    },
+    {
+        "DES_DISC": "PACIENTES COM NECESSIDADES ESPECIAIS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            42
+        ]
+    },
+    {
+        "DES_DISC": "CONTABILIDADE GERAL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            3
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO EMPRESARIAL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            1,
+            3
+        ]
+    },
+    {
+        "DES_DISC": "CONTABILIDADE PARA ATIVIDADES ESPEC\u00cdFICAS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            3
+        ]
+    },
+    {
+        "DES_DISC": "ESTRUTURAS MET\u00c1LICAS E MADEIRAS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            6
+        ]
+    },
+    {
+        "DES_DISC": "TEORIA DAS ESTRUTURAS II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            6
+        ]
+    },
+    {
+        "DES_DISC": "ESTRUTURAS DE CONCRETO PROTENDIDO",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            6
         ]
     },
     {
@@ -3089,24 +2404,161 @@
         ]
     },
     {
-        "DES_DISC": "FISIOTERAPIA CARDIOPNEUMOFUNCIONAL II",
-        "CARG_HOR": 60,
+        "DES_DISC": "PROGRAMAS E CURR\u00cdCULOS APLICADOS \u00c0 EDUCA\u00c7\u00c3O F\u00cdSICA ",
+        "CARG_HOR": 40,
         "COD_CURS": [
-            58
+            33
         ]
     },
     {
-        "DES_DISC": "FISIOTERAPIA DERMATOFUNCIONAL",
-        "CARG_HOR": 60,
+        "DES_DISC": "TRABALHO DE CURSO EM ARQUITETURA E URBANISMO II",
+        "CARG_HOR": 140,
         "COD_CURS": [
-            58
+            37
         ]
     },
     {
-        "DES_DISC": "FISIOTERAPIA NEUROFUNCIONAL E NA SA\u00daDE DA CRIAN\u00c7A ",
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM NUTRI\u00c7\u00c3O - \u00c1REA II",
+        "CARG_HOR": 214,
+        "COD_CURS": [
+            48
+        ]
+    },
+    {
+        "DES_DISC": "FUNDAMENTOS DE INTELIG\u00caNCIA ARTIFICIAL",
         "CARG_HOR": 60,
         "COD_CURS": [
-            58
+            10
+        ]
+    },
+    {
+        "DES_DISC": "NEUROANATOMIA RADIOL\u00d3GICA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            46
+        ]
+    },
+    {
+        "DES_DISC": "T\u00c9CNICA DIET\u00c9TICA II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            48
+        ]
+    },
+    {
+        "DES_DISC": "POL\u00cdTICAS P\u00daBLICAS EM NUTRI\u00c7\u00c3O",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            48
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO EMPRESARIAL II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO PROCESSUAL CIVIL III",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO IV",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "BIOQU\u00cdMICA CL\u00cdNICA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            30
+        ]
+    },
+    {
+        "DES_DISC": "ELABORA\u00c7\u00c3O DE TRABALHO DE CURSO II",
+        "CARG_HOR": 50,
+        "COD_CURS": [
+            34
+        ]
+    },
+    {
+        "DES_DISC": "GEST\u00c3O DA QUALIDADE",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            1
+        ]
+    },
+    {
+        "DES_DISC": "GEST\u00c3O DE MARKETING",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            1,
+            19
+        ]
+    },
+    {
+        "DES_DISC": "MANUSEIO DE CARNES, AVES E PESCADOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            57
+        ]
+    },
+    {
+        "DES_DISC": "PROCESSO DE CUIDAR EM ENFERMAGEM",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            31
+        ]
+    },
+    {
+        "DES_DISC": "LITERATURA INFANTOJUVENIL ",
+        "CARG_HOR": 40,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "DESENHO T\u00c9CNICO",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            6,
+            8,
+            9,
+            53
+        ]
+    },
+    {
+        "DES_DISC": "FUNDAMENTOS METODOL\u00d3GICOS DO ENSINO DE HIST\u00d3RIA E DE GEOGRAFIA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "PR\u00c1TICA DE ENSINO E ORIENTA\u00c7\u00c3O DE EST\u00c1GIO CURRICULAR SUPERVISIONADO NOS ANOS INICIAIS DO ENSINO FUNDAMENTAL E GEST\u00c3O EDUCACIONAL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "LABORAT\u00d3RIO DE BANCO DE DADOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            10
+        ]
+    },
+    {
+        "DES_DISC": "REPRODU\u00c7\u00c3O ANIMAL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            63
         ]
     },
     {
@@ -3117,35 +2569,463 @@
         ]
     },
     {
-        "DES_DISC": "FISIOTERAPIA REUMATOL\u00d3GICA E NA SA\u00daDE DO IDOSO",
+        "DES_DISC": "DIREITO CIVIL I ",
         "CARG_HOR": 60,
         "COD_CURS": [
-            58
+            5
         ]
     },
     {
-        "DES_DISC": "BIOMEC\u00c2NICA",
+        "DES_DISC": "FARMACOT\u00c9CNICA II",
         "CARG_HOR": 60,
         "COD_CURS": [
-            58
+            30
         ]
     },
     {
-        "DES_DISC": "CINESIOLOGIA",
-        "CARG_HOR": 60,
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO DE ODONTOLOGIA EM SA\u00daDE COLETIVA II",
+        "CARG_HOR": 80,
         "COD_CURS": [
-            68
+            42
         ]
     },
     {
-        "DES_DISC": "OBSERVA\u00c7\u00c3O DE PR\u00c1TICAS CL\u00cdNICAS SUPERVISIONADAS I",
+        "DES_DISC": "TERMODIN\u00c2MICA APLICADA I",
         "CARG_HOR": 60,
         "COD_CURS": [
-            58
+            9
         ]
     },
     {
-        "DES_DISC": "T\u00d3PICOS INTEGRADORES EM FISIOTERAPIA I",
+        "DES_DISC": "SISTEMAS DE REFRIGERA\u00c7\u00c3O E AR CONDICIONADO",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            9
+        ]
+    },
+    {
+        "DES_DISC": "TRABALHO DE CONCLUS\u00c3O DE CURSO",
+        "CARG_HOR": 200,
+        "COD_CURS": [
+            10
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO ESPEC\u00cdFICO EM ATENDIMENTO COLETIVO",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            36
+        ]
+    },
+    {
+        "DES_DISC": "ERGONOMIA E PERCEP\u00c7\u00c3O VISUAL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            40
+        ]
+    },
+    {
+        "DES_DISC": "FORMA\u00c7\u00c3O ECON\u00d4MICA, POL\u00cdTICA E SOCIAL DO BRASIL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            11
+        ]
+    },
+    {
+        "DES_DISC": "GEOGRAFIA E MEIO AMBIENTE",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            11
+        ]
+    },
+    {
+        "DES_DISC": "LABORAT\u00d3RIO POL\u00cdTICO III",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            4
+        ]
+    },
+    {
+        "DES_DISC": "TEORIA POL\u00cdTICA MODERNA E CONTEMPOR\u00c2NEA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            4
+        ]
+    },
+    {
+        "DES_DISC": "EDUCA\u00c7\u00c3O ALIMENTAR E NUTRICIONAL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            48
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO PROCESSUAL DO TRABALHO II",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "FARMACOLOGIA APLICADA \u00c0 NUTRI\u00c7\u00c3O ",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            48
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO ADMINISTRATIVO II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO PENAL IV",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO CIVIL VI",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO II",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "BASES TE\u00d3RICO-PR\u00c1TICAS DO CONDICIONAMENTO F\u00cdSICO ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            32,
+            33
+        ]
+    },
+    {
+        "DES_DISC": "AN\u00c1LISE DAS RELA\u00c7\u00d5ES INTERNACIONAIS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            11
+        ]
+    },
+    {
+        "DES_DISC": "PR\u00c1TICAS LABORATORIAIS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            34
+        ]
+    },
+    {
+        "DES_DISC": "RESTAURA\u00c7\u00c3O DE \u00c1REAS DEGRADADAS E BIOMONITORAMENTO",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            34
+        ]
+    },
+    {
+        "DES_DISC": "PLANEJAMENTO ESTRAT\u00c9GICO E GEST\u00c3O DE PROGRAMAS P\u00daBLICOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            13
+        ]
+    },
+    {
+        "DES_DISC": "CRIA\u00c7\u00c3O E DESENVOLVIMENTO DE NOVOS NEG\u00d3CIOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            1
+        ]
+    },
+    {
+        "DES_DISC": "FARMACOLOGIA APLICADA \u00c0 ENFERMAGEM ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            31
+        ]
+    },
+    {
+        "DES_DISC": "FISIOPATOLOGIA APLICADA \u00c0 FARM\u00c1CIA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            30
+        ]
+    },
+    {
+        "DES_DISC": "SISTEMAS ESTRUTURAIS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            37
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM ENGENHARIA CIVIL I",
+        "CARG_HOR": 100,
+        "COD_CURS": [
+            6
+        ]
+    },
+    {
+        "DES_DISC": "EDUCA\u00c7\u00c3O F\u00cdSICA NO ENSINO FUNDAMENTAL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            33
+        ]
+    },
+    {
+        "DES_DISC": "PRODU\u00c7\u00c3O APLICADA A PROJETO",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            50
+        ]
+    },
+    {
+        "DES_DISC": "PROJETO DE INSTALA\u00c7\u00d5ES EL\u00c9TRICAS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            8
+        ]
+    },
+    {
+        "DES_DISC": "ECONOMIA",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            1
+        ]
+    },
+    {
+        "DES_DISC": "ENFERMAGEM NA SA\u00daDE COLETIVA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            31
+        ]
+    },
+    {
+        "DES_DISC": "TEORIA GERAL DA ADMINISTRA\u00c7\u00c3O",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            1,
+            3,
+            19,
+            21,
+            10
+        ]
+    },
+    {
+        "DES_DISC": "T\u00d3PICOS DE DIREITO II",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "T\u00d3PICOS DE DIREITO III",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM RADIOLOGIA III",
+        "CARG_HOR": 160,
+        "COD_CURS": [
+            46
+        ]
+    },
+    {
+        "DES_DISC": "REGISTRO DE ATENDIMENTO, DIAGN\u00d3STICO E INTERVEN\u00c7\u00c3O II",
+        "CARG_HOR": 100,
+        "COD_CURS": [
+            36
+        ]
+    },
+    {
+        "DES_DISC": "GEST\u00c3O ESTRAT\u00c9GICA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            1
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM CL\u00cdNICA INTEGRADA III",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            42
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM CL\u00cdNICA INTEGRADA V",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            42
+        ]
+    },
+    {
+        "DES_DISC": "ADMINISTRA\u00c7\u00c3O DE CARGOS E SAL\u00c1RIOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            21
+        ]
+    },
+    {
+        "DES_DISC": "PROJETO INTERDISCIPLINAR III",
+        "CARG_HOR": 40,
+        "COD_CURS": [
+            21
+        ]
+    },
+    {
+        "DES_DISC": "AVALIA\u00c7\u00c3O DO ESTADO NUTRICIONAL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            48
+        ]
+    },
+    {
+        "DES_DISC": "PSICOPATOLOGIA II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            36
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO PENAL I",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "INTRODU\u00c7\u00c3O AO ESTUDO DO DIREITO",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "PESQUISA EM EDUCA\u00c7\u00c3O F\u00cdSICA II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            32
+        ]
+    },
+    {
+        "DES_DISC": "MANIFESTA\u00c7\u00d5ES CULTURAIS R\u00cdTMICAS E EXPRESSIVAS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            32
+        ]
+    },
+    {
+        "DES_DISC": "EDUCA\u00c7\u00c3O AMBIENTAL",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            34
+        ]
+    },
+    {
+        "DES_DISC": "PROGRAMA\u00c7\u00c3O WEB",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            54,
+            38,
+            71
+        ]
+    },
+    {
+        "DES_DISC": "TRABALHO DE CONCLUS\u00c3O DE CURSO EM ODONTOLOGIA I",
+        "CARG_HOR": 40,
+        "COD_CURS": [
+            42
+        ]
+    },
+    {
+        "DES_DISC": "JOGOS EMPRESARIAIS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            1
+        ]
+    },
+    {
+        "DES_DISC": "GEST\u00c3O DE PROJETOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            1
+        ]
+    },
+    {
+        "DES_DISC": "ESTRUTURA E ELABORA\u00c7\u00c3O DAS DEMONSTRA\u00c7\u00d5ES CONT\u00c1BEIS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            3
+        ]
+    },
+    {
+        "DES_DISC": "ESTUDOS LINGU\u00cdSTICO-DISCURSIVOS EM L\u00cdNGUA INGLESA III",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            60
+        ]
+    },
+    {
+        "DES_DISC": "TEORIAS DA COMUNICA\u00c7\u00c3O",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            49,
+            50
+        ]
+    },
+    {
+        "DES_DISC": "LITERATURA BRASILEIRA: PO\u00c9TICA E PROSA I",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            60
+        ]
+    },
+    {
+        "DES_DISC": "PR\u00c1TICA CL\u00cdNICA DE ENFERMAGEM NA SA\u00daDE DO ADULTO: CUIDADOS M\u00cdNIMOS E INTERMEDI\u00c1RIOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            31
+        ]
+    },
+    {
+        "DES_DISC": "M\u00c1QUINAS EL\u00c9TRICAS E ACIONAMENTOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            53
+        ]
+    },
+    {
+        "DES_DISC": "FUNDAMENTOS METODOL\u00d3GICOS DO ENSINO DE MATEM\u00c1TICA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "FARMACOLOGIA APLICADA \u00c0 FARM\u00c1CIA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            30
+        ]
+    },
+    {
+        "DES_DISC": "PR\u00c1TICAS PEDAG\u00d3GICAS III",
+        "CARG_HOR": 40,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "FISIOTERAPIA CARDIOPNEUMOFUNCIONAL II",
         "CARG_HOR": 60,
         "COD_CURS": [
             58
@@ -3161,109 +3041,10 @@
         ]
     },
     {
-        "DES_DISC": "PROGRAMAS E CURR\u00cdCULOS APLICADOS \u00c0 EDUCA\u00c7\u00c3O F\u00cdSICA ",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            33
-        ]
-    },
-    {
-        "DES_DISC": "PROCESSO DE ENSINO E APRENDIZAGEM E AVALIA\u00c7\u00c3O APLICADA \u00c0 EDUCA\u00c7\u00c3O F\u00cdSICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32,
-            33
-        ]
-    },
-    {
-        "DES_DISC": "SISTEMAS ESTRUTURAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            37
-        ]
-    },
-    {
-        "DES_DISC": "DIAGN\u00d3STICO E INTERVEN\u00c7\u00c3O URBANA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            37
-        ]
-    },
-    {
-        "DES_DISC": "INSTALA\u00c7\u00d5ES E EQUIPAMENTOS EL\u00c9TRICOS E HIDR\u00c1ULICOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            37
-        ]
-    },
-    {
         "DES_DISC": "PROJETO ARQUITET\u00d4NICO-CORPORATIVO",
         "CARG_HOR": 60,
         "COD_CURS": [
             37
-        ]
-    },
-    {
-        "DES_DISC": "PLANEJAMENTO URBANO E REGIONAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            37
-        ]
-    },
-    {
-        "DES_DISC": "TRABALHO DE CURSO EM ARQUITETURA E URBANISMO I",
-        "CARG_HOR": 140,
-        "COD_CURS": [
-            37
-        ]
-    },
-    {
-        "DES_DISC": "DESENHO ARQUITET\u00d4NICO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            37
-        ]
-    },
-    {
-        "DES_DISC": "TEORIA DA ARQUITETURA, DO URBANISMO E DO PAISAGISMO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            37
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO CIVIL I ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "GEST\u00c3O DE OPERA\u00c7\u00d5ES, LOG\u00cdSTICA DE MATERIAIS E PATRIM\u00d4NIO NO SERVI\u00c7O P\u00daBLICO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            13
-        ]
-    },
-    {
-        "DES_DISC": "PR\u00c1TICAS DE MULTILETRAMENTOS E TRANSDISCIPLINARIDADE: DESIGN THINKING, PESQUISA E ENSINO IV",
-        "CARG_HOR": 35,
-        "COD_CURS": [
-            60
-        ]
-    },
-    {
-        "DES_DISC": "RELAT\u00d3RIO DE PESQUISA",
-        "CARG_HOR": 160,
-        "COD_CURS": [
-            11
-        ]
-    },
-    {
-        "DES_DISC": "T\u00d3PICOS INTEGRADORES EM FISIOTERAPIA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            58
         ]
     },
     {
@@ -3274,67 +3055,166 @@
         ]
     },
     {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM ENGENHARIA CIVIL I",
-        "CARG_HOR": 100,
+        "DES_DISC": "BIOQU\u00cdMICA",
+        "CARG_HOR": 60,
         "COD_CURS": [
-            6
+            31
         ]
     },
     {
-        "DES_DISC": "TRABALHO DE CONCLUS\u00c3O DE CURSO EM ENGENHARIA CIVIL I",
+        "DES_DISC": "GEST\u00c3O DE OPERA\u00c7\u00d5ES E SERVI\u00c7OS",
         "CARG_HOR": 80,
         "COD_CURS": [
-            6
+            1
         ]
     },
     {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM ENGENHARIA CIVIL II",
-        "CARG_HOR": 100,
+        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO ESPEC\u00cdFICO EM PSICOLOGIA INSTITUCIONAL II",
+        "CARG_HOR": 40,
         "COD_CURS": [
-            6
+            36
         ]
     },
     {
-        "DES_DISC": "TRABALHO DE CONCLUS\u00c3O DE CURSO EM ENGENHARIA CIVIL II",
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM ATEN\u00c7\u00c3O B\u00c1SICA",
         "CARG_HOR": 80,
         "COD_CURS": [
-            6
+            42
         ]
     },
     {
-        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO EM ENGENHARIA MEC\u00c2NICA I",
+        "DES_DISC": "AN\u00c1LISE POL\u00cdTICA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            4
+        ]
+    },
+    {
+        "DES_DISC": "NUTRI\u00c7\u00c3O APLICADA AO EXERC\u00cdCIO F\u00cdSICO",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            48
+        ]
+    },
+    {
+        "DES_DISC": "PSICOLOGIA SOCIAL E COMUNIT\u00c1RIA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            36
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO PROCESSUAL PENAL II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO PENAL III",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "METODOLOGIA DO TREINAMENTO",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            32
+        ]
+    },
+    {
+        "DES_DISC": "SISTEMAS OPERACIONAIS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            54,
+            38
+        ]
+    },
+    {
+        "DES_DISC": "AN\u00c1LISE E PROJETO DE SISTEMAS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            54,
+            10
+        ]
+    },
+    {
+        "DES_DISC": "ORGANIZA\u00c7\u00c3O E ARQUITETURA DE COMPUTADORES",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            38
+        ]
+    },
+    {
+        "DES_DISC": "REABILITA\u00c7\u00c3O ODONTOL\u00d3GICA PROT\u00c9TICA I",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            42
+        ]
+    },
+    {
+        "DES_DISC": "PER\u00cdCIA CONT\u00c1BIL E ARBITRAGEM",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            3
+        ]
+    },
+    {
+        "DES_DISC": "ENFERMAGEM NA SA\u00daDE DA CRIAN\u00c7A E DO ADOLESCENTE II",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            31
+        ]
+    },
+    {
+        "DES_DISC": "POL\u00cdTICAS P\u00daBLICAS E EDUCA\u00c7\u00c3O INFANTIL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO SUPERVISIONADO II",
         "CARG_HOR": 100,
         "COD_CURS": [
             9
         ]
     },
     {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM GEST\u00c3O EDUCACIONAL II",
-        "CARG_HOR": 50,
+        "DES_DISC": "OBRAS HIDR\u00c1ULICAS E PORTOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            6
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO I",
+        "CARG_HOR": 100,
+        "COD_CURS": [
+            53
+        ]
+    },
+    {
+        "DES_DISC": "PENSAMENTO, LINGUAGEM E DESENVOLVIMENTO HUMANO",
+        "CARG_HOR": 60,
         "COD_CURS": [
             22
         ]
     },
     {
-        "DES_DISC": "PR\u00c1TICAS PEDAG\u00d3GICAS III",
+        "DES_DISC": "PR\u00c1TICAS PEDAG\u00d3GICAS I",
         "CARG_HOR": 66,
         "COD_CURS": [
             22
         ]
     },
     {
-        "DES_DISC": "RESIST\u00caNCIA DOS MATERIAIS ",
-        "CARG_HOR": 60,
+        "DES_DISC": "PROJETO INTERDISCIPLINAR III",
+        "CARG_HOR": 50,
         "COD_CURS": [
-            6,
-            9
-        ]
-    },
-    {
-        "DES_DISC": "\u00c9TICA E LEGISLA\u00c7\u00c3O PROFISSIONAL ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            37
+            38
         ]
     },
     {
@@ -3345,10 +3225,17 @@
         ]
     },
     {
-        "DES_DISC": "TRABALHO DE CURSO EM ARQUITETURA E URBANISMO II",
-        "CARG_HOR": 140,
+        "DES_DISC": "NUTRI\u00c7\u00c3O NO ENVELHECIMENTO",
+        "CARG_HOR": 60,
         "COD_CURS": [
-            37
+            48
+        ]
+    },
+    {
+        "DES_DISC": "PROJETOS INTERDISCIPLINARES PARA DOC\u00caNCIA DE HIST\u00d3RIA IV",
+        "CARG_HOR": 10,
+        "COD_CURS": [
+            66
         ]
     },
     {
@@ -3359,80 +3246,312 @@
         ]
     },
     {
-        "DES_DISC": "PROJETO INTERDISCIPLINAR",
+        "DES_DISC": "ELETR\u00d4NICA DE POT\u00caNCIA ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            8
+        ]
+    },
+    {
+        "DES_DISC": "MATERIAIS DE CONSTRU\u00c7\u00c3O MEC\u00c2NICA II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            9
+        ]
+    },
+    {
+        "DES_DISC": "PROJETO DE ELEMENTOS DE M\u00c1QUINA II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            9
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO NOS ANOS INICIAIS DO ENSINO FUNDAMENTAL",
+        "CARG_HOR": 100,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "COMPUTA\u00c7\u00c3O GR\u00c1FICA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            54
+        ]
+    },
+    {
+        "DES_DISC": "REGISTRO DE ATENDIMENTO, DIAGN\u00d3STICO E INTERVEN\u00c7\u00c3O I",
+        "CARG_HOR": 100,
+        "COD_CURS": [
+            36
+        ]
+    },
+    {
+        "DES_DISC": "PR\u00c1TICAS INTERDISCIPLINARES I",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            32
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO - \u00c1REA IV",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            58
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM L\u00cdNGUA PORTUGUESA II",
+        "CARG_HOR": 100,
+        "COD_CURS": [
+            60
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM L\u00cdNGUA INGLESA II",
+        "CARG_HOR": 100,
+        "COD_CURS": [
+            60
+        ]
+    },
+    {
+        "DES_DISC": "PATOLOGIA GERAL VETERIN\u00c1RIA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            63
+        ]
+    },
+    {
+        "DES_DISC": "PROJETO GR\u00c1FICO - IDENTIDADE VISUAL",
         "CARG_HOR": 60,
         "COD_CURS": [
             40
         ]
     },
     {
-        "DES_DISC": "ATUALIDADES EM NUTRI\u00c7\u00c3O",
+        "DES_DISC": "RADIOLOGIA FORENSE",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            46
+        ]
+    },
+    {
+        "DES_DISC": "ANATOMIA HUMANA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            44,
+            34,
+            68,
+            31,
+            30,
+            58,
+            67,
+            48
+        ]
+    },
+    {
+        "DES_DISC": "COMUNICA\u00c7\u00c3O, OPINI\u00c3O P\u00daBLICA E PODER",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            4
+        ]
+    },
+    {
+        "DES_DISC": "BIOLOGIA CELULAR E TECIDUAL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            44,
+            34,
+            31,
+            30,
+            58,
+            67,
+            63,
+            48
+        ]
+    },
+    {
+        "DES_DISC": "HEMATOLOGIA CL\u00cdNICA E BANCO DE SANGUE",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            44
+        ]
+    },
+    {
+        "DES_DISC": "GIN\u00c1STICA COLETIVA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            32
+        ]
+    },
+    {
+        "DES_DISC": "PR\u00c1TICAS INTERDISCIPLINARES IV",
+        "CARG_HOR": 45,
+        "COD_CURS": [
+            32
+        ]
+    },
+    {
+        "DES_DISC": "ENDODONTIA CL\u00cdNICA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            42
+        ]
+    },
+    {
+        "DES_DISC": "ODONTOLOGIA INTEGRADA DO ADULTO E DO IDOSO ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            42
+        ]
+    },
+    {
+        "DES_DISC": "TRABALHO DE CONCLUS\u00c3O DE CURSO EM ODONTOLOGIA II",
+        "CARG_HOR": 40,
+        "COD_CURS": [
+            42
+        ]
+    },
+    {
+        "DES_DISC": "GEST\u00c3O AVAN\u00c7ADA DE MARKETING ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            1,
+            19
+        ]
+    },
+    {
+        "DES_DISC": "ADMINISTRA\u00c7\u00c3O FINANCEIRA E OR\u00c7AMENT\u00c1RIA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            3
+        ]
+    },
+    {
+        "DES_DISC": "GEST\u00c3O DE OPERA\u00c7\u00d5ES E SERVI\u00c7OS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            1
+        ]
+    },
+    {
+        "DES_DISC": "T\u00d3PICOS CONTEMPOR\u00c2NEOS EM CONTABILIDADE P\u00daBLICA E PRIVADA I",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            3
+        ]
+    },
+    {
+        "DES_DISC": "METODOLOGIA DE ENSINO DE L\u00cdNGUA PORTUGUESA II",
         "CARG_HOR": 30,
         "COD_CURS": [
-            48
+            60
         ]
     },
     {
-        "DES_DISC": "NUTRI\u00c7\u00c3O NO ENVELHECIMENTO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            48
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM NUTRI\u00c7\u00c3O - \u00c1REA I",
-        "CARG_HOR": 214,
-        "COD_CURS": [
-            48
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM NUTRI\u00c7\u00c3O - \u00c1REA II",
-        "CARG_HOR": 214,
-        "COD_CURS": [
-            48
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM NUTRI\u00c7\u00c3O - \u00c1REA III",
-        "CARG_HOR": 214,
-        "COD_CURS": [
-            48
-        ]
-    },
-    {
-        "DES_DISC": "GEST\u00c3O DE UNIDADES DE ALIMENTA\u00c7\u00c3O E NUTRI\u00c7\u00c3O",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            48
-        ]
-    },
-    {
-        "DES_DISC": "T\u00d3PICOS DE DIREITO I",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "ESTRAT\u00c9GIAS E T\u00c1TICAS DE M\u00cdDIA",
+        "DES_DISC": "ATENDIMENTO E PLANEJAMENTO PUBLICIT\u00c1RIO",
         "CARG_HOR": 60,
         "COD_CURS": [
             50
         ]
     },
     {
-        "DES_DISC": "EDUCA\u00c7\u00c3O F\u00cdSICA NO ENSINO FUNDAMENTAL",
+        "DES_DISC": "CRIA\u00c7\u00c3O E ARTE PUBLICIT\u00c1RIA",
         "CARG_HOR": 60,
         "COD_CURS": [
-            33
+            50
         ]
     },
     {
-        "DES_DISC": "HIST\u00d3RIA DO BRASIL REP\u00daBLICA II",
+        "DES_DISC": "ENFERMAGEM NA SA\u00daDE DO ADULTO: CUIDADOS M\u00cdNIMOS E INTERMEDI\u00c1RIOS",
         "CARG_HOR": 60,
         "COD_CURS": [
-            66
+            31
+        ]
+    },
+    {
+        "DES_DISC": "SISTEMAS FLUIDO-MEC\u00c2NICOS ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            9
+        ]
+    },
+    {
+        "DES_DISC": "HIDROLOGIA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            6
+        ]
+    },
+    {
+        "DES_DISC": "REDES INDUSTRIAIS E SISTEMAS SUPERVIS\u00d3RIOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            53
+        ]
+    },
+    {
+        "DES_DISC": "ELETR\u00d4NICA DE AQUISI\u00c7\u00c3O E PROCESSAMENTO",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            53
+        ]
+    },
+    {
+        "DES_DISC": "ESCOLA,CURR\u00cdCULO E SOCIEDADE",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "FARMACOBIOTECNOLOGIA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            30
+        ]
+    },
+    {
+        "DES_DISC": "ANATOMIA SIST\u00caMICA DOS ANIMAIS DOM\u00c9STICOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            63
+        ]
+    },
+    {
+        "DES_DISC": "FARMACOLOGIA E TOXICOLOGIA VETERIN\u00c1RIA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            63
+        ]
+    },
+    {
+        "DES_DISC": "T\u00c9CNICA CIR\u00daRGICA E ANESTESIOLOGIA VETERIN\u00c1RIA II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            63
+        ]
+    },
+    {
+        "DES_DISC": "TRABALHO DE CONCLUS\u00c3O DE CURSO EM ENGENHARIA CIVIL I",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            6
+        ]
+    },
+    {
+        "DES_DISC": "\u00c9TICA E LEGISLA\u00c7\u00c3O PROFISSIONAL ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            37
+        ]
+    },
+    {
+        "DES_DISC": "PROJETO INTERDISCIPLINAR",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            40
         ]
     },
     {
@@ -3450,125 +3569,6 @@
         ]
     },
     {
-        "DES_DISC": "TEND\u00caNCIAS DA HISTORIOGRAFIA CONTEMPOR\u00c2NEA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            66
-        ]
-    },
-    {
-        "DES_DISC": "METODOLOGIA E PR\u00c1TICA DE ENSINO DE HIST\u00d3RIA E ORIENTA\u00c7\u00c3O DE EST\u00c1GIO CURRICULAR SUPERVISIONADO EM HIST\u00d3RIA IV",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            66
-        ]
-    },
-    {
-        "DES_DISC": "PROJETOS INTERDISCIPLINARES PARA DOC\u00caNCIA DE HIST\u00d3RIA II ",
-        "CARG_HOR": 20,
-        "COD_CURS": [
-            66
-        ]
-    },
-    {
-        "DES_DISC": "PROJETOS INTERDISCIPLINARES PARA DOC\u00caNCIA DE HIST\u00d3RIA IV",
-        "CARG_HOR": 10,
-        "COD_CURS": [
-            66
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM HIST\u00d3RIA IV",
-        "CARG_HOR": 100,
-        "COD_CURS": [
-            66
-        ]
-    },
-    {
-        "DES_DISC": "PR\u00c1TICA DE INTEGRA\u00c7\u00c3O: ENSINO-SERVI\u00c7O-COMUNIDADE I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31
-        ]
-    },
-    {
-        "DES_DISC": "TRABALHO DE CURSO EM MEDICINA VETERIN\u00c1RIA",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            63
-        ]
-    },
-    {
-        "DES_DISC": "REDA\u00c7\u00c3O PUBLICIT\u00c1RIA APLICADA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            50
-        ]
-    },
-    {
-        "DES_DISC": "PRODU\u00c7\u00c3O APLICADA A PROJETO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            50
-        ]
-    },
-    {
-        "DES_DISC": "ELETROMAGNETISMO APLICADO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            8
-        ]
-    },
-    {
-        "DES_DISC": "T\u00c9CNICAS DIGITAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            8
-        ]
-    },
-    {
-        "DES_DISC": "PROJETO DE INSTALA\u00c7\u00d5ES EL\u00c9TRICAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            8
-        ]
-    },
-    {
-        "DES_DISC": "ELETR\u00d4NICA DE POT\u00caNCIA ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            8
-        ]
-    },
-    {
-        "DES_DISC": "PRINC\u00cdPIOS DA COMUNICA\u00c7\u00c3O APLICADA ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            8
-        ]
-    },
-    {
-        "DES_DISC": "AN\u00c1LISE DE SISTEMAS DE POT\u00caNCIA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            8
-        ]
-    },
-    {
-        "DES_DISC": "ELETR\u00d4NICA GERAL ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            9
-        ]
-    },
-    {
-        "DES_DISC": "DESENVOLVIMENTO DO TRABALHO DE CONCLUS\u00c3O DE CURSO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            44
-        ]
-    },
-    {
         "DES_DISC": "DIREITO CIVIL II",
         "CARG_HOR": 60,
         "COD_CURS": [
@@ -3576,21 +3576,217 @@
         ]
     },
     {
-        "DES_DISC": "DIREITO CIVIL III",
+        "DES_DISC": "PROJETOS INTERDISCIPLINARES - REVISTA",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            49
+        ]
+    },
+    {
+        "DES_DISC": "CONTABILIDADE E PLANEJAMENTO TRIBUT\u00c1RIO",
         "CARG_HOR": 60,
         "COD_CURS": [
-            5
+            3
+        ]
+    },
+    {
+        "DES_DISC": "PSICOLOGIA: CI\u00caNCIA, \u00c9TICA E PROFISS\u00c3O",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            36
+        ]
+    },
+    {
+        "DES_DISC": "ECOLOGIA GERAL E DE ECOSSISTEMAS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            34
+        ]
+    },
+    {
+        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA III",
+        "CARG_HOR": 40,
+        "COD_CURS": [
+            9
+        ]
+    },
+    {
+        "DES_DISC": "FELICIDADE E FLORESCIMENTO HUMANO",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            68
+        ]
+    },
+    {
+        "DES_DISC": "INTRODU\u00c7\u00c3O \u00c0 PESQUISA QUALITATIVA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            60
+        ]
+    },
+    {
+        "DES_DISC": "ENTREVISTA E REPORTAGEM MULTIM\u00cdDIA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            49
+        ]
+    },
+    {
+        "DES_DISC": "OBSERVA\u00c7\u00c3O DE PR\u00c1TICAS CL\u00cdNICAS EM AUDIOLOGIA CL\u00cdNICA II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            67
+        ]
+    },
+    {
+        "DES_DISC": "GEST\u00c3O ESTRAT\u00c9GICA EM RECURSOS HUMANOS ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            21
+        ]
+    },
+    {
+        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA III",
+        "CARG_HOR": 50,
+        "COD_CURS": [
+            54,
+            4,
+            71,
+            22,
+            50
+        ]
+    },
+    {
+        "DES_DISC": "RELA\u00c7\u00d5ES FON\u00c9TICO-FONOL\u00d3GICAS E ORTOGR\u00c1FICAS EM L\u00cdNGUA PORTUGUESA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            60
+        ]
+    },
+    {
+        "DES_DISC": "TECNOLOGIAS DISRUPTIVAS APLICADAS \u00c0 EDUCA\u00c7\u00c3O INCLUSIVA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM BIOMEDICINA II",
+        "CARG_HOR": 320,
+        "COD_CURS": [
+            44
+        ]
+    },
+    {
+        "DES_DISC": "ATUALIDADES EM FONOAUDIOLOGIA ",
+        "CARG_HOR": 40,
+        "COD_CURS": [
+            67
+        ]
+    },
+    {
+        "DES_DISC": "EMPREENDEDORISMO E INOVA\u00c7\u00c3O ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            1,
+            3,
+            19,
+            57,
+            21,
+            13
+        ]
+    },
+    {
+        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA III",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            38,
+            40,
+            57,
+            21,
+            13,
+            46,
+            5,
+            31,
+            30,
+            58,
+            63,
+            42,
+            36
+        ]
+    },
+    {
+        "DES_DISC": "ESTRUTURAS DE DADOS II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            54
+        ]
+    },
+    {
+        "DES_DISC": "INSTRUMENTALIZA\u00c7\u00c3O PARA O PROCESSO DO CUIDAR",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            31
+        ]
+    },
+    {
+        "DES_DISC": "COZINHA FRIA E CONTEMPOR\u00c2NEA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            57
+        ]
+    },
+    {
+        "DES_DISC": "PRINC\u00cdPIOS DE CRIA\u00c7\u00c3O PUBLICIT\u00c1RIA ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            50
+        ]
+    },
+    {
+        "DES_DISC": "FUNDAMENTOS METODOL\u00d3GICOS DE LINGUAGENS: ALFABETIZA\u00c7\u00c3O E LETRAMENTO",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "RADIOJORNALISMO",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            49
+        ]
+    },
+    {
+        "DES_DISC": "COMPOSI\u00c7\u00c3O DOS ALIMENTOS E REGIONALIDADE ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            48
+        ]
+    },
+    {
+        "DES_DISC": "PSICOLOGIA DO DESENVOLVIMENTO: INF\u00c2NCIA E ADOLESC\u00caNCIA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            36
+        ]
+    },
+    {
+        "DES_DISC": "RECURSOS TERAP\u00caUTICOS F\u00cdSICOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            58
+        ]
+    },
+    {
+        "DES_DISC": "PROJETO DE INTERIORES RESIDENCIAL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            39
         ]
     },
     {
         "DES_DISC": "DIREITO CIVIL IV",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "DIREITO CIVIL V",
         "CARG_HOR": 60,
         "COD_CURS": [
             5
@@ -3604,42 +3800,149 @@
         ]
     },
     {
+        "DES_DISC": "HABILITA\u00c7\u00c3O E REABILITA\u00c7\u00c3O DOS DIST\u00daRBIOS DA AUDI\u00c7\u00c3O ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            67
+        ]
+    },
+    {
+        "DES_DISC": "F\u00cdSICO-QU\u00cdMICA APLICADA \u00c0 FARM\u00c1CIA",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            30
+        ]
+    },
+    {
+        "DES_DISC": "PR\u00d3TESE, \u00d3RTESE E TECNOLOGIA ASSISTIVA",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            58
+        ]
+    },
+    {
+        "DES_DISC": "PROGRAMA INTEGRADO DE ENSINO EM SA\u00daDE BUCAL - SA\u00daDE BUCAL COLETIVA",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            42
+        ]
+    },
+    {
+        "DES_DISC": "PROJETO DE ARQUITETURA: HABITABILIDADE NAS CIDADES ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            37
+        ]
+    },
+    {
+        "DES_DISC": "ESTUDOS HIST\u00d3RICOS E FILOS\u00d3FICOS DA EDUCA\u00c7\u00c3O",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA III",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            68
+        ]
+    },
+    {
+        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA I",
+        "CARG_HOR": 58,
+        "COD_CURS": [
+            68
+        ]
+    },
+    {
+        "DES_DISC": "RELA\u00c7\u00d5ES INTERPESSOAIS CONTEMPOR\u00c2NEAS ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "DIREITO CIVIL III",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "PROJETO INTERDISCIPLINAR EM FONOAUDIOLOGIA V ",
+        "CARG_HOR": 17,
+        "COD_CURS": [
+            67
+        ]
+    },
+    {
+        "DES_DISC": "VIGIL\u00c2NCIA E PROMO\u00c7\u00c3O \u00c0 SA\u00daDE ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            31,
+            30
+        ]
+    },
+    {
+        "DES_DISC": " AVALIA\u00c7\u00c3O PSICOL\u00d3GICA E TESTAGEM PSICOL\u00d3GICA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            36
+        ]
+    },
+    {
+        "DES_DISC": "TECNOLOGIA DOS ALIMENTOS ",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            57
+        ]
+    },
+    {
+        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA III",
+        "CARG_HOR": 40,
+        "COD_CURS": [
+            8
+        ]
+    },
+    {
+        "DES_DISC": "TEORIA E HIST\u00d3RIA DA ARTE E DO DESIGN",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            39,
+            40
+        ]
+    },
+    {
+        "DES_DISC": "HIST\u00d3RIA MODERNA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            66
+        ]
+    },
+    {
+        "DES_DISC": "EMPREENDEDORISMO E INOVA\u00c7\u00c3O ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            19
+        ]
+    },
+    {
+        "DES_DISC": "DISCURSO E ESCRITA EM MEIOS DIGITAIS COLABORATIVOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            60
+        ]
+    },
+    {
+        "DES_DISC": "LETRAMENTO RACIAL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            60
+        ]
+    },
+    {
         "DES_DISC": "PROJETOS INTERDISCIPLINARES  - AG\u00caNCIA DE NOT\u00cdCIAS",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            49
-        ]
-    },
-    {
-        "DES_DISC": "RADIOJORNALISMO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            49
-        ]
-    },
-    {
-        "DES_DISC": "REDA\u00c7\u00c3O JORNAL\u00cdSTICA V",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            49
-        ]
-    },
-    {
-        "DES_DISC": "JORNALISMO ESPECIALIZADO ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            49
-        ]
-    },
-    {
-        "DES_DISC": "GRANDE REPORTAGEM, DOCUMENT\u00c1RIO E ATIVISMO DIGITAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            49
-        ]
-    },
-    {
-        "DES_DISC": "PROJETOS INTERDISCIPLINARES - REVISTA",
         "CARG_HOR": 30,
         "COD_CURS": [
             49
@@ -3653,7 +3956,142 @@
         ]
     },
     {
-        "DES_DISC": "ORIENTA\u00c7\u00c3O DO TRABALHO DE CONCLUS\u00c3O DE CURSO",
+        "DES_DISC": "AVALIA\u00c7\u00c3O DA FUN\u00c7\u00c3O AUDITIVA CENTRAL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            67
+        ]
+    },
+    {
+        "DES_DISC": "OBSERVA\u00c7\u00c3O DE PR\u00c1TICAS CL\u00cdNICAS EM DIST\u00daRBIOS DA COMUNICA\u00c7\u00c3O II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            67
+        ]
+    },
+    {
+        "DES_DISC": "PROJETO DE EXTENS\u00c3O EM EDUCA\u00c7\u00c3O F\u00cdSICA: SA\u00daDE ",
+        "CARG_HOR": 20,
+        "COD_CURS": [
+            32
+        ]
+    },
+    {
+        "DES_DISC": "MECANISMOS DE AGRESS\u00c3O E DEFESA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            31
+        ]
+    },
+    {
+        "DES_DISC": "NUTRI\u00c7\u00c3O HUMANA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            48
+        ]
+    },
+    {
+        "DES_DISC": "TEMAS SOCIAIS CONTEMPOR\u00c2NEOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            66
+        ]
+    },
+    {
+        "DES_DISC": "PESQUISA, LEITURA E ESCRITA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "TOXICOLOGIA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            30
+        ]
+    },
+    {
+        "DES_DISC": "REDA\u00c7\u00c3O JORNAL\u00cdSTICA V",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            49
+        ]
+    },
+    {
+        "DES_DISC": "HABILITA\u00c7\u00c3O E REABILITA\u00c7\u00c3O DOS DIST\u00daRBIOS DA COMUNICA\u00c7\u00c3O",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            67
+        ]
+    },
+    {
+        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA III",
+        "CARG_HOR": 40,
+        "COD_CURS": [
+            1,
+            37,
+            3,
+            19,
+            6,
+            53,
+            49,
+            10
+        ]
+    },
+    {
+        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA I ",
+        "CARG_HOR": 70,
+        "COD_CURS": [
+            38,
+            66,
+            22
+        ]
+    },
+    {
+        "DES_DISC": "FARMACOT\u00c9CNICA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            30
+        ]
+    },
+    {
+        "DES_DISC": "RADIOBIOLOGIA E RADIOPROTE\u00c7\u00c3O ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            46
+        ]
+    },
+    {
+        "DES_DISC": "PSICOLOGIA SOCIAL: INDIV\u00cdDUO E SOCIEDADE",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            36
+        ]
+    },
+    {
+        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA III",
+        "CARG_HOR": 70,
+        "COD_CURS": [
+            67
+        ]
+    },
+    {
+        "DES_DISC": "RELA\u00c7\u00d5ES SINT\u00c1TICAS EM L\u00cdNGUA PORTUGUESA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            60
+        ]
+    },
+    {
+        "DES_DISC": "PR\u00c1TICAS PEDAG\u00d3GICAS V",
+        "CARG_HOR": 96,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "COMUNICA\u00c7\u00c3O DIGITAL E INOVA\u00c7\u00c3O",
         "CARG_HOR": 60,
         "COD_CURS": [
             49
@@ -3667,38 +4105,156 @@
         ]
     },
     {
-        "DES_DISC": "TRABALHO DE CONCLUS\u00c3O DE CURSO ",
-        "CARG_HOR": 180,
-        "COD_CURS": [
-            49
-        ]
-    },
-    {
-        "DES_DISC": "ORIENTA\u00c7\u00c3O DE TRABALHO DE CURSO EM ARQUITETURA E URBANISMO",
+        "DES_DISC": "L\u00cdNGUA BRASILEIRA DE SINAIS",
         "CARG_HOR": 60,
         "COD_CURS": [
-            37
+            60,
+            22
         ]
     },
     {
-        "DES_DISC": "ENTREVISTA E REPORTAGEM MULTIM\u00cdDIA",
+        "DES_DISC": "FITOTERAPIA APLICADA \u00c0 FARM\u00c1CIA",
         "CARG_HOR": 60,
         "COD_CURS": [
-            49
+            30
         ]
     },
     {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM BIOMEDICINA II",
-        "CARG_HOR": 320,
-        "COD_CURS": [
-            44
-        ]
-    },
-    {
-        "DES_DISC": "FON\u00c9TICA E FONOLOGIA APLICADAS \u00c0 FONOAUDIOLOGIA",
+        "DES_DISC": "PR\u00c1TICA DE INTEGRA\u00c7\u00c3O, ENSINO, SERVI\u00c7O E COMUNIDADE II",
         "CARG_HOR": 60,
         "COD_CURS": [
-            67
+            31
+        ]
+    },
+    {
+        "DES_DISC": "DIMENS\u00d5ES POL\u00cdTICAS E SOCIAIS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            4,
+            11
+        ]
+    },
+    {
+        "DES_DISC": "BASES FARMACOL\u00d3GICAS PARA A TERAP\u00caUTICA E ANESTESIOLOGIA EM ODONTOLOGIA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            42
+        ]
+    },
+    {
+        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA III",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            39
+        ]
+    },
+    {
+        "DES_DISC": "MORFOLOGIA E FISIOLOGIA VEGETAL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            34
+        ]
+    },
+    {
+        "DES_DISC": "FUNDAMENTOS S\u00d3CIO-HIST\u00d3RICOS DA EDUCA\u00c7\u00c3O F\u00cdSICA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            68
+        ]
+    },
+    {
+        "DES_DISC": "POL\u00cdTICAS P\u00daBLICAS EM EDUCA\u00c7\u00c3O",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "MEDIA\u00c7\u00c3O PEDAG\u00d3GICA E GEST\u00c3O DE PROJETOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            22
+        ]
+    },
+    {
+        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA III",
+        "CARG_HOR": 45,
+        "COD_CURS": [
+            50
+        ]
+    },
+    {
+        "DES_DISC": "TEORIA MICROECON\u00d4MICA II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            19
+        ]
+    },
+    {
+        "DES_DISC": "PROJETOS EXPERIMENTAIS EM GEST\u00c3O P\u00daBLICA I",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            13
+        ]
+    },
+    {
+        "DES_DISC": "REDES DE COMPUTADORES",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            54,
+            38,
+            10
+        ]
+    },
+    {
+        "DES_DISC": "POL\u00cdTICAS P\u00daBLICAS DE ATEN\u00c7\u00c3O \u00c0 SA\u00daDE",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            31,
+            58
+        ]
+    },
+    {
+        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA II",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            5,
+            31
+        ]
+    },
+    {
+        "DES_DISC": "FILOSOFIA GERAL E JUR\u00cdDICA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "MEDIA\u00c7\u00c3O CULTURAL ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            66
+        ]
+    },
+    {
+        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA I",
+        "CARG_HOR": 20,
+        "COD_CURS": [
+            60
+        ]
+    },
+    {
+        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA II",
+        "CARG_HOR": 40,
+        "COD_CURS": [
+            9
+        ]
+    },
+    {
+        "DES_DISC": "LEITURA E PRODU\u00c7\u00c3O DE TEXTOS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            60
         ]
     },
     {
@@ -3716,57 +4272,78 @@
         ]
     },
     {
-        "DES_DISC": "AUDIOLOGIA CL\u00cdNICA",
+        "DES_DISC": "ANATOMIA RADIOL\u00d3GICA ",
         "CARG_HOR": 60,
         "COD_CURS": [
-            67
+            46
         ]
     },
     {
-        "DES_DISC": "HABILITA\u00c7\u00c3O E REABILITA\u00c7\u00c3O DOS DIST\u00daRBIOS DA COMUNICA\u00c7\u00c3O",
+        "DES_DISC": "TECNOLOGIAS LABORATORIAIS APLICADAS",
         "CARG_HOR": 60,
         "COD_CURS": [
-            67
+            44
         ]
     },
     {
-        "DES_DISC": "ATUALIDADES EM FONOAUDIOLOGIA ",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            67
-        ]
-    },
-    {
-        "DES_DISC": "AVALIA\u00c7\u00c3O DA FUN\u00c7\u00c3O AUDITIVA CENTRAL",
+        "DES_DISC": "SA\u00daDE BUCAL COLETIVA",
         "CARG_HOR": 60,
         "COD_CURS": [
-            67
+            42
         ]
     },
     {
-        "DES_DISC": "HABILITA\u00c7\u00c3O E REABILITA\u00c7\u00c3O DOS DIST\u00daRBIOS DA AUDI\u00c7\u00c3O ",
+        "DES_DISC": "EDUCA\u00c7\u00c3O F\u00cdSICA PARA IDOSOS E GRUPOS ESPECIAIS",
         "CARG_HOR": 60,
         "COD_CURS": [
-            67
+            32
         ]
     },
     {
-        "DES_DISC": "OBSERVA\u00c7\u00c3O DE PR\u00c1TICAS CL\u00cdNICAS EM AUDIOLOGIA CL\u00cdNICA II",
+        "DES_DISC": "ESTUDOS LINGU\u00cdSTICO-DISCURSIVOS EM L\u00cdNGUA INGLESA I",
         "CARG_HOR": 60,
         "COD_CURS": [
-            67
+            60
         ]
     },
     {
-        "DES_DISC": "OBSERVA\u00c7\u00c3O DE PR\u00c1TICAS CL\u00cdNICAS EM DIST\u00daRBIOS DA COMUNICA\u00c7\u00c3O II",
+        "DES_DISC": "JOGOS E BRINCADEIRAS",
         "CARG_HOR": 60,
         "COD_CURS": [
-            67
+            22
         ]
     },
     {
-        "DES_DISC": "PROJETO INTERDISCIPLINAR EM FONOAUDIOLOGIA V ",
-        "CARG_HOR": 17,
+        "DES_DISC": "HIST\u00d3RIA, SOCIEDADE E CIDADANIA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            66
+        ]
+    },
+    {
+        "DES_DISC": "GOVERNAN\u00c7A, GEST\u00c3O DE RISCOS E COMPLIANCE",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            5
+        ]
+    },
+    {
+        "DES_DISC": "POL\u00cdTICAS P\u00daBLICAS SOCIAIS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            4
+        ]
+    },
+    {
+        "DES_DISC": "GRANDE REPORTAGEM, DOCUMENT\u00c1RIO E ATIVISMO DIGITAL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            49
+        ]
+    },
+    {
+        "DES_DISC": "FON\u00c9TICA E FONOLOGIA APLICADAS \u00c0 FONOAUDIOLOGIA",
+        "CARG_HOR": 60,
         "COD_CURS": [
             67
         ]
@@ -3779,10 +4356,59 @@
         ]
     },
     {
-        "DES_DISC": "PROJETO DE EXTENS\u00c3O EM EDUCA\u00c7\u00c3O F\u00cdSICA: SA\u00daDE ",
-        "CARG_HOR": 20,
+        "DES_DISC": "PR\u00c1TICAS DE FOTOGRAFIA PUBLICIT\u00c1RIA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            50
+        ]
+    },
+    {
+        "DES_DISC": "PROGRAMA INTEGRADO DE ENSINO EM SA\u00daDE BUCAL - ATEN\u00c7\u00c3O \u00c0 SA\u00daDE POR CICLO DE VIDA",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            42
+        ]
+    },
+    {
+        "DES_DISC": "DESENHO T\u00c9CNICO DIGITAL ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            37
+        ]
+    },
+    {
+        "DES_DISC": "HIST\u00d3RIA MEDIEVAL",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            66
+        ]
+    },
+    {
+        "DES_DISC": "MANIFESTA\u00c7\u00d5ES CULTURAIS ESPORTIVAS: MODALIDADES AQU\u00c1TICAS ",
+        "CARG_HOR": 60,
         "COD_CURS": [
             32
+        ]
+    },
+    {
+        "DES_DISC": "MEIO AMBIENTE E SUSTENTABILIDADE",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            34
+        ]
+    },
+    {
+        "DES_DISC": "JORNALISMO ESPECIALIZADO ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            49
+        ]
+    },
+    {
+        "DES_DISC": "TRABALHO DE CONCLUS\u00c3O DE CURSO ",
+        "CARG_HOR": 180,
+        "COD_CURS": [
+            49
         ]
     },
     {
@@ -3790,13 +4416,6 @@
         "CARG_HOR": 160,
         "COD_CURS": [
             32
-        ]
-    },
-    {
-        "DES_DISC": "PRINC\u00cdPIOS ECON\u00d4MICOS ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1
         ]
     },
     {
@@ -3824,87 +4443,6 @@
         ]
     },
     {
-        "DES_DISC": "EMPREENDEDORISMO E INOVA\u00c7\u00c3O ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1,
-            3,
-            19,
-            57,
-            21,
-            13
-        ]
-    },
-    {
-        "DES_DISC": "GEST\u00c3O ESTRAT\u00c9GICA EM RECURSOS HUMANOS ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            21
-        ]
-    },
-    {
-        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA III",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            38,
-            40,
-            57,
-            21,
-            13,
-            46,
-            5,
-            31,
-            30,
-            58,
-            63,
-            42,
-            36
-        ]
-    },
-    {
-        "DES_DISC": "L\u00cdNGUA BRASILEIRA DE SINAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            60,
-            22
-        ]
-    },
-    {
-        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA III",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            1,
-            37,
-            3,
-            19,
-            6,
-            53,
-            49,
-            10
-        ]
-    },
-    {
-        "DES_DISC": "CONTABILIDADE E PLANEJAMENTO TRIBUT\u00c1RIO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            3
-        ]
-    },
-    {
-        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA I",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            37,
-            6,
-            8,
-            9,
-            53,
-            58,
-            49,
-            10
-        ]
-    },
-    {
         "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA II",
         "CARG_HOR": 40,
         "COD_CURS": [
@@ -3920,189 +4458,10 @@
         ]
     },
     {
-        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA I ",
-        "CARG_HOR": 70,
-        "COD_CURS": [
-            38,
-            66,
-            22
-        ]
-    },
-    {
-        "DES_DISC": "REDES DE COMPUTADORES",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            54,
-            38,
-            10
-        ]
-    },
-    {
         "DES_DISC": "FARM\u00c1CIA, ATUALIDADES E ASSIST\u00caNCIA FARMAC\u00caUTICA",
         "CARG_HOR": 60,
         "COD_CURS": [
             30
-        ]
-    },
-    {
-        "DES_DISC": "POL\u00cdTICAS P\u00daBLICAS DE ATEN\u00c7\u00c3O \u00c0 SA\u00daDE",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31,
-            58
-        ]
-    },
-    {
-        "DES_DISC": "VIGIL\u00c2NCIA E PROMO\u00c7\u00c3O \u00c0 SA\u00daDE ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31,
-            30
-        ]
-    },
-    {
-        "DES_DISC": "F\u00cdSICO-QU\u00cdMICA APLICADA \u00c0 FARM\u00c1CIA",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            30
-        ]
-    },
-    {
-        "DES_DISC": "QU\u00cdMICA ORG\u00c2NICA APLICADA \u00c0 FARM\u00c1CIA ",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            30
-        ]
-    },
-    {
-        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            46,
-            5,
-            31,
-            7,
-            30,
-            63,
-            42,
-            36
-        ]
-    },
-    {
-        "DES_DISC": "MECANISMOS DE AGRESS\u00c3O E DEFESA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31
-        ]
-    },
-    {
-        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5,
-            31
-        ]
-    },
-    {
-        "DES_DISC": "FITOTERAPIA APLICADA \u00c0 FARM\u00c1CIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
-    },
-    {
-        "DES_DISC": "FARMACOT\u00c9CNICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
-    },
-    {
-        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM FARM\u00c1CIA II",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            30
-        ]
-    },
-    {
-        "DES_DISC": "COMUNICA\u00c7\u00c3O, LIDERAN\u00c7A E TOMADA DE DECIS\u00c3O EM SA\u00daDE",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31,
-            36
-        ]
-    },
-    {
-        "DES_DISC": "COMPOSI\u00c7\u00c3O DOS ALIMENTOS E REGIONALIDADE ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            48
-        ]
-    },
-    {
-        "DES_DISC": "NUTRI\u00c7\u00c3O HUMANA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            48
-        ]
-    },
-    {
-        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA III",
-        "CARG_HOR": 50,
-        "COD_CURS": [
-            44,
-            34,
-            69,
-            66,
-            60,
-            48,
-            11
-        ]
-    },
-    {
-        "DES_DISC": "ANATOMIA RADIOL\u00d3GICA ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            46
-        ]
-    },
-    {
-        "DES_DISC": "RADIOBIOLOGIA E RADIOPROTE\u00c7\u00c3O ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            46
-        ]
-    },
-    {
-        "DES_DISC": "PSICOLOGIA: CI\u00caNCIA, \u00c9TICA E PROFISS\u00c3O",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
-        "DES_DISC": "TECNOLOGIAS LABORATORIAIS APLICADAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            44
-        ]
-    },
-    {
-        "DES_DISC": "ESTRUTURAS DE DADOS II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            54
-        ]
-    },
-    {
-        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA III",
-        "CARG_HOR": 50,
-        "COD_CURS": [
-            54,
-            4,
-            71,
-            22,
-            50
         ]
     },
     {
@@ -4113,81 +4472,10 @@
         ]
     },
     {
-        "DES_DISC": "INSTRUMENTALIZA\u00c7\u00c3O PARA O PROCESSO DO CUIDAR",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31
-        ]
-    },
-    {
-        "DES_DISC": "PR\u00c1TICA DE INTEGRA\u00c7\u00c3O, ENSINO, SERVI\u00c7O E COMUNIDADE II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31
-        ]
-    },
-    {
-        "DES_DISC": "PSICOLOGIA DO DESENVOLVIMENTO: INF\u00c2NCIA E ADOLESC\u00caNCIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
-        "DES_DISC": "PSICOLOGIA SOCIAL: INDIV\u00cdDUO E SOCIEDADE",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
-        "DES_DISC": " AVALIA\u00c7\u00c3O PSICOL\u00d3GICA E TESTAGEM PSICOL\u00d3GICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
-    },
-    {
         "DES_DISC": "SEMIOLOGIA DO MOVIMENTO HUMANO",
         "CARG_HOR": 60,
         "COD_CURS": [
             58
-        ]
-    },
-    {
-        "DES_DISC": "PR\u00d3TESE, \u00d3RTESE E TECNOLOGIA ASSISTIVA",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            58
-        ]
-    },
-    {
-        "DES_DISC": "RECURSOS TERAP\u00caUTICOS F\u00cdSICOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            58
-        ]
-    },
-    {
-        "DES_DISC": "RECURSOS TERAP\u00caUTICOS MANUAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            58
-        ]
-    },
-    {
-        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA III",
-        "CARG_HOR": 70,
-        "COD_CURS": [
-            67
-        ]
-    },
-    {
-        "DES_DISC": "DIMENS\u00d5ES POL\u00cdTICAS E SOCIAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            4,
-            11
         ]
     },
     {
@@ -4198,78 +4486,8 @@
         ]
     },
     {
-        "DES_DISC": "PANIFICA\u00c7\u00c3O E CONFEITARIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            57
-        ]
-    },
-    {
-        "DES_DISC": "TECNOLOGIA DOS ALIMENTOS ",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            57
-        ]
-    },
-    {
-        "DES_DISC": "COZINHA FRIA E CONTEMPOR\u00c2NEA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            57
-        ]
-    },
-    {
-        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA III",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            8
-        ]
-    },
-    {
-        "DES_DISC": "FILOSOFIA GERAL E JUR\u00cdDICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "PR\u00c1TICAS DE FOTOGRAFIA PUBLICIT\u00c1RIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            50
-        ]
-    },
-    {
-        "DES_DISC": "PRINC\u00cdPIOS DE CRIA\u00c7\u00c3O PUBLICIT\u00c1RIA ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            50
-        ]
-    },
-    {
         "DES_DISC": "BASES MORFOFUNCIONAIS DOS PROCESSOS NORMAIS E ALTERADOS DE CABE\u00c7A E PESCO\u00c7O",
         "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
-    },
-    {
-        "DES_DISC": "PROGRAMA INTEGRADO DE ENSINO EM SA\u00daDE BUCAL - SA\u00daDE BUCAL COLETIVA",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
-    },
-    {
-        "DES_DISC": "SA\u00daDE BUCAL COLETIVA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            42
-        ]
-    },
-    {
-        "DES_DISC": "BASES FARMACOL\u00d3GICAS PARA A TERAP\u00caUTICA E ANESTESIOLOGIA EM ODONTOLOGIA",
-        "CARG_HOR": 60,
         "COD_CURS": [
             42
         ]
@@ -4282,67 +4500,10 @@
         ]
     },
     {
-        "DES_DISC": "PROGRAMA INTEGRADO DE ENSINO EM SA\u00daDE BUCAL - ATEN\u00c7\u00c3O \u00c0 SA\u00daDE POR CICLO DE VIDA",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
-    },
-    {
-        "DES_DISC": "ODONTOLOGIA BASEADA EM EVID\u00caNCIAS",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
-    },
-    {
         "DES_DISC": "PERIODONTIA PR\u00c9-CL\u00cdNICA E IMPLANTODONTIA",
         "CARG_HOR": 80,
         "COD_CURS": [
             42
-        ]
-    },
-    {
-        "DES_DISC": "COMPUTA\u00c7\u00c3O GR\u00c1FICA APLICADA AO DESIGN GR\u00c1FICO: TIPOGRAFIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            40
-        ]
-    },
-    {
-        "DES_DISC": "TEORIA E HIST\u00d3RIA DA ARTE E DO DESIGN",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            39,
-            40
-        ]
-    },
-    {
-        "DES_DISC": "PROJETO DE INTERIORES RESIDENCIAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            39
-        ]
-    },
-    {
-        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA III",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            39
-        ]
-    },
-    {
-        "DES_DISC": "DESENHO T\u00c9CNICO DIGITAL ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            37
-        ]
-    },
-    {
-        "DES_DISC": "PROJETO DE ARQUITETURA: HABITABILIDADE NAS CIDADES ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            37
         ]
     },
     {
@@ -4353,59 +4514,47 @@
         ]
     },
     {
-        "DES_DISC": "MORFOLOGIA E FISIOLOGIA VEGETAL",
+        "DES_DISC": "COMUNICA\u00c7\u00c3O, CULTURA E CONSUMO ",
         "CARG_HOR": 60,
         "COD_CURS": [
-            34
+            60,
+            50
         ]
     },
     {
-        "DES_DISC": "ECOLOGIA GERAL E DE ECOSSISTEMAS",
+        "DES_DISC": "DIREITO CIVIL V",
         "CARG_HOR": 60,
         "COD_CURS": [
-            34
+            5
         ]
     },
     {
-        "DES_DISC": "FUNDAMENTOS S\u00d3CIO-HIST\u00d3RICOS DA EDUCA\u00c7\u00c3O F\u00cdSICA",
+        "DES_DISC": "ORIENTA\u00c7\u00c3O DO TRABALHO DE CONCLUS\u00c3O DE CURSO",
         "CARG_HOR": 60,
         "COD_CURS": [
-            68
+            49
         ]
     },
     {
-        "DES_DISC": "ESTUDOS HIST\u00d3RICOS E FILOS\u00d3FICOS DA EDUCA\u00c7\u00c3O",
+        "DES_DISC": "AUDIOLOGIA CL\u00cdNICA",
         "CARG_HOR": 60,
         "COD_CURS": [
-            22
+            67
         ]
     },
     {
-        "DES_DISC": "POL\u00cdTICAS P\u00daBLICAS EM EDUCA\u00c7\u00c3O",
+        "DES_DISC": "COMUNICA\u00c7\u00c3O, LIDERAN\u00c7A E TOMADA DE DECIS\u00c3O EM SA\u00daDE",
         "CARG_HOR": 60,
         "COD_CURS": [
-            22
+            31,
+            36
         ]
     },
     {
-        "DES_DISC": "EDUCA\u00c7\u00c3O F\u00cdSICA PARA IDOSOS E GRUPOS ESPECIAIS",
+        "DES_DISC": "PANIFICA\u00c7\u00c3O E CONFEITARIA",
         "CARG_HOR": 60,
         "COD_CURS": [
-            32
-        ]
-    },
-    {
-        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA III",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            68
-        ]
-    },
-    {
-        "DES_DISC": "TEORIAS CONTEMPOR\u00c2NEAS DE RELA\u00c7\u00d5ES INTERNACIONAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            11
+            57
         ]
     },
     {
@@ -4423,118 +4572,6 @@
         ]
     },
     {
-        "DES_DISC": "HIST\u00d3RIA MEDIEVAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            66
-        ]
-    },
-    {
-        "DES_DISC": "HIST\u00d3RIA MODERNA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            66
-        ]
-    },
-    {
-        "DES_DISC": "MEDIA\u00c7\u00c3O CULTURAL ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            66
-        ]
-    },
-    {
-        "DES_DISC": "MEDIA\u00c7\u00c3O PEDAG\u00d3GICA E GEST\u00c3O DE PROJETOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
-    },
-    {
-        "DES_DISC": "FUNDAMENTOS METODOL\u00d3GICOS DE LINGUAGENS: ALFABETIZA\u00c7\u00c3O E LETRAMENTO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
-    },
-    {
-        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA I",
-        "CARG_HOR": 20,
-        "COD_CURS": [
-            60
-        ]
-    },
-    {
-        "DES_DISC": "ESTUDOS LINGU\u00cdSTICO-DISCURSIVOS EM L\u00cdNGUA INGLESA I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            60
-        ]
-    },
-    {
-        "DES_DISC": "RELA\u00c7\u00d5ES SINT\u00c1TICAS EM L\u00cdNGUA PORTUGUESA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            60
-        ]
-    },
-    {
-        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA II",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            9
-        ]
-    },
-    {
-        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA III",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            9
-        ]
-    },
-    {
-        "DES_DISC": "RELA\u00c7\u00d5ES FON\u00c9TICO-FONOL\u00d3GICAS E ORTOGR\u00c1FICAS EM L\u00cdNGUA PORTUGUESA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            60
-        ]
-    },
-    {
-        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA I",
-        "CARG_HOR": 45,
-        "COD_CURS": [
-            50
-        ]
-    },
-    {
-        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA III",
-        "CARG_HOR": 45,
-        "COD_CURS": [
-            50
-        ]
-    },
-    {
-        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA I",
-        "CARG_HOR": 58,
-        "COD_CURS": [
-            68
-        ]
-    },
-    {
-        "DES_DISC": "MANIFESTA\u00c7\u00d5ES CULTURAIS ESPORTIVAS: MODALIDADES AQU\u00c1TICAS ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32
-        ]
-    },
-    {
-        "DES_DISC": "JOGOS E BRINCADEIRAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
-    },
-    {
         "DES_DISC": "HIST\u00d3RIA DO PENSAMENTO ECON\u00d4MICO",
         "CARG_HOR": 60,
         "COD_CURS": [
@@ -4542,101 +4579,10 @@
         ]
     },
     {
-        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA I",
-        "CARG_HOR": 50,
-        "COD_CURS": [
-            71
-        ]
-    },
-    {
-        "DES_DISC": "TEORIA MACROECON\u00d4MICA I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            19
-        ]
-    },
-    {
-        "DES_DISC": "TEORIA MICROECON\u00d4MICA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            19
-        ]
-    },
-    {
-        "DES_DISC": "EMPREENDEDORISMO E INOVA\u00c7\u00c3O ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            19
-        ]
-    },
-    {
-        "DES_DISC": "PROJETOS EXPERIMENTAIS EM GEST\u00c3O P\u00daBLICA I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            13
-        ]
-    },
-    {
-        "DES_DISC": "PR\u00c1TICAS PEDAG\u00d3GICAS V",
-        "CARG_HOR": 86,
-        "COD_CURS": [
-            22
-        ]
-    },
-    {
-        "DES_DISC": "PR\u00c1TICAS PEDAG\u00d3GICAS V",
-        "CARG_HOR": 96,
-        "COD_CURS": [
-            22
-        ]
-    },
-    {
         "DES_DISC": "PROJETO INTEGRADOR IV",
         "CARG_HOR": 30,
         "COD_CURS": [
             53
-        ]
-    },
-    {
-        "DES_DISC": "HIST\u00d3RIA, SOCIEDADE E CIDADANIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            66
-        ]
-    },
-    {
-        "DES_DISC": "TEMAS SOCIAIS CONTEMPOR\u00c2NEOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            66
-        ]
-    },
-    {
-        "DES_DISC": "GOVERNAN\u00c7A, GEST\u00c3O DE RISCOS E COMPLIANCE",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
-    },
-    {
-        "DES_DISC": "LEITURA E PRODU\u00c7\u00c3O DE TEXTOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            60
-        ]
-    },
-    {
-        "DES_DISC": "PESQUISA, LEITURA E ESCRITA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
-    },
-    {
-        "DES_DISC": "TOXICOLOGIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
         ]
     },
     {
@@ -4654,39 +4600,45 @@
         ]
     },
     {
-        "DES_DISC": "COMUNICA\u00c7\u00c3O DIGITAL E INOVA\u00c7\u00c3O",
+        "DES_DISC": "PR\u00c1TICA BASEADA EM EVID\u00caNCIA EM SA\u00daDE ",
         "CARG_HOR": 60,
         "COD_CURS": [
-            49
+            67
         ]
     },
     {
-        "DES_DISC": "COMUNICA\u00c7\u00c3O, CULTURA E CONSUMO ",
+        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA I",
         "CARG_HOR": 60,
         "COD_CURS": [
-            60,
+            46,
+            5,
+            31,
+            7,
+            30,
+            63,
+            42,
+            36
+        ]
+    },
+    {
+        "DES_DISC": "TEORIAS CONTEMPOR\u00c2NEAS DE RELA\u00c7\u00d5ES INTERNACIONAIS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            11
+        ]
+    },
+    {
+        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA I",
+        "CARG_HOR": 45,
+        "COD_CURS": [
             50
         ]
     },
     {
-        "DES_DISC": "DISCURSO E ESCRITA EM MEIOS DIGITAIS COLABORATIVOS",
-        "CARG_HOR": 60,
+        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA I",
+        "CARG_HOR": 50,
         "COD_CURS": [
-            60
-        ]
-    },
-    {
-        "DES_DISC": "EDUCA\u00c7\u00c3O PARA A PAZ E RESOLU\u00c7\u00c3O DE CONFLITOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
-    },
-    {
-        "DES_DISC": "FELICIDADE E FLORESCIMENTO HUMANO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            68
+            71
         ]
     },
     {
@@ -4704,34 +4656,6 @@
         ]
     },
     {
-        "DES_DISC": "INTRODU\u00c7\u00c3O \u00c0 PESQUISA QUALITATIVA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            60
-        ]
-    },
-    {
-        "DES_DISC": "LETRAMENTO RACIAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            60
-        ]
-    },
-    {
-        "DES_DISC": "POL\u00cdTICAS P\u00daBLICAS SOCIAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            4
-        ]
-    },
-    {
-        "DES_DISC": "PR\u00c1TICA BASEADA EM EVID\u00caNCIA EM SA\u00daDE ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            67
-        ]
-    },
-    {
         "DES_DISC": "PROJETOS DE EDIFICA\u00c7\u00d5ES COM AUX\u00cdLIO COMPUTACIONAL",
         "CARG_HOR": 60,
         "COD_CURS": [
@@ -4739,24 +4663,100 @@
         ]
     },
     {
-        "DES_DISC": "RELA\u00c7\u00d5ES INTERPESSOAIS CONTEMPOR\u00c2NEAS ",
+        "DES_DISC": "ORIENTA\u00c7\u00c3O DE TRABALHO DE CURSO EM ARQUITETURA E URBANISMO",
         "CARG_HOR": 60,
+        "COD_CURS": [
+            37
+        ]
+    },
+    {
+        "DES_DISC": "PRINC\u00cdPIOS ECON\u00d4MICOS ",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            1
+        ]
+    },
+    {
+        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA I",
+        "CARG_HOR": 40,
+        "COD_CURS": [
+            37,
+            6,
+            8,
+            9,
+            53,
+            58,
+            49,
+            10
+        ]
+    },
+    {
+        "DES_DISC": "QU\u00cdMICA ORG\u00c2NICA APLICADA \u00c0 FARM\u00c1CIA ",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            30
+        ]
+    },
+    {
+        "DES_DISC": "EST\u00c1GIO CURRICULAR SUPERVISIONADO EM FARM\u00c1CIA II",
+        "CARG_HOR": 30,
+        "COD_CURS": [
+            30
+        ]
+    },
+    {
+        "DES_DISC": "ITINER\u00c1RIO EXTENSIONISTA III",
+        "CARG_HOR": 50,
+        "COD_CURS": [
+            44,
+            34,
+            69,
+            66,
+            60,
+            48,
+            11
+        ]
+    },
+    {
+        "DES_DISC": "RECURSOS TERAP\u00caUTICOS MANUAIS",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            58
+        ]
+    },
+    {
+        "DES_DISC": "ODONTOLOGIA BASEADA EM EVID\u00caNCIAS",
+        "CARG_HOR": 80,
+        "COD_CURS": [
+            42
+        ]
+    },
+    {
+        "DES_DISC": "COMPUTA\u00c7\u00c3O GR\u00c1FICA APLICADA AO DESIGN GR\u00c1FICO: TIPOGRAFIA",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            40
+        ]
+    },
+    {
+        "DES_DISC": "TEORIA MACROECON\u00d4MICA I",
+        "CARG_HOR": 60,
+        "COD_CURS": [
+            19
+        ]
+    },
+    {
+        "DES_DISC": "PR\u00c1TICAS PEDAG\u00d3GICAS V",
+        "CARG_HOR": 86,
         "COD_CURS": [
             22
         ]
     },
     {
-        "DES_DISC": "TECNOLOGIAS DISRUPTIVAS APLICADAS \u00c0 EDUCA\u00c7\u00c3O INCLUSIVA",
+        "DES_DISC": "EDUCA\u00c7\u00c3O PARA A PAZ E RESOLU\u00c7\u00c3O DE CONFLITOS",
         "CARG_HOR": 60,
         "COD_CURS": [
             22
-        ]
-    },
-    {
-        "DES_DISC": "MEIO AMBIENTE E SUSTENTABILIDADE",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            34
         ]
     }
 ]

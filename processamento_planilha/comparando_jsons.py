@@ -53,8 +53,8 @@ class ComparisonModule:
         oldjson = json.load(open(oldjsonpath))
 
         for offer in newjson:
-            offer['ANO'] = '2025'
-            offer['SEMESTRE'] = '1'
+            offer['ANO'] = 2025
+            offer['SEMESTRE'] = 1
 
         resultjson = newjson + oldjson
 

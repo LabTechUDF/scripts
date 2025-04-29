@@ -11,7 +11,6 @@ ComparisonModule.GenerateDeactiveTeachers()
 ComparisonModule.GenerateComparedOffers()
 print("---------INICIANDO NORMALIZAÇÃO E PROCESSAMENTO FINAL DE JSONS---------")
 os.replace("jsonfiles/DISCIPLINAS.json", "comparedjsonfiles/DISCIPLINAS.json")
-
 NormalizeDisciplinas.normalize_disciplinas()
 print("---------INICIANDO UPLOAD PARA A DATABASE---------")
 UploadCollections.upload_collections()

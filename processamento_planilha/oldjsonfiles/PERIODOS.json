@@ -1,17 +1,14 @@
 [
     {
-        "PERIODO": "MANH\u00c3"
-    },
-    {
-        "PERIODO": "NOITE"
-    },
-    {
         "PERIODO": "TARDE"
     },
     {
         "PERIODO": "n\u00e3o se aplica"
     },
     {
-        "PERIODO": "NaN"
+        "PERIODO": "NOITE"
+    },
+    {
+        "PERIODO": "MANH\u00c3"
     }
 ]
