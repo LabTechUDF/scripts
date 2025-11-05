@@ -2,5420 +2,4837 @@
     {
         "_id": 5769,
         "DES_DISC": "JOGOS EMPRESARIAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1
-        ]
+        "COD_CURS": 1,
+        "CARG_HOR": 60
     },
     {
         "_id": 5777,
         "DES_DISC": "GESTÃO DO CONHECIMENTO E DA INOVAÇÃO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1
-        ]
+        "COD_CURS": 1,
+        "CARG_HOR": 60
     },
     {
         "_id": 5784,
         "DES_DISC": "GESTÃO DE OPERAÇÕES E SERVIÇOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1
-        ]
+        "COD_CURS": 1,
+        "CARG_HOR": 60
     },
     {
         "_id": 5771,
         "DES_DISC": "DIMENSÕES POLÍTICAS E SOCIAIS NAS ORGANIZAÇÕES",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1
-        ]
+        "COD_CURS": 1,
+        "CARG_HOR": 60
     },
     {
         "_id": 3275,
         "DES_DISC": "ANÁLISE E MELHORIA DE PROCESSOS",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            1
-        ]
+        "COD_CURS": 1,
+        "CARG_HOR": 40
     },
     {
         "_id": 5770,
         "DES_DISC": "TÓPICOS AVANÇADOS EM ADMINISTRAÇÃO ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1
-        ]
+        "COD_CURS": 1,
+        "CARG_HOR": 60
     },
     {
         "_id": 1368,
         "DES_DISC": "ECONOMIA",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            1
-        ]
+        "COD_CURS": 1,
+        "CARG_HOR": 80
     },
     {
         "_id": 5796,
         "DES_DISC": "DIREITO EMPRESARIAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1,
-            3
-        ]
+        "COD_CURS": 1,
+        "CARG_HOR": 60
     },
     {
         "_id": 7311,
         "DES_DISC": "PRINCÍPIOS ECONÔMICOS ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1
-        ]
+        "COD_CURS": 1,
+        "CARG_HOR": 60
     },
     {
         "_id": 3687,
         "DES_DISC": "GESTÃO DE OPERAÇÕES E SERVIÇOS",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            1
-        ]
+        "COD_CURS": 1,
+        "CARG_HOR": 80
     },
     {
         "_id": 4523,
         "DES_DISC": "CONTABILIDADE E FINANÇAS ",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            1
-        ]
+        "COD_CURS": 1,
+        "CARG_HOR": 80
     },
     {
         "_id": 5776,
         "DES_DISC": "CRIAÇÃO E DESENVOLVIMENTO DE NOVOS NEGÓCIOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1
-        ]
+        "COD_CURS": 1,
+        "CARG_HOR": 60
     },
     {
         "_id": 5783,
         "DES_DISC": "GESTÃO DE MARKETING",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1,
-            19
-        ]
+        "COD_CURS": 1,
+        "CARG_HOR": 60
     },
     {
         "_id": 5775,
         "DES_DISC": "GESTÃO DE MATERIAIS E LOGÍSTICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1
-        ]
+        "COD_CURS": 1,
+        "CARG_HOR": 60
     },
     {
         "_id": 4544,
         "DES_DISC": "GESTÃO ESTRATÉGICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1
-        ]
+        "COD_CURS": 1,
+        "CARG_HOR": 60
     },
     {
         "_id": 5773,
         "DES_DISC": "GESTÃO AVANÇADA DE MARKETING ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1,
-            19
-        ]
+        "COD_CURS": 1,
+        "CARG_HOR": 60
     },
     {
         "_id": 5774,
         "DES_DISC": "GESTÃO DA QUALIDADE",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1
-        ]
+        "COD_CURS": 1,
+        "CARG_HOR": 60
     },
     {
         "_id": 5779,
         "DES_DISC": "GESTÃO DE PROJETOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1
-        ]
+        "COD_CURS": 1,
+        "CARG_HOR": 60
     },
     {
         "_id": 7320,
         "DES_DISC": "EMPREENDEDORISMO E INOVAÇÃO ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1,
-            3,
-            13,
-            19,
-            21,
-            57
-        ]
+        "COD_CURS": 1,
+        "CARG_HOR": 60
     },
     {
         "_id": 5788,
         "DES_DISC": "MATEMÁTICA ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1
-        ]
+        "COD_CURS": 1,
+        "CARG_HOR": 60
     },
     {
         "_id": 2887,
         "DES_DISC": "TEORIA GERAL DA ADMINISTRAÇÃO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            1,
-            3,
-            10,
-            19,
-            21
-        ]
+        "COD_CURS": 1,
+        "CARG_HOR": 60
     },
     {
         "_id": 7314,
         "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
-        "CARG_HOR": 50,
-        "COD_CURS": [
-            1,
-            34,
-            3,
-            4,
-            69,
-            67,
-            39,
-            40,
-            70,
-            11,
-            44,
-            13,
-            48,
-            50,
-            19,
-            21,
-            54,
-            57
-        ]
+        "COD_CURS": 1,
+        "CARG_HOR": 50
     },
     {
         "_id": 7327,
         "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            1,
-            3,
-            37,
-            6,
-            10,
-            49,
-            19,
-            53
-        ]
+        "COD_CURS": 1,
+        "CARG_HOR": 40
     },
     {
         "_id": 5171,
         "DES_DISC": "METODOLOGIA DE PROJETO EM DESIGN",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            40,
-            1
-        ]
+        "COD_CURS": 1,
+        "CARG_HOR": 60
     },
     {
         "_id": 3692,
         "DES_DISC": "ESTUDO DE CASO I (PLANO DE NEGÓCIOS)",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            1
-        ]
+        "COD_CURS": 1,
+        "CARG_HOR": 80
     },
     {
         "_id": 3697,
         "DES_DISC": "PROJETO APLICADO II (PROPOSTA DE INTERVENÇÃO)",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            1
-        ]
+        "COD_CURS": 1,
+        "CARG_HOR": 80
     },
     {
         "_id": 3696,
         "DES_DISC": "ESTUDO DE CASO II (DIAGNÓSTICO ORGANIZACIONAL)",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            1
-        ]
+        "COD_CURS": 1,
+        "CARG_HOR": 80
     },
     {
         "_id": 5139,
         "DES_DISC": "PAISAGISMO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            37,
-            39
-        ]
+        "COD_CURS": 37,
+        "CARG_HOR": 60
     },
     {
         "_id": 7707,
         "DES_DISC": "PROJETO DE ARQUITETURA: HABITABILIDADE NAS CIDADES ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            37
-        ]
+        "COD_CURS": 37,
+        "CARG_HOR": 60
     },
     {
         "_id": 6358,
         "DES_DISC": "DIAGNÓSTICO E INTERVENÇÃO URBANA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            37
-        ]
+        "COD_CURS": 37,
+        "CARG_HOR": 60
     },
     {
         "_id": 6361,
         "DES_DISC": "PROJETO ARQUITETÔNICO-CORPORATIVO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            37
-        ]
+        "COD_CURS": 37,
+        "CARG_HOR": 60
     },
     {
         "_id": 6369,
         "DES_DISC": "PLANEJAMENTO URBANO E REGIONAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            37
-        ]
+        "COD_CURS": 37,
+        "CARG_HOR": 60
     },
     {
         "_id": 7705,
         "DES_DISC": "DESENHO TÉCNICO DIGITAL ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            37
-        ]
+        "COD_CURS": 37,
+        "CARG_HOR": 60
     },
     {
         "_id": 6379,
         "DES_DISC": "DESENHO ARQUITETÔNICO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            37
-        ]
+        "COD_CURS": 37,
+        "CARG_HOR": 60
     },
     {
         "_id": 6396,
         "DES_DISC": "TEORIA DA ARQUITETURA, DO URBANISMO E DO PAISAGISMO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            37
-        ]
+        "COD_CURS": 37,
+        "CARG_HOR": 60
     },
     {
         "_id": 7708,
         "DES_DISC": "TOPOGRAFIA E GEOPROCESSAMENTOS ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            37
-        ]
+        "COD_CURS": 37,
+        "CARG_HOR": 60
     },
     {
         "_id": 6676,
         "DES_DISC": "ORIENTAÇÃO DE TRABALHO DE CURSO EM ARQUITETURA E URBANISMO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            37
-        ]
+        "COD_CURS": 37,
+        "CARG_HOR": 60
     },
     {
         "_id": 6501,
         "DES_DISC": "ÉTICA E LEGISLAÇÃO PROFISSIONAL ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            37
-        ]
+        "COD_CURS": 37,
+        "CARG_HOR": 60
     },
     {
         "_id": 6360,
         "DES_DISC": "INSTALAÇÕES E EQUIPAMENTOS ELÉTRICOS E HIDRÁULICOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            37
-        ]
+        "COD_CURS": 37,
+        "CARG_HOR": 60
     },
     {
         "_id": 6356,
         "DES_DISC": "SISTEMAS ESTRUTURAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            37
-        ]
+        "COD_CURS": 37,
+        "CARG_HOR": 60
     },
     {
         "_id": 7342,
         "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            37,
-            6,
-            8,
-            9,
-            10,
-            49,
-            53,
-            58
-        ]
+        "COD_CURS": 37,
+        "CARG_HOR": 40
+    },
+    {
+        "_id": 7327,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 37,
+        "CARG_HOR": 40
     },
     {
         "_id": 6502,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO EM ARQUITETURA E URBANISMO II",
-        "CARG_HOR": 120,
-        "COD_CURS": [
-            37
-        ]
+        "COD_CURS": 37,
+        "CARG_HOR": 120
     },
     {
         "_id": 6503,
         "DES_DISC": "TRABALHO DE CURSO EM ARQUITETURA E URBANISMO II",
-        "CARG_HOR": 140,
-        "COD_CURS": [
-            37
-        ]
+        "COD_CURS": 37,
+        "CARG_HOR": 140
     },
     {
         "_id": 6375,
         "DES_DISC": "TRABALHO DE CURSO EM ARQUITETURA E URBANISMO I",
-        "CARG_HOR": 140,
-        "COD_CURS": [
-            37
-        ]
+        "COD_CURS": 37,
+        "CARG_HOR": 140
     },
     {
         "_id": 5447,
         "DES_DISC": "IMAGENOLOGIA",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            44
-        ]
+        "COD_CURS": 44,
+        "CARG_HOR": 30
     },
     {
         "_id": 5449,
         "DES_DISC": "BIOMEDICINA ESTÉTICA",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            44
-        ]
+        "COD_CURS": 44,
+        "CARG_HOR": 30
     },
     {
         "_id": 5462,
         "DES_DISC": "IMUNOLOGIA CLÍNICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            44
-        ]
+        "COD_CURS": 44,
+        "CARG_HOR": 60
     },
     {
         "_id": 5210,
         "DES_DISC": "ANATOMIA HUMANA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            34,
-            67,
-            68,
-            44,
-            48,
-            58,
-            30,
-            31
-        ]
+        "COD_CURS": 44,
+        "CARG_HOR": 60
     },
     {
         "_id": 5471,
         "DES_DISC": "BIOLOGIA MOLECULAR E BIOTECNOLOGIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            44
-        ]
+        "COD_CURS": 44,
+        "CARG_HOR": 60
     },
     {
         "_id": 5309,
         "DES_DISC": "BIOLOGIA CELULAR E TECIDUAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            34,
-            67,
-            44,
-            48,
-            58,
-            63,
-            30,
-            31
-        ]
+        "COD_CURS": 44,
+        "CARG_HOR": 60
     },
     {
         "_id": 5473,
         "DES_DISC": "FISIOLOGIA HUMANA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            34,
-            67,
-            68,
-            44,
-            46,
-            48,
-            58,
-            30,
-            31
-        ]
+        "COD_CURS": 44,
+        "CARG_HOR": 60
     },
     {
         "_id": 2368,
         "DES_DISC": "BIOQUÍMICA CLÍNICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            44
-        ]
+        "COD_CURS": 44,
+        "CARG_HOR": 60
     },
     {
         "_id": 5442,
         "DES_DISC": "HEMATOLOGIA CLÍNICA E BANCO DE SANGUE",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            44
-        ]
+        "COD_CURS": 44,
+        "CARG_HOR": 60
     },
     {
         "_id": 7452,
         "DES_DISC": "IMUNOLOGIA BÁSICA E CLÍNICA  ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            44
-        ]
+        "COD_CURS": 44,
+        "CARG_HOR": 60
     },
     {
         "_id": 5455,
         "DES_DISC": "PATOLOGIA HUMANA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            44,
-            46,
-            58,
-            30,
-            31
-        ]
+        "COD_CURS": 44,
+        "CARG_HOR": 60
     },
     {
         "_id": 7424,
         "DES_DISC": "TECNOLOGIAS LABORATORIAIS APLICADAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            44
-        ]
+        "COD_CURS": 44,
+        "CARG_HOR": 60
     },
     {
         "_id": 6628,
         "DES_DISC": "DESENVOLVIMENTO DO TRABALHO DE CONCLUSÃO DE CURSO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            44
-        ]
+        "COD_CURS": 44,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7314,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 44,
+        "CARG_HOR": 50
     },
     {
         "_id": 7399,
         "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
-        "CARG_HOR": 50,
-        "COD_CURS": [
-            34,
-            66,
-            69,
-            11,
-            44,
-            48,
-            60
-        ]
+        "COD_CURS": 44,
+        "CARG_HOR": 50
     },
     {
         "_id": 6950,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO EM BIOMEDICINA II",
-        "CARG_HOR": 320,
-        "COD_CURS": [
-            44
-        ]
+        "COD_CURS": 44,
+        "CARG_HOR": 320
     },
     {
         "_id": 5628,
         "DES_DISC": "COMPUTABILIDADE E COMPLEXIDADE DE ALGORITMOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            54
-        ]
+        "COD_CURS": 54,
+        "CARG_HOR": 60
     },
     {
         "_id": 4859,
         "DES_DISC": "PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            54
-        ]
+        "COD_CURS": 54,
+        "CARG_HOR": 60
     },
     {
         "_id": 4064,
         "DES_DISC": "COMPUTAÇÃO GRÁFICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            54
-        ]
+        "COD_CURS": 54,
+        "CARG_HOR": 60
     },
     {
         "_id": 5640,
         "DES_DISC": "PROGRAMAÇÃO WEB",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            38,
-            54,
-            71
-        ]
+        "COD_CURS": 54,
+        "CARG_HOR": 60
     },
     {
         "_id": 5625,
         "DES_DISC": "ANÁLISE E PROJETO DE SISTEMAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            10,
-            54
-        ]
+        "COD_CURS": 54,
+        "CARG_HOR": 60
     },
     {
         "_id": 5641,
         "DES_DISC": "TÉCNICAS DE DESENVOLVIMENTO DE ALGORITMOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            38,
-            10,
-            54
-        ]
+        "COD_CURS": 54,
+        "CARG_HOR": 60
     },
     {
         "_id": 7441,
         "DES_DISC": "ESTRUTURAS DE DADOS II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            54
-        ]
+        "COD_CURS": 54,
+        "CARG_HOR": 60
     },
     {
         "_id": 4865,
         "DES_DISC": "CIÊNCIA DE DADOS E APRENDIZAGEM DE MÁQUINA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            54
-        ]
+        "COD_CURS": 54,
+        "CARG_HOR": 60
     },
     {
         "_id": 5632,
         "DES_DISC": "TRABALHO DE GRADUAÇÃO INTERDISCIPLINAR I",
-        "CARG_HOR": 140,
-        "COD_CURS": [
-            54
-        ]
+        "COD_CURS": 54,
+        "CARG_HOR": 140
     },
     {
         "_id": 5634,
         "DES_DISC": "PROJETO DE LINGUAGENS DE PROGRAMAÇÃO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            54
-        ]
+        "COD_CURS": 54,
+        "CARG_HOR": 60
     },
     {
         "_id": 5624,
         "DES_DISC": "SISTEMAS OPERACIONAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            38,
-            54
-        ]
+        "COD_CURS": 54,
+        "CARG_HOR": 60
     },
     {
         "_id": 7363,
         "DES_DISC": "REDES DE COMPUTADORES",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            38,
-            10,
-            54
-        ]
+        "COD_CURS": 54,
+        "CARG_HOR": 60
     },
     {
         "_id": 7448,
         "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
-        "CARG_HOR": 50,
-        "COD_CURS": [
-            4,
-            71,
-            50,
-            22,
-            54
-        ]
+        "COD_CURS": 54,
+        "CARG_HOR": 50
+    },
+    {
+        "_id": 7314,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 54,
+        "CARG_HOR": 50
     },
     {
         "_id": 5636,
         "DES_DISC": "TRABALHO DE GRADUAÇÃO INTERDISCIPLINAR II",
-        "CARG_HOR": 140,
-        "COD_CURS": [
-            54
-        ]
+        "COD_CURS": 54,
+        "CARG_HOR": 140
     },
     {
         "_id": 3891,
         "DES_DISC": "ESTÁGIO SUPERVISIONADO",
-        "CARG_HOR": 100,
-        "COD_CURS": [
-            54
-        ]
+        "COD_CURS": 54,
+        "CARG_HOR": 100
     },
     {
         "_id": 5247,
         "DES_DISC": "PROJETO DE PESQUISA ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            4
-        ]
+        "COD_CURS": 4,
+        "CARG_HOR": 60
     },
     {
         "_id": 5234,
         "DES_DISC": "COMUNICAÇÃO, OPINIÃO PÚBLICA E PODER",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            4
-        ]
+        "COD_CURS": 4,
+        "CARG_HOR": 60
     },
     {
         "_id": 5248,
         "DES_DISC": "LABORATÓRIO POLÍTICO III",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            4
-        ]
+        "COD_CURS": 4,
+        "CARG_HOR": 80
     },
     {
         "_id": 5241,
         "DES_DISC": "POLÍTICAS PÚBLICAS E PROCESSO DECISÓRIO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            4
-        ]
+        "COD_CURS": 4,
+        "CARG_HOR": 60
     },
     {
         "_id": 5242,
         "DES_DISC": "RELAÇÕES FEDERATIVAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            4
-        ]
+        "COD_CURS": 4,
+        "CARG_HOR": 60
     },
     {
         "_id": 5231,
         "DES_DISC": "ANÁLISE POLÍTICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            4
-        ]
+        "COD_CURS": 4,
+        "CARG_HOR": 60
     },
     {
         "_id": 7786,
         "DES_DISC": "PROCESSO LEGISLATIVO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            4
-        ]
+        "COD_CURS": 4,
+        "CARG_HOR": 60
     },
     {
         "_id": 7543,
         "DES_DISC": "DIMENSÕES POLÍTICAS E SOCIAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            11,
-            4
-        ]
+        "COD_CURS": 4,
+        "CARG_HOR": 60
     },
     {
         "_id": 5255,
         "DES_DISC": "DIREITO CONSTITUCIONAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            4
-        ]
+        "COD_CURS": 4,
+        "CARG_HOR": 60
     },
     {
         "_id": 7787,
         "DES_DISC": "COMPORTAMENTO POLÍTICO E ELEITORAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            4
-        ]
+        "COD_CURS": 4,
+        "CARG_HOR": 60
     },
     {
         "_id": 5254,
         "DES_DISC": "TEORIA POLÍTICA MODERNA E CONTEMPORÂNEA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            4
-        ]
+        "COD_CURS": 4,
+        "CARG_HOR": 60
     },
     {
         "_id": 8219,
         "DES_DISC": "POLÍTICAS PÚBLICAS SOCIAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            4
-        ]
+        "COD_CURS": 4,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7314,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 4,
+        "CARG_HOR": 50
+    },
+    {
+        "_id": 7448,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 4,
+        "CARG_HOR": 50
     },
     {
         "_id": 5249,
         "DES_DISC": "RELATÓRIO DE PESQUISA",
-        "CARG_HOR": 120,
-        "COD_CURS": [
-            4
-        ]
+        "COD_CURS": 4,
+        "CARG_HOR": 120
     },
     {
         "_id": 5612,
         "DES_DISC": "EDUCAÇÃO AMBIENTAL",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            34
-        ]
+        "COD_CURS": 34,
+        "CARG_HOR": 30
     },
     {
         "_id": 5617,
         "DES_DISC": "ECOLOGIA AQUÁTICA",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            34
-        ]
+        "COD_CURS": 34,
+        "CARG_HOR": 30
     },
     {
         "_id": 5619,
         "DES_DISC": "RESTAURAÇÃO DE ÁREAS DEGRADADAS E BIOMONITORAMENTO",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            34
-        ]
+        "COD_CURS": 34,
+        "CARG_HOR": 30
     },
     {
         "_id": 5558,
         "DES_DISC": "BOTÂNICA ECONÔMICA",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            34
-        ]
+        "COD_CURS": 34,
+        "CARG_HOR": 30
     },
     {
         "_id": 7725,
         "DES_DISC": "MORFOLOGIA E FISIOLOGIA VEGETAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            34
-        ]
+        "COD_CURS": 34,
+        "CARG_HOR": 60
     },
     {
         "_id": 5610,
         "DES_DISC": "PALEONTOLOGIA",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            34
-        ]
+        "COD_CURS": 34,
+        "CARG_HOR": 30
     },
     {
         "_id": 5543,
         "DES_DISC": "ORIENTAÇÃO DE ESTÁGIO E DE TRABALHO DE CURSO II",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            34
-        ]
+        "COD_CURS": 34,
+        "CARG_HOR": 30
     },
     {
         "_id": 5609,
         "DES_DISC": "FILOGENIA E EVOLUÇÃO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            34
-        ]
+        "COD_CURS": 34,
+        "CARG_HOR": 60
     },
     {
         "_id": 5611,
         "DES_DISC": "COMPORTAMENTO ANIMAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            34
-        ]
+        "COD_CURS": 34,
+        "CARG_HOR": 60
     },
     {
         "_id": 7727,
         "DES_DISC": "ECOLOGIA GERAL E DE ECOSSISTEMAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            34
-        ]
+        "COD_CURS": 34,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5473,
+        "DES_DISC": "FISIOLOGIA HUMANA",
+        "COD_CURS": 34,
+        "CARG_HOR": 60
     },
     {
         "_id": 5551,
         "DES_DISC": "PRÁTICAS LABORATORIAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            34
-        ]
+        "COD_CURS": 34,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5309,
+        "DES_DISC": "BIOLOGIA CELULAR E TECIDUAL",
+        "COD_CURS": 34,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5210,
+        "DES_DISC": "ANATOMIA HUMANA",
+        "COD_CURS": 34,
+        "CARG_HOR": 60
     },
     {
         "_id": 8224,
         "DES_DISC": "MEIO AMBIENTE E SUSTENTABILIDADE",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            34
-        ]
+        "COD_CURS": 34,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7314,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 34,
+        "CARG_HOR": 50
+    },
+    {
+        "_id": 7399,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 34,
+        "CARG_HOR": 50
     },
     {
         "_id": 6441,
         "DES_DISC": "PROJETOS INTERDISCIPLINARES",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            34
-        ]
+        "COD_CURS": 34,
+        "CARG_HOR": 30
     },
     {
         "_id": 5618,
         "DES_DISC": "ELABORAÇÃO DE TRABALHO DE CURSO II",
-        "CARG_HOR": 50,
-        "COD_CURS": [
-            34
-        ]
+        "COD_CURS": 34,
+        "CARG_HOR": 50
     },
     {
         "_id": 4136,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO PROFISSIONALIZANTE II",
-        "CARG_HOR": 180,
-        "COD_CURS": [
-            34
-        ]
+        "COD_CURS": 34,
+        "CARG_HOR": 180
     },
     {
         "_id": 5548,
         "DES_DISC": "ELABORAÇÃO DO TRABALHO DE CURSO II",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            34
-        ]
+        "COD_CURS": 34,
+        "CARG_HOR": 30
     },
     {
         "_id": 4132,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO PROFISSIONALIZANTE I",
-        "CARG_HOR": 180,
-        "COD_CURS": [
-            34
-        ]
+        "COD_CURS": 34,
+        "CARG_HOR": 180
     },
     {
         "_id": 4131,
         "DES_DISC": "ORIENTAÇÃO DE ESTÁGIO E DE TRABALHO DE CURSO I",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            34
-        ]
+        "COD_CURS": 34,
+        "CARG_HOR": 40
     },
     {
         "_id": 5816,
         "DES_DISC": "LABORATÓRIO CONTÁBIL II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            3
-        ]
+        "COD_CURS": 3,
+        "CARG_HOR": 60
     },
     {
         "_id": 5819,
         "DES_DISC": "CONTABILIDADE PARA ATIVIDADES ESPECÍFICAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            3
-        ]
+        "COD_CURS": 3,
+        "CARG_HOR": 60
     },
     {
         "_id": 5810,
         "DES_DISC": "MÉTODOS QUANTITATIVOS PARA A TOMADA DE DECISÃO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            3
-        ]
+        "COD_CURS": 3,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5796,
+        "DES_DISC": "DIREITO EMPRESARIAL",
+        "COD_CURS": 3,
+        "CARG_HOR": 60
     },
     {
         "_id": 5802,
         "DES_DISC": "TÓPICOS CONTEMPORÂNEOS EM CONTABILIDADE PÚBLICA E PRIVADA I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            3
-        ]
+        "COD_CURS": 3,
+        "CARG_HOR": 60
     },
     {
         "_id": 5800,
         "DES_DISC": "AUDITORIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            3
-        ]
+        "COD_CURS": 3,
+        "CARG_HOR": 60
     },
     {
         "_id": 5780,
         "DES_DISC": "ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            3
-        ]
+        "COD_CURS": 3,
+        "CARG_HOR": 60
     },
     {
         "_id": 5799,
         "DES_DISC": "PERÍCIA CONTÁBIL E ARBITRAGEM",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            3
-        ]
+        "COD_CURS": 3,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 2887,
+        "DES_DISC": "TEORIA GERAL DA ADMINISTRAÇÃO",
+        "COD_CURS": 3,
+        "CARG_HOR": 60
     },
     {
         "_id": 5786,
         "DES_DISC": "CONTABILIDADE GERAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            3
-        ]
+        "COD_CURS": 3,
+        "CARG_HOR": 60
     },
     {
         "_id": 5831,
         "DES_DISC": "ESTRUTURA E ELABORAÇÃO DAS DEMONSTRAÇÕES CONTÁBEIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            3
-        ]
+        "COD_CURS": 3,
+        "CARG_HOR": 60
     },
     {
         "_id": 7336,
         "DES_DISC": "CONTABILIDADE E PLANEJAMENTO TRIBUTÁRIO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            3
-        ]
+        "COD_CURS": 3,
+        "CARG_HOR": 60
     },
     {
         "_id": 5798,
         "DES_DISC": "CONTABILIDADE SOCIETÁRIA AVANÇADA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            3
-        ]
+        "COD_CURS": 3,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7320,
+        "DES_DISC": "EMPREENDEDORISMO E INOVAÇÃO ",
+        "COD_CURS": 3,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7314,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 3,
+        "CARG_HOR": 50
+    },
+    {
+        "_id": 7327,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 3,
+        "CARG_HOR": 40
     },
     {
         "_id": 7990,
         "DES_DISC": "TEORIA MICROECONÔMICA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            19
-        ]
+        "COD_CURS": 19,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7320,
+        "DES_DISC": "EMPREENDEDORISMO E INOVAÇÃO ",
+        "COD_CURS": 19,
+        "CARG_HOR": 60
     },
     {
         "_id": 7972,
         "DES_DISC": "HISTÓRIA DO PENSAMENTO ECONÔMICO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            19
-        ]
+        "COD_CURS": 19,
+        "CARG_HOR": 60
     },
     {
         "_id": 7989,
         "DES_DISC": "TEORIA MACROECONÔMICA I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            19
-        ]
+        "COD_CURS": 19,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 2887,
+        "DES_DISC": "TEORIA GERAL DA ADMINISTRAÇÃO",
+        "COD_CURS": 19,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5773,
+        "DES_DISC": "GESTÃO AVANÇADA DE MARKETING ",
+        "COD_CURS": 19,
+        "CARG_HOR": 60
     },
     {
         "_id": 7991,
         "DES_DISC": "EMPREENDEDORISMO E INOVAÇÃO ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            19
-        ]
+        "COD_CURS": 19,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5783,
+        "DES_DISC": "GESTÃO DE MARKETING",
+        "COD_CURS": 19,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7314,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 19,
+        "CARG_HOR": 50
+    },
+    {
+        "_id": 7327,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 19,
+        "CARG_HOR": 40
     },
     {
         "_id": 6216,
         "DES_DISC": "ANÁLISE E PROJETO DE SISTEMAS II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            38
-        ]
+        "COD_CURS": 38,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5641,
+        "DES_DISC": "TÉCNICAS DE DESENVOLVIMENTO DE ALGORITMOS",
+        "COD_CURS": 38,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5640,
+        "DES_DISC": "PROGRAMAÇÃO WEB",
+        "COD_CURS": 38,
+        "CARG_HOR": 60
     },
     {
         "_id": 5630,
         "DES_DISC": "PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            38
-        ]
+        "COD_CURS": 38,
+        "CARG_HOR": 60
     },
     {
         "_id": 5648,
         "DES_DISC": "ORGANIZAÇÃO E ARQUITETURA DE COMPUTADORES",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            38
-        ]
+        "COD_CURS": 38,
+        "CARG_HOR": 60
     },
     {
         "_id": 5645,
         "DES_DISC": "PROGRAMAÇÃO ORIENTADA A OBJETOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            38
-        ]
+        "COD_CURS": 38,
+        "CARG_HOR": 60
     },
     {
         "_id": 6218,
         "DES_DISC": "MODELAGEM DE NEGÓCIOS E REQUISITOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            38
-        ]
+        "COD_CURS": 38,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5624,
+        "DES_DISC": "SISTEMAS OPERACIONAIS",
+        "COD_CURS": 38,
+        "CARG_HOR": 60
     },
     {
         "_id": 6222,
         "DES_DISC": "ENGENHARIA DE SOFTWARE",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            10,
-            38,
-            71
-        ]
+        "COD_CURS": 38,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7363,
+        "DES_DISC": "REDES DE COMPUTADORES",
+        "COD_CURS": 38,
+        "CARG_HOR": 60
     },
     {
         "_id": 7361,
         "DES_DISC": "ITINERÁRIO EXTENSIONISTA I ",
-        "CARG_HOR": 70,
-        "COD_CURS": [
-            66,
-            38,
-            22
-        ]
+        "COD_CURS": 38,
+        "CARG_HOR": 70
     },
     {
         "_id": 7323,
         "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36,
-            5,
-            38,
-            40,
-            42,
-            13,
-            46,
-            21,
-            57,
-            58,
-            63,
-            30,
-            31
-        ]
+        "COD_CURS": 38,
+        "CARG_HOR": 60
     },
     {
         "_id": 5178,
         "DES_DISC": "PROJETO INTERDISCIPLINAR II",
-        "CARG_HOR": 50,
-        "COD_CURS": [
-            40,
-            38
-        ]
+        "COD_CURS": 38,
+        "CARG_HOR": 50
     },
     {
         "_id": 5135,
         "DES_DISC": "PROJETO INTERDISCIPLINAR I",
-        "CARG_HOR": 50,
-        "COD_CURS": [
-            38
-        ]
+        "COD_CURS": 38,
+        "CARG_HOR": 50
     },
     {
         "_id": 6225,
         "DES_DISC": "PROJETO INTERDISCIPLINAR III",
-        "CARG_HOR": 50,
-        "COD_CURS": [
-            38
-        ]
+        "COD_CURS": 38,
+        "CARG_HOR": 50
     },
     {
         "_id": 6227,
         "DES_DISC": "PROJETO INTERDISCIPLINAR",
-        "CARG_HOR": 50,
-        "COD_CURS": [
-            38
-        ]
+        "COD_CURS": 38,
+        "CARG_HOR": 50
+    },
+    {
+        "_id": 5139,
+        "DES_DISC": "PAISAGISMO",
+        "COD_CURS": 39,
+        "CARG_HOR": 60
     },
     {
         "_id": 7701,
         "DES_DISC": "PROJETO DE INTERIORES RESIDENCIAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            39
-        ]
+        "COD_CURS": 39,
+        "CARG_HOR": 60
     },
     {
         "_id": 5147,
         "DES_DISC": "DESENHO TÉCNICO E INFORMÁTICA APLICADA AO DESIGN DE INTERIORES",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            39
-        ]
+        "COD_CURS": 39,
+        "CARG_HOR": 60
     },
     {
         "_id": 5140,
         "DES_DISC": "PROJETO DE INTERIORES: INSTITUCIONAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            39
-        ]
+        "COD_CURS": 39,
+        "CARG_HOR": 60
     },
     {
         "_id": 7700,
         "DES_DISC": "TEORIA E HISTÓRIA DA ARTE E DO DESIGN",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            40,
-            39
-        ]
+        "COD_CURS": 39,
+        "CARG_HOR": 80
     },
     {
         "_id": 5155,
         "DES_DISC": "MATERIAIS E ACABAMENTOS PARA DESIGN DE INTERIORES ",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            39
-        ]
+        "COD_CURS": 39,
+        "CARG_HOR": 40
     },
     {
         "_id": 5148,
         "DES_DISC": "ERGONOMIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            39
-        ]
+        "COD_CURS": 39,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7314,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 39,
+        "CARG_HOR": 50
     },
     {
         "_id": 7702,
         "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            39
-        ]
+        "COD_CURS": 39,
+        "CARG_HOR": 60
     },
     {
         "_id": 5163,
         "DES_DISC": "INTERFACES PARA MÍDIAS DIGITAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            40
-        ]
+        "COD_CURS": 40,
+        "CARG_HOR": 60
     },
     {
         "_id": 7695,
         "DES_DISC": "COMPUTAÇÃO GRÁFICA APLICADA AO DESIGN GRÁFICO: TIPOGRAFIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            40
-        ]
+        "COD_CURS": 40,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5171,
+        "DES_DISC": "METODOLOGIA DE PROJETO EM DESIGN",
+        "COD_CURS": 40,
+        "CARG_HOR": 60
     },
     {
         "_id": 5164,
         "DES_DISC": "MOTION DESIGN E NARRATIVAS GRÁFICAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            40
-        ]
+        "COD_CURS": 40,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7700,
+        "DES_DISC": "TEORIA E HISTÓRIA DA ARTE E DO DESIGN",
+        "COD_CURS": 40,
+        "CARG_HOR": 80
     },
     {
         "_id": 5174,
         "DES_DISC": "HISTÓRIA DE PROCESSOS E DO DESIGN GRÁFICO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            40
-        ]
+        "COD_CURS": 40,
+        "CARG_HOR": 60
     },
     {
         "_id": 5166,
         "DES_DISC": "DESENVOLVIMENTO DE EMBALAGENS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            40
-        ]
+        "COD_CURS": 40,
+        "CARG_HOR": 60
     },
     {
         "_id": 5175,
         "DES_DISC": "PROJETO GRÁFICO - IDENTIDADE VISUAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            40
-        ]
+        "COD_CURS": 40,
+        "CARG_HOR": 60
     },
     {
         "_id": 5170,
         "DES_DISC": "ERGONOMIA E PERCEPÇÃO VISUAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            40
-        ]
+        "COD_CURS": 40,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7323,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 40,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7314,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 40,
+        "CARG_HOR": 50
     },
     {
         "_id": 6510,
         "DES_DISC": "PROJETO INTERDISCIPLINAR",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            40
-        ]
+        "COD_CURS": 40,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5178,
+        "DES_DISC": "PROJETO INTERDISCIPLINAR II",
+        "COD_CURS": 40,
+        "CARG_HOR": 50
     },
     {
         "_id": 5177,
         "DES_DISC": "PROJETO INTERDISCIPLINAR I",
-        "CARG_HOR": 50,
-        "COD_CURS": [
-            40
-        ]
+        "COD_CURS": 40,
+        "CARG_HOR": 50
     },
     {
         "_id": 5826,
         "DES_DISC": "COZINHA BRASILEIRA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            57
-        ]
+        "COD_CURS": 57,
+        "CARG_HOR": 60
     },
     {
         "_id": 7574,
         "DES_DISC": "TECNOLOGIA DOS ALIMENTOS ",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            57
-        ]
+        "COD_CURS": 57,
+        "CARG_HOR": 80
     },
     {
         "_id": 5272,
         "DES_DISC": "HIGIENE DOS ALIMENTOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            48,
-            57
-        ]
+        "COD_CURS": 57,
+        "CARG_HOR": 60
     },
     {
         "_id": 7572,
         "DES_DISC": "PANIFICAÇÃO E CONFEITARIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            57
-        ]
+        "COD_CURS": 57,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7320,
+        "DES_DISC": "EMPREENDEDORISMO E INOVAÇÃO ",
+        "COD_CURS": 57,
+        "CARG_HOR": 60
     },
     {
         "_id": 7575,
         "DES_DISC": "COZINHA FRIA E CONTEMPORÂNEA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            57
-        ]
+        "COD_CURS": 57,
+        "CARG_HOR": 60
     },
     {
         "_id": 5818,
         "DES_DISC": "MANUSEIO DE CARNES, AVES E PESCADOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            57
-        ]
+        "COD_CURS": 57,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7323,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 57,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7314,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 57,
+        "CARG_HOR": 50
+    },
+    {
+        "_id": 7314,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 69,
+        "CARG_HOR": 50
+    },
+    {
+        "_id": 7399,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 69,
+        "CARG_HOR": 50
     },
     {
         "_id": 5111,
         "DES_DISC": "DESENVOLVIMENTO ORGANIZACIONAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            21
-        ]
+        "COD_CURS": 21,
+        "CARG_HOR": 60
     },
     {
         "_id": 5110,
         "DES_DISC": "ADMINISTRAÇÃO DE CARGOS E SALÁRIOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            21
-        ]
+        "COD_CURS": 21,
+        "CARG_HOR": 60
     },
     {
         "_id": 5112,
         "DES_DISC": "RECRUTAMENTO E SELEÇÃO DE PESSOAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            21
-        ]
+        "COD_CURS": 21,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 2887,
+        "DES_DISC": "TEORIA GERAL DA ADMINISTRAÇÃO",
+        "COD_CURS": 21,
+        "CARG_HOR": 60
     },
     {
         "_id": 7321,
         "DES_DISC": "GESTÃO ESTRATÉGICA EM RECURSOS HUMANOS ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            21
-        ]
+        "COD_CURS": 21,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7320,
+        "DES_DISC": "EMPREENDEDORISMO E INOVAÇÃO ",
+        "COD_CURS": 21,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7314,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 21,
+        "CARG_HOR": 50
+    },
+    {
+        "_id": 7323,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 21,
+        "CARG_HOR": 60
     },
     {
         "_id": 5117,
         "DES_DISC": "PROJETO INTERDISCIPLINAR I",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            21
-        ]
+        "COD_CURS": 21,
+        "CARG_HOR": 40
     },
     {
         "_id": 5129,
         "DES_DISC": "PROJETO INTERDISCIPLINAR III",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            21
-        ]
+        "COD_CURS": 21,
+        "CARG_HOR": 40
     },
     {
         "_id": 6406,
         "DES_DISC": "GESTÃO DE OPERAÇÕES, LOGÍSTICA DE MATERIAIS E PATRIMÔNIO NO SERVIÇO PÚBLICO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            13
-        ]
+        "COD_CURS": 13,
+        "CARG_HOR": 60
     },
     {
         "_id": 5667,
         "DES_DISC": "POLÍTICAS PÚBLICAS, MONITORAMENTO E AVALIAÇÃO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            13
-        ]
+        "COD_CURS": 13,
+        "CARG_HOR": 60
     },
     {
         "_id": 5669,
         "DES_DISC": "AUDITORIA E CONTROLADORIA GOVERNAMENTAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            13
-        ]
+        "COD_CURS": 13,
+        "CARG_HOR": 60
     },
     {
         "_id": 5666,
         "DES_DISC": "PLANEJAMENTO ESTRATÉGICO E GESTÃO DE PROGRAMAS PÚBLICOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            13
-        ]
+        "COD_CURS": 13,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7320,
+        "DES_DISC": "EMPREENDEDORISMO E INOVAÇÃO ",
+        "COD_CURS": 13,
+        "CARG_HOR": 60
     },
     {
         "_id": 5661,
         "DES_DISC": "LICITAÇÕES, CONTRATOS E AQUISIÇÕES NO SETOR PÚBLICO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            13
-        ]
+        "COD_CURS": 13,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7323,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 13,
+        "CARG_HOR": 60
     },
     {
         "_id": 8032,
         "DES_DISC": "PROJETOS EXPERIMENTAIS EM GESTÃO PÚBLICA I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            13
-        ]
+        "COD_CURS": 13,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7314,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 13,
+        "CARG_HOR": 50
     },
     {
         "_id": 3431,
         "DES_DISC": "PROJETOS EXPERIMENTAIS EM GESTÃO PÚBLICA II",
-        "CARG_HOR": 100,
-        "COD_CURS": [
-            13
-        ]
+        "COD_CURS": 13,
+        "CARG_HOR": 100
     },
     {
         "_id": 5226,
         "DES_DISC": "TÉCNICAS RADIOLÓGICAS",
-        "CARG_HOR": 120,
-        "COD_CURS": [
-            46
-        ]
+        "COD_CURS": 46,
+        "CARG_HOR": 120
     },
     {
         "_id": 5225,
         "DES_DISC": "PROCESSAMENTO DE IMAGENS CONVENCIONAIS E DIGITAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            46
-        ]
+        "COD_CURS": 46,
+        "CARG_HOR": 60
     },
     {
         "_id": 5229,
         "DES_DISC": "EXAMES RADIOLÓGICOS CONTRASTADOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            46
-        ]
+        "COD_CURS": 46,
+        "CARG_HOR": 60
     },
     {
         "_id": 5230,
         "DES_DISC": "INSPEÇÃO RADIOLÓGICA DE SEGURANÇA ",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            46
-        ]
+        "COD_CURS": 46,
+        "CARG_HOR": 80
     },
     {
         "_id": 5206,
         "DES_DISC": "NEUROANATOMIA RADIOLÓGICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            46
-        ]
+        "COD_CURS": 46,
+        "CARG_HOR": 60
     },
     {
         "_id": 5220,
         "DES_DISC": "RADIOLOGIA VETERINÁRIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            46
-        ]
+        "COD_CURS": 46,
+        "CARG_HOR": 60
     },
     {
         "_id": 5209,
         "DES_DISC": "RESSONÂNCIA MAGNÉTICA NUCLEAR",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            46
-        ]
+        "COD_CURS": 46,
+        "CARG_HOR": 60
     },
     {
         "_id": 5208,
         "DES_DISC": "RADIOLOGIA INDUSTRIAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            46
-        ]
+        "COD_CURS": 46,
+        "CARG_HOR": 60
     },
     {
         "_id": 7413,
         "DES_DISC": "ANATOMIA RADIOLÓGICA ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            46
-        ]
+        "COD_CURS": 46,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5473,
+        "DES_DISC": "FISIOLOGIA HUMANA",
+        "COD_CURS": 46,
+        "CARG_HOR": 60
     },
     {
         "_id": 7414,
         "DES_DISC": "RADIOBIOLOGIA E RADIOPROTEÇÃO ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            46
-        ]
+        "COD_CURS": 46,
+        "CARG_HOR": 60
     },
     {
         "_id": 5207,
         "DES_DISC": "RADIOLOGIA FORENSE",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            46
-        ]
+        "COD_CURS": 46,
+        "CARG_HOR": 60
     },
     {
         "_id": 5218,
         "DES_DISC": "MAMOGRAFIA E DENSITOMETRIA ÓSSEA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            46
-        ]
+        "COD_CURS": 46,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5455,
+        "DES_DISC": "PATOLOGIA HUMANA",
+        "COD_CURS": 46,
+        "CARG_HOR": 60
     },
     {
         "_id": 7373,
         "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36,
-            5,
-            7,
-            42,
-            46,
-            63,
-            30,
-            31
-        ]
+        "COD_CURS": 46,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7323,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 46,
+        "CARG_HOR": 60
     },
     {
         "_id": 3984,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO EM RADIOLOGIA II",
-        "CARG_HOR": 160,
-        "COD_CURS": [
-            46
-        ]
+        "COD_CURS": 46,
+        "CARG_HOR": 160
     },
     {
         "_id": 3978,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO EM RADIOLOGIA I",
-        "CARG_HOR": 160,
-        "COD_CURS": [
-            46
-        ]
+        "COD_CURS": 46,
+        "CARG_HOR": 160
     },
     {
         "_id": 3989,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO EM RADIOLOGIA III",
-        "CARG_HOR": 160,
-        "COD_CURS": [
-            46
-        ]
+        "COD_CURS": 46,
+        "CARG_HOR": 160
     },
     {
         "_id": 5337,
         "DES_DISC": "DIREITO ADMINISTRATIVO II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 5393,
         "DES_DISC": "CRIMINOLOGIA ",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 40
     },
     {
         "_id": 5286,
         "DES_DISC": "DIREITO PROCESSUAL DO TRABALHO II",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 30
     },
     {
         "_id": 5418,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO IV",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 80
     },
     {
         "_id": 5350,
         "DES_DISC": "DIREITO ADMINISTRATIVO I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 5398,
         "DES_DISC": "DIREITO CONSTITUCIONAL III",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 30
     },
     {
         "_id": 5400,
         "DES_DISC": "DIREITO PROCESSUAL CIVIL II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 5399,
         "DES_DISC": "DIREITO PENAL III",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 6635,
         "DES_DISC": "DIREITO CIVIL IV",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 5346,
         "DES_DISC": "DIREITO EMPRESARIAL II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 5339,
         "DES_DISC": "DIREITO PROCESSUAL DO TRABALHO I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 5395,
         "DES_DISC": "DIREITO PENAL I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 5378,
         "DES_DISC": "DIREITO CONSTITUCIONAL II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 5394,
         "DES_DISC": "DIREITO CONSTITUCIONAL I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            11,
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 6633,
         "DES_DISC": "DIREITO CIVIL II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 5397,
         "DES_DISC": "DIREITO PROCESSUAL CIVIL I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 5380,
         "DES_DISC": "DIREITO PENAL II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 6634,
         "DES_DISC": "DIREITO CIVIL III",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 5358,
         "DES_DISC": "DIREITO DO TRABALHO I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 5402,
         "DES_DISC": "DIREITO PROCESSUAL CIVIL III",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 5401,
         "DES_DISC": "DIREITO PENAL IV",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 5360,
         "DES_DISC": "DIREITO PROCESSUAL PENAL I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 5404,
         "DES_DISC": "DIREITO PROCESSUAL CIVIL IV",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 5379,
         "DES_DISC": "DIREITO EMPRESARIAL I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 6636,
         "DES_DISC": "DIREITO CIVIL V",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 5353,
         "DES_DISC": "DIREITO PROCESSUAL PENAL II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 5352,
         "DES_DISC": "DIREITO DO TRABALHO II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 5279,
         "DES_DISC": "DIREITO TRIBUTÁRIO I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 5412,
         "DES_DISC": "PRÁTICA JURÍDICA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 6404,
         "DES_DISC": "DIREITO CIVIL I ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 5302,
         "DES_DISC": "DIREITO DO CONSUMIDOR",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 30
     },
     {
         "_id": 5265,
         "DES_DISC": "LEGISLAÇÃO E ÉTICA PROFISSIONAL",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 30
     },
     {
         "_id": 5427,
         "DES_DISC": "INTRODUÇÃO AO ESTUDO DO DIREITO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 5264,
         "DES_DISC": "DIREITO TRIBUTÁRIO II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 5414,
         "DES_DISC": "PRÁTICA JURÍDICA III",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 5416,
         "DES_DISC": "DIREITO PREVIDENCIÁRIO",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 30
     },
     {
         "_id": 7610,
         "DES_DISC": "FILOSOFIA GERAL E JURÍDICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 5410,
         "DES_DISC": "PRÁTICA JURÍDICA I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 5408,
         "DES_DISC": "DIREITO CIVIL VI",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 30
     },
     {
         "_id": 8047,
         "DES_DISC": "GOVERNANÇA, GESTÃO DE RISCOS E COMPLIANCE",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 5417,
         "DES_DISC": "TÓPICOS DE DIREITO IV",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 40
+    },
+    {
+        "_id": 7323,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 3911,
         "DES_DISC": "TÓPICOS DE DIREITO III",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 80
     },
     {
         "_id": 5415,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO III",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 80
     },
     {
         "_id": 5413,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO II",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 80
     },
     {
         "_id": 3910,
         "DES_DISC": "TÓPICOS DE DIREITO II",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 80
     },
     {
         "_id": 5411,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO I",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 80
     },
     {
         "_id": 6523,
         "DES_DISC": "TÓPICOS DE DIREITO I",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 80
+    },
+    {
+        "_id": 7373,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 7377,
         "DES_DISC": "ITINERÁRIO EXTENSIONISTA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            5,
-            31
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 60
     },
     {
         "_id": 4515,
         "DES_DISC": "TRABALHO DE CURSO",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            5
-        ]
+        "COD_CURS": 5,
+        "CARG_HOR": 40
     },
     {
         "_id": 6322,
         "DES_DISC": "EDUCAÇÃO FÍSICA NA EDUCAÇÃO INFANTIL ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32,
-            33,
-            68
-        ]
+        "COD_CURS": 68,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5473,
+        "DES_DISC": "FISIOLOGIA HUMANA",
+        "COD_CURS": 68,
+        "CARG_HOR": 60
     },
     {
         "_id": 6299,
         "DES_DISC": "CINESIOLOGIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            68
-        ]
+        "COD_CURS": 68,
+        "CARG_HOR": 60
     },
     {
         "_id": 5541,
         "DES_DISC": "MANIFESTAÇÕES CULTURAIS GÍMNICAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            68
-        ]
+        "COD_CURS": 68,
+        "CARG_HOR": 60
     },
     {
         "_id": 5513,
         "DES_DISC": "MANIFESTAÇÕES CULTURAIS ESPORTIVAS: ESPORTES COLETIVOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            33,
-            68
-        ]
+        "COD_CURS": 68,
+        "CARG_HOR": 60
     },
     {
         "_id": 6037,
         "DES_DISC": "LÍNGUA BRASILEIRA DE SINAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            66,
-            68,
-            60
-        ]
+        "COD_CURS": 68,
+        "CARG_HOR": 60
     },
     {
         "_id": 7737,
         "DES_DISC": "FUNDAMENTOS SÓCIO-HISTÓRICOS DA EDUCAÇÃO FÍSICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            68
-        ]
+        "COD_CURS": 68,
+        "CARG_HOR": 60
     },
     {
         "_id": 8214,
         "DES_DISC": "FELICIDADE E FLORESCIMENTO HUMANO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            68
-        ]
+        "COD_CURS": 68,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5210,
+        "DES_DISC": "ANATOMIA HUMANA",
+        "COD_CURS": 68,
+        "CARG_HOR": 60
     },
     {
         "_id": 7767,
         "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            68
-        ]
+        "COD_CURS": 68,
+        "CARG_HOR": 80
     },
     {
         "_id": 7892,
         "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
-        "CARG_HOR": 58,
-        "COD_CURS": [
-            68
-        ]
+        "COD_CURS": 68,
+        "CARG_HOR": 58
     },
     {
         "_id": 5486,
         "DES_DISC": "PESQUISA EM EDUCAÇÃO FÍSICA I ",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            32
-        ]
+        "COD_CURS": 32,
+        "CARG_HOR": 40
     },
     {
         "_id": 5596,
         "DES_DISC": "JOGOS E BRINCADEIRAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32
-        ]
+        "COD_CURS": 32,
+        "CARG_HOR": 60
     },
     {
         "_id": 5483,
         "DES_DISC": "BASES TEÓRICO-PRÁTICAS DO CONDICIONAMENTO FÍSICO ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32,
-            33
-        ]
+        "COD_CURS": 32,
+        "CARG_HOR": 60
     },
     {
         "_id": 5485,
         "DES_DISC": "TREINAMENTO DE FORÇA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32
-        ]
+        "COD_CURS": 32,
+        "CARG_HOR": 60
     },
     {
         "_id": 5516,
         "DES_DISC": "APRENDIZAGEM MOTORA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32
-        ]
+        "COD_CURS": 32,
+        "CARG_HOR": 60
     },
     {
         "_id": 5518,
         "DES_DISC": "METODOLOGIA DO TREINAMENTO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32
-        ]
+        "COD_CURS": 32,
+        "CARG_HOR": 60
     },
     {
         "_id": 5588,
         "DES_DISC": "AVALIAÇÃO DAS APTIDÕES FÍSICAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32
-        ]
+        "COD_CURS": 32,
+        "CARG_HOR": 60
     },
     {
         "_id": 6327,
         "DES_DISC": "PROCESSO DE ENSINO E APRENDIZAGEM E AVALIAÇÃO APLICADA À EDUCAÇÃO FÍSICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32,
-            33
-        ]
+        "COD_CURS": 32,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 6322,
+        "DES_DISC": "EDUCAÇÃO FÍSICA NA EDUCAÇÃO INFANTIL ",
+        "COD_CURS": 32,
+        "CARG_HOR": 60
     },
     {
         "_id": 5499,
         "DES_DISC": "MANIFESTAÇÕES CULTURAIS ESPORTIVAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32,
-            33
-        ]
+        "COD_CURS": 32,
+        "CARG_HOR": 60
     },
     {
         "_id": 5525,
         "DES_DISC": "GINÁSTICA COLETIVA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32
-        ]
+        "COD_CURS": 32,
+        "CARG_HOR": 60
     },
     {
         "_id": 5530,
         "DES_DISC": "ORIENTAÇÃO DE ESTÁGIO CURRICULAR SUPERVISIONADO PROFISSIONALIZANTE EM EDUCAÇÃO FÍSICA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32
-        ]
+        "COD_CURS": 32,
+        "CARG_HOR": 60
     },
     {
         "_id": 7900,
         "DES_DISC": "MANIFESTAÇÕES CULTURAIS ESPORTIVAS: MODALIDADES AQUÁTICAS ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32
-        ]
+        "COD_CURS": 32,
+        "CARG_HOR": 60
     },
     {
         "_id": 5494,
         "DES_DISC": "PESQUISA EM EDUCAÇÃO FÍSICA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32
-        ]
+        "COD_CURS": 32,
+        "CARG_HOR": 60
     },
     {
         "_id": 7754,
         "DES_DISC": "EDUCAÇÃO FÍSICA PARA IDOSOS E GRUPOS ESPECIAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32
-        ]
+        "COD_CURS": 32,
+        "CARG_HOR": 60
     },
     {
         "_id": 7177,
         "DES_DISC": "EDUCAÇÃO FÍSICA PARA IDOSOS ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32
-        ]
+        "COD_CURS": 32,
+        "CARG_HOR": 60
     },
     {
         "_id": 4464,
         "DES_DISC": "PRÁTICAS INTERDISCIPLINARES I",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            32
-        ]
+        "COD_CURS": 32,
+        "CARG_HOR": 30
     },
     {
         "_id": 4212,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO PROFISSIONALIZANTE EM EDUCAÇÃO FÍSICA II",
-        "CARG_HOR": 200,
-        "COD_CURS": [
-            32
-        ]
+        "COD_CURS": 32,
+        "CARG_HOR": 200
     },
     {
         "_id": 7179,
         "DES_DISC": "PROJETO DE EXTENSÃO EM EDUCAÇÃO FÍSICA: SAÚDE ",
-        "CARG_HOR": 20,
-        "COD_CURS": [
-            32
-        ]
+        "COD_CURS": 32,
+        "CARG_HOR": 20
     },
     {
         "_id": 7180,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO PROFISSIONALIZANTE EM EDUCAÇÃO FÍSICA: GRUPOS ESPECIAIS ",
-        "CARG_HOR": 160,
-        "COD_CURS": [
-            32
-        ]
+        "COD_CURS": 32,
+        "CARG_HOR": 160
     },
     {
         "_id": 5533,
         "DES_DISC": "PRÁTICAS INTERDISCIPLINARES III",
-        "CARG_HOR": 45,
-        "COD_CURS": [
-            32
-        ]
+        "COD_CURS": 32,
+        "CARG_HOR": 45
     },
     {
         "_id": 5534,
         "DES_DISC": "PRÁTICAS INTERDISCIPLINARES IV",
-        "CARG_HOR": 45,
-        "COD_CURS": [
-            32
-        ]
+        "COD_CURS": 32,
+        "CARG_HOR": 45
     },
     {
         "_id": 5500,
         "DES_DISC": "MANIFESTAÇÕES CULTURAIS RÍTMICAS E EXPRESSIVAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            32
-        ]
+        "COD_CURS": 32,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 6322,
+        "DES_DISC": "EDUCAÇÃO FÍSICA NA EDUCAÇÃO INFANTIL ",
+        "COD_CURS": 33,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 6327,
+        "DES_DISC": "PROCESSO DE ENSINO E APRENDIZAGEM E AVALIAÇÃO APLICADA À EDUCAÇÃO FÍSICA",
+        "COD_CURS": 33,
+        "CARG_HOR": 60
     },
     {
         "_id": 6324,
         "DES_DISC": "PROGRAMAS E CURRÍCULOS APLICADOS À EDUCAÇÃO FÍSICA ",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            33
-        ]
+        "COD_CURS": 33,
+        "CARG_HOR": 40
+    },
+    {
+        "_id": 5499,
+        "DES_DISC": "MANIFESTAÇÕES CULTURAIS ESPORTIVAS",
+        "COD_CURS": 33,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5483,
+        "DES_DISC": "BASES TEÓRICO-PRÁTICAS DO CONDICIONAMENTO FÍSICO ",
+        "COD_CURS": 33,
+        "CARG_HOR": 60
     },
     {
         "_id": 6533,
         "DES_DISC": "EDUCAÇÃO FÍSICA NO ENSINO FUNDAMENTAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            33
-        ]
+        "COD_CURS": 33,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5513,
+        "DES_DISC": "MANIFESTAÇÕES CULTURAIS ESPORTIVAS: ESPORTES COLETIVOS",
+        "COD_CURS": 33,
+        "CARG_HOR": 60
     },
     {
         "_id": 7384,
         "DES_DISC": "COMUNICAÇÃO, LIDERANÇA E TOMADA DE DECISÃO EM SAÚDE",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36,
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 60
     },
     {
         "_id": 7369,
         "DES_DISC": "VIGILÂNCIA E PROMOÇÃO À SAÚDE ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30,
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 60
     },
     {
         "_id": 7368,
         "DES_DISC": "POLÍTICAS PÚBLICAS DE ATENÇÃO À SAÚDE",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            58,
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 60
     },
     {
         "_id": 5942,
         "DES_DISC": "PRÁTICA CLÍNICA DE ENFERMAGEM NA SAÚDE DA MULHER: CICLO GRAVÍDICO PUERPERAL",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 30
     },
     {
         "_id": 5943,
         "DES_DISC": "PRÁTICA CLÍNICA DE ENFERMAGEM NA SAÚDE DO ADULTO: CUIDADOS SEMI-INTENSIVOS E INTENSIVOS ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 60
     },
     {
         "_id": 5938,
         "DES_DISC": "ENFERMAGEM NA SAÚDE DA MULHER: CICLO GRAVÍDICO PUERPERAL ",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 30
     },
     {
         "_id": 5941,
         "DES_DISC": "PRÁTICA CLÍNICA DE ENFERMAGEM NA SAÚDE DA CRIANÇA E DO ADOLESCENTE II",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 30
     },
     {
         "_id": 5939,
         "DES_DISC": "ENFERMAGEM NA SAÚDE DO ADULTO: CUIDADOS SEMI-INTENSIVOS E INTENSIVOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 60
     },
     {
         "_id": 5937,
         "DES_DISC": "ENFERMAGEM NA SAÚDE DA CRIANÇA E DO ADOLESCENTE II",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 30
+    },
+    {
+        "_id": 5455,
+        "DES_DISC": "PATOLOGIA HUMANA",
+        "COD_CURS": 31,
+        "CARG_HOR": 60
     },
     {
         "_id": 5955,
         "DES_DISC": "ENFERMAGEM EM CENTRO CIRÚRGICO E CENTRAL DE MATERIAL E ESTERILIZAÇÃO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 60
     },
     {
         "_id": 3513,
         "DES_DISC": "ADMINISTRAÇÃO APLICADA À ENFERMAGEM",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 60
     },
     {
         "_id": 5944,
         "DES_DISC": "PRÁTICA CLÍNICA DE ENFERMAGEM NA SAÚDE MENTAL",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 30
     },
     {
         "_id": 5940,
         "DES_DISC": "ENFERMAGEM NA SAÚDE MENTAL",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 30
     },
     {
         "_id": 5948,
         "DES_DISC": "ENFERMAGEM NA SAÚDE DO ADULTO: CUIDADOS MÍNIMOS E INTERMEDIÁRIOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 60
     },
     {
         "_id": 5952,
         "DES_DISC": "PRÁTICA CLÍNICA DE ENFERMAGEM NA SAÚDE DO ADULTO: CUIDADOS MÍNIMOS E INTERMEDIÁRIOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 60
     },
     {
         "_id": 5950,
         "DES_DISC": "PRÁTICA CLÍNICA DE ENFERMAGEM NA SAÚDE DA CRIANÇA E DO ADOLESCENTE I",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 30
     },
     {
         "_id": 5946,
         "DES_DISC": "ENFERMAGEM NA SAÚDE DA CRIANÇA E DO ADOLESCENTE I",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 30
     },
     {
         "_id": 7374,
         "DES_DISC": "MECANISMOS DE AGRESSÃO E DEFESA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 60
     },
     {
         "_id": 2292,
         "DES_DISC": "BIOQUÍMICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 60
     },
     {
         "_id": 6575,
         "DES_DISC": "PRÁTICA DE INTEGRAÇÃO: ENSINO-SERVIÇO-COMUNIDADE I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 60
     },
     {
         "_id": 5958,
         "DES_DISC": "FARMACOLOGIA APLICADA À ENFERMAGEM ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 60
     },
     {
         "_id": 7466,
         "DES_DISC": "INSTRUMENTALIZAÇÃO PARA O PROCESSO DO CUIDAR",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 60
     },
     {
         "_id": 7467,
         "DES_DISC": "PRÁTICA DE INTEGRAÇÃO, ENSINO, SERVIÇO E COMUNIDADE II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 60
     },
     {
         "_id": 5975,
         "DES_DISC": "PROCESSO DE CUIDAR EM ENFERMAGEM",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 60
     },
     {
         "_id": 5947,
         "DES_DISC": "ENFERMAGEM NA SAÚDE DA MULHER: ASSISTÊNCIA GINECOLÓGICA  ",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 30
     },
     {
         "_id": 5949,
         "DES_DISC": "ENFERMAGEM NA SAÚDE DO IDOSO",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 30
     },
     {
         "_id": 5951,
         "DES_DISC": "PRÁTICA CLÍNICA DE ENFERMAGEM NA SAÚDE DA MULHER: ASSISTÊNCIA GINECOLÓGICA",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 30
     },
     {
         "_id": 5953,
         "DES_DISC": "PRÁTICA CLÍNICA DE ENFERMAGEM NA SAÚDE DO IDOSO",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 30
     },
     {
         "_id": 2318,
         "DES_DISC": "ENFERMAGEM NA SAÚDE COLETIVA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5309,
+        "DES_DISC": "BIOLOGIA CELULAR E TECIDUAL",
+        "COD_CURS": 31,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5210,
+        "DES_DISC": "ANATOMIA HUMANA",
+        "COD_CURS": 31,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5473,
+        "DES_DISC": "FISIOLOGIA HUMANA",
+        "COD_CURS": 31,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7373,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 31,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7323,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 31,
+        "CARG_HOR": 60
     },
     {
         "_id": 3210,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO: GESTÃO DA ASSISTÊNCIA DE ENFERMAGEM NOS SERVIÇOS DE SAÚDE",
-        "CARG_HOR": 400,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 400
     },
     {
         "_id": 3208,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO: GESTÃO DA ASSISTÊNCIA DE ENFERMAGEM",
-        "CARG_HOR": 400,
-        "COD_CURS": [
-            31
-        ]
+        "COD_CURS": 31,
+        "CARG_HOR": 400
+    },
+    {
+        "_id": 7377,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA II",
+        "COD_CURS": 31,
+        "CARG_HOR": 60
     },
     {
         "_id": 8221,
         "DES_DISC": "PROJETOS DE EDIFICAÇÕES COM AUXÍLIO COMPUTACIONAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6
-        ]
+        "COD_CURS": 6,
+        "CARG_HOR": 60
     },
     {
         "_id": 6077,
         "DES_DISC": "TEMAS ESPECIAIS DE CONCRETO ARMADO ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6
-        ]
+        "COD_CURS": 6,
+        "CARG_HOR": 60
     },
     {
         "_id": 3821,
         "DES_DISC": "FÍSICA GERAL E EXPERIMENTAL II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6
-        ]
+        "COD_CURS": 6,
+        "CARG_HOR": 60
     },
     {
         "_id": 3828,
         "DES_DISC": "MATERIAIS DE CONSTRUÇÃO CIVIL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6
-        ]
+        "COD_CURS": 6,
+        "CARG_HOR": 60
     },
     {
         "_id": 3830,
         "DES_DISC": "HIDRÁULICA GERAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6
-        ]
+        "COD_CURS": 6,
+        "CARG_HOR": 60
     },
     {
         "_id": 6025,
         "DES_DISC": "FÍSICA APLICADA I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            8,
-            9,
-            53,
-            6
-        ]
+        "COD_CURS": 6,
+        "CARG_HOR": 60
     },
     {
         "_id": 6023,
         "DES_DISC": "CÁLCULO DIFERENCIAL E INTEGRAL I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            8,
-            9,
-            53,
-            6
-        ]
+        "COD_CURS": 6,
+        "CARG_HOR": 60
     },
     {
         "_id": 6024,
         "DES_DISC": "DESENHO TÉCNICO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            8,
-            9,
-            53,
-            6
-        ]
+        "COD_CURS": 6,
+        "CARG_HOR": 60
     },
     {
         "_id": 6070,
         "DES_DISC": "HIDROLOGIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6
-        ]
+        "COD_CURS": 6,
+        "CARG_HOR": 60
     },
     {
         "_id": 7552,
         "DES_DISC": "TOPOGRAFIA E SISTEMAS DE INFORMAÇÃO GEOGRÁFICA (SIG)",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6
-        ]
+        "COD_CURS": 6,
+        "CARG_HOR": 60
     },
     {
         "_id": 6072,
         "DES_DISC": "TEORIA DAS ESTRUTURAS II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6
-        ]
+        "COD_CURS": 6,
+        "CARG_HOR": 60
     },
     {
         "_id": 6499,
         "DES_DISC": "RESISTÊNCIA DOS MATERIAIS ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            9,
-            6
-        ]
+        "COD_CURS": 6,
+        "CARG_HOR": 60
     },
     {
         "_id": 6063,
         "DES_DISC": "OBRAS HIDRÁULICAS E PORTOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6
-        ]
+        "COD_CURS": 6,
+        "CARG_HOR": 60
     },
     {
         "_id": 6078,
         "DES_DISC": "ESTRUTURAS DE CONCRETO PROTENDIDO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6
-        ]
+        "COD_CURS": 6,
+        "CARG_HOR": 60
     },
     {
         "_id": 6086,
         "DES_DISC": "GEOTECNIA APLICADA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6
-        ]
+        "COD_CURS": 6,
+        "CARG_HOR": 60
     },
     {
         "_id": 6447,
         "DES_DISC": "TRABALHO DE CONCLUSÃO DE CURSO EM ENGENHARIA CIVIL I",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            6
-        ]
+        "COD_CURS": 6,
+        "CARG_HOR": 80
     },
     {
         "_id": 6076,
         "DES_DISC": "PROJETO E EXECUÇÃO DE RODOVIAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6
-        ]
+        "COD_CURS": 6,
+        "CARG_HOR": 60
     },
     {
         "_id": 6054,
         "DES_DISC": "ESTRUTURAS METÁLICAS E MADEIRAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6
-        ]
+        "COD_CURS": 6,
+        "CARG_HOR": 60
     },
     {
         "_id": 1518,
         "DES_DISC": "ESTRUTURAS DE CONCRETO I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            6
-        ]
+        "COD_CURS": 6,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7327,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 6,
+        "CARG_HOR": 40
+    },
+    {
+        "_id": 7342,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 6,
+        "CARG_HOR": 40
     },
     {
         "_id": 3835,
         "DES_DISC": "OFICINA INTERDISCIPLINAR I",
-        "CARG_HOR": 50,
-        "COD_CURS": [
-            6
-        ]
+        "COD_CURS": 6,
+        "CARG_HOR": 50
     },
     {
         "_id": 6446,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO EM ENGENHARIA CIVIL I",
-        "CARG_HOR": 100,
-        "COD_CURS": [
-            6
-        ]
+        "COD_CURS": 6,
+        "CARG_HOR": 100
     },
     {
         "_id": 6448,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO EM ENGENHARIA CIVIL II",
-        "CARG_HOR": 100,
-        "COD_CURS": [
-            6
-        ]
+        "COD_CURS": 6,
+        "CARG_HOR": 100
     },
     {
         "_id": 6449,
         "DES_DISC": "TRABALHO DE CONCLUSÃO DE CURSO EM ENGENHARIA CIVIL II",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            6
-        ]
+        "COD_CURS": 6,
+        "CARG_HOR": 80
     },
     {
         "_id": 7346,
         "DES_DISC": "ITINERÁRIO EXTENSIONISTA II",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            6
-        ]
+        "COD_CURS": 6,
+        "CARG_HOR": 40
     },
     {
         "_id": 3836,
         "DES_DISC": "OFICINA INTERDISCIPLINAR II",
-        "CARG_HOR": 50,
-        "COD_CURS": [
-            6
-        ]
+        "COD_CURS": 6,
+        "CARG_HOR": 50
     },
     {
         "_id": 3843,
         "DES_DISC": "OFICINA INTERDISCIPLINAR III",
-        "CARG_HOR": 50,
-        "COD_CURS": [
-            6
-        ]
+        "COD_CURS": 6,
+        "CARG_HOR": 50
+    },
+    {
+        "_id": 7373,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 7,
+        "CARG_HOR": 60
     },
     {
         "_id": 6224,
         "DES_DISC": "TÉCNICAS DE PROGRAMAÇÃO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            71
-        ]
+        "COD_CURS": 71,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5640,
+        "DES_DISC": "PROGRAMAÇÃO WEB",
+        "COD_CURS": 71,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 6222,
+        "DES_DISC": "ENGENHARIA DE SOFTWARE",
+        "COD_CURS": 71,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7448,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 71,
+        "CARG_HOR": 50
     },
     {
         "_id": 7976,
         "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
-        "CARG_HOR": 50,
-        "COD_CURS": [
-            71
-        ]
+        "COD_CURS": 71,
+        "CARG_HOR": 50
+    },
+    {
+        "_id": 6025,
+        "DES_DISC": "FÍSICA APLICADA I",
+        "COD_CURS": 8,
+        "CARG_HOR": 60
     },
     {
         "_id": 6603,
         "DES_DISC": "PROJETO DE INSTALAÇÕES ELÉTRICAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            8
-        ]
+        "COD_CURS": 8,
+        "CARG_HOR": 60
     },
     {
         "_id": 6606,
         "DES_DISC": "ELETRÔNICA DE POTÊNCIA ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            8
-        ]
+        "COD_CURS": 8,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 6023,
+        "DES_DISC": "CÁLCULO DIFERENCIAL E INTEGRAL I",
+        "COD_CURS": 8,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 6024,
+        "DES_DISC": "DESENHO TÉCNICO",
+        "COD_CURS": 8,
+        "CARG_HOR": 60
     },
     {
         "_id": 6601,
         "DES_DISC": "ELETROMAGNETISMO APLICADO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            8
-        ]
+        "COD_CURS": 8,
+        "CARG_HOR": 60
     },
     {
         "_id": 6607,
         "DES_DISC": "PRINCÍPIOS DA COMUNICAÇÃO APLICADA ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            8
-        ]
+        "COD_CURS": 8,
+        "CARG_HOR": 60
     },
     {
         "_id": 6016,
         "DES_DISC": "ELETRICIDADE APLICADA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            8,
-            9,
-            53
-        ]
+        "COD_CURS": 8,
+        "CARG_HOR": 60
     },
     {
         "_id": 6602,
         "DES_DISC": "TÉCNICAS DIGITAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            8
-        ]
+        "COD_CURS": 8,
+        "CARG_HOR": 60
     },
     {
         "_id": 6608,
         "DES_DISC": "ANÁLISE DE SISTEMAS DE POTÊNCIA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            8
-        ]
+        "COD_CURS": 8,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7342,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 8,
+        "CARG_HOR": 40
     },
     {
         "_id": 4556,
         "DES_DISC": "PROJETO INTEGRADOR II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            8
-        ]
+        "COD_CURS": 8,
+        "CARG_HOR": 60
     },
     {
         "_id": 7586,
         "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            8
-        ]
+        "COD_CURS": 8,
+        "CARG_HOR": 40
     },
     {
         "_id": 6619,
         "DES_DISC": "ELETRÔNICA GERAL ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            9
-        ]
+        "COD_CURS": 9,
+        "CARG_HOR": 60
     },
     {
         "_id": 3819,
         "DES_DISC": "MECÂNICA GERAL",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            9
-        ]
+        "COD_CURS": 9,
+        "CARG_HOR": 40
     },
     {
         "_id": 6002,
         "DES_DISC": "SISTEMAS FLUIDO-MECÂNICOS ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            9
-        ]
+        "COD_CURS": 9,
+        "CARG_HOR": 60
     },
     {
         "_id": 3858,
         "DES_DISC": "TERMODINÂMICA APLICADA I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            9
-        ]
+        "COD_CURS": 9,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 6025,
+        "DES_DISC": "FÍSICA APLICADA I",
+        "COD_CURS": 9,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 6024,
+        "DES_DISC": "DESENHO TÉCNICO",
+        "COD_CURS": 9,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 6023,
+        "DES_DISC": "CÁLCULO DIFERENCIAL E INTEGRAL I",
+        "COD_CURS": 9,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 6499,
+        "DES_DISC": "RESISTÊNCIA DOS MATERIAIS ",
+        "COD_CURS": 9,
+        "CARG_HOR": 60
     },
     {
         "_id": 6003,
         "DES_DISC": "TRANSFERÊNCIA DE CALOR ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            9
-        ]
+        "COD_CURS": 9,
+        "CARG_HOR": 60
     },
     {
         "_id": 3869,
         "DES_DISC": "DINÂMICA DE SISTEMAS E VIBRAÇÕES",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            9
-        ]
+        "COD_CURS": 9,
+        "CARG_HOR": 60
     },
     {
         "_id": 3870,
         "DES_DISC": "MÁQUINAS DE ELEVAÇÃO E TRANSPORTE",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            9
-        ]
+        "COD_CURS": 9,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 6016,
+        "DES_DISC": "ELETRICIDADE APLICADA",
+        "COD_CURS": 9,
+        "CARG_HOR": 60
     },
     {
         "_id": 3876,
         "DES_DISC": "SISTEMAS DE REFRIGERAÇÃO E AR CONDICIONADO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            9
-        ]
+        "COD_CURS": 9,
+        "CARG_HOR": 60
     },
     {
         "_id": 3864,
         "DES_DISC": "TERMODINÂMICA APLICADA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            9
-        ]
+        "COD_CURS": 9,
+        "CARG_HOR": 60
     },
     {
         "_id": 3861,
         "DES_DISC": "MATERIAIS DE CONSTRUÇÃO MECÂNICA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            9
-        ]
+        "COD_CURS": 9,
+        "CARG_HOR": 60
     },
     {
         "_id": 3860,
         "DES_DISC": "FABRICAÇÃO MECÂNICA E METROLOGIA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            9
-        ]
+        "COD_CURS": 9,
+        "CARG_HOR": 60
     },
     {
         "_id": 3863,
         "DES_DISC": "PROJETO DE ELEMENTOS DE MÁQUINA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            9
-        ]
+        "COD_CURS": 9,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7342,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 9,
+        "CARG_HOR": 40
     },
     {
         "_id": 7818,
         "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            9
-        ]
+        "COD_CURS": 9,
+        "CARG_HOR": 40
     },
     {
         "_id": 7815,
         "DES_DISC": "ITINERÁRIO EXTENSIONISTA II",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            9
-        ]
+        "COD_CURS": 9,
+        "CARG_HOR": 40
     },
     {
         "_id": 6021,
         "DES_DISC": "ESTÁGIO SUPERVISIONADO II",
-        "CARG_HOR": 100,
-        "COD_CURS": [
-            9
-        ]
+        "COD_CURS": 9,
+        "CARG_HOR": 100
     },
     {
         "_id": 6103,
         "DES_DISC": "TRABALHO DE CONCLUSÃO DE CURSO II",
-        "CARG_HOR": 120,
-        "COD_CURS": [
-            9,
-            53
-        ]
+        "COD_CURS": 9,
+        "CARG_HOR": 120
     },
     {
         "_id": 6456,
         "DES_DISC": "ESTÁGIO SUPERVISIONADO EM ENGENHARIA MECÂNICA I",
-        "CARG_HOR": 100,
-        "COD_CURS": [
-            9
-        ]
+        "COD_CURS": 9,
+        "CARG_HOR": 100
     },
     {
         "_id": 5987,
         "DES_DISC": "SISTEMAS AUTOMOTIVOS ",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            9
-        ]
+        "COD_CURS": 9,
+        "CARG_HOR": 40
+    },
+    {
+        "_id": 6024,
+        "DES_DISC": "DESENHO TÉCNICO",
+        "COD_CURS": 53,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 6023,
+        "DES_DISC": "CÁLCULO DIFERENCIAL E INTEGRAL I",
+        "COD_CURS": 53,
+        "CARG_HOR": 60
     },
     {
         "_id": 6094,
         "DES_DISC": "ELETRÔNICA DE POTÊNCIA E ATUADORES",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            53
-        ]
+        "COD_CURS": 53,
+        "CARG_HOR": 60
     },
     {
         "_id": 6118,
         "DES_DISC": "ELETRÔNICA DE AQUISIÇÃO E PROCESSAMENTO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            53
-        ]
+        "COD_CURS": 53,
+        "CARG_HOR": 60
     },
     {
         "_id": 6115,
         "DES_DISC": "ELEMENTOS DE MÁQUINAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            53
-        ]
+        "COD_CURS": 53,
+        "CARG_HOR": 60
     },
     {
         "_id": 6117,
         "DES_DISC": "REDES INDUSTRIAIS E SISTEMAS SUPERVISÓRIOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            53
-        ]
+        "COD_CURS": 53,
+        "CARG_HOR": 60
     },
     {
         "_id": 6095,
         "DES_DISC": "MODELAGEM E CONTROLE DE SISTEMAS I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            53
-        ]
+        "COD_CURS": 53,
+        "CARG_HOR": 60
     },
     {
         "_id": 6120,
         "DES_DISC": "SISTEMAS DIGITAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            53
-        ]
+        "COD_CURS": 53,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 6016,
+        "DES_DISC": "ELETRICIDADE APLICADA",
+        "COD_CURS": 53,
+        "CARG_HOR": 60
     },
     {
         "_id": 6109,
         "DES_DISC": "MÁQUINAS ELÉTRICAS E ACIONAMENTOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            53
-        ]
+        "COD_CURS": 53,
+        "CARG_HOR": 60
     },
     {
         "_id": 6096,
         "DES_DISC": "ROBÓTICA INDUSTRIAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            53
-        ]
+        "COD_CURS": 53,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 6025,
+        "DES_DISC": "FÍSICA APLICADA I",
+        "COD_CURS": 53,
+        "CARG_HOR": 60
     },
     {
         "_id": 8037,
         "DES_DISC": "PROJETO INTEGRADOR IV",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            53
-        ]
+        "COD_CURS": 53,
+        "CARG_HOR": 30
+    },
+    {
+        "_id": 7342,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 53,
+        "CARG_HOR": 40
+    },
+    {
+        "_id": 7327,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 53,
+        "CARG_HOR": 40
     },
     {
         "_id": 4653,
         "DES_DISC": "PROJETO INTEGRADOR II",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            53
-        ]
+        "COD_CURS": 53,
+        "CARG_HOR": 40
     },
     {
         "_id": 6111,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO II",
-        "CARG_HOR": 100,
-        "COD_CURS": [
-            53
-        ]
+        "COD_CURS": 53,
+        "CARG_HOR": 100
+    },
+    {
+        "_id": 6103,
+        "DES_DISC": "TRABALHO DE CONCLUSÃO DE CURSO II",
+        "COD_CURS": 53,
+        "CARG_HOR": 120
     },
     {
         "_id": 6110,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO I",
-        "CARG_HOR": 100,
-        "COD_CURS": [
-            53
-        ]
+        "COD_CURS": 53,
+        "CARG_HOR": 100
     },
     {
         "_id": 6154,
         "DES_DISC": "CÁLCULOS FARMACÊUTICOS",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            30
-        ]
+        "COD_CURS": 30,
+        "CARG_HOR": 30
     },
     {
         "_id": 6191,
         "DES_DISC": "FARMACOBOTÂNICA",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            30
-        ]
+        "COD_CURS": 30,
+        "CARG_HOR": 30
     },
     {
         "_id": 6194,
         "DES_DISC": "MICROBIOLOGIA GERAL E CLÍNICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
+        "COD_CURS": 30,
+        "CARG_HOR": 60
     },
     {
         "_id": 6161,
         "DES_DISC": "HEMATOLOGIA E CITOLOGIA CLÍNICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
+        "COD_CURS": 30,
+        "CARG_HOR": 60
     },
     {
         "_id": 6146,
         "DES_DISC": "FARMACOBIOTECNOLOGIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
+        "COD_CURS": 30,
+        "CARG_HOR": 60
     },
     {
         "_id": 7367,
         "DES_DISC": "FARMÁCIA, ATUALIDADES E ASSISTÊNCIA FARMACÊUTICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
+        "COD_CURS": 30,
+        "CARG_HOR": 60
     },
     {
         "_id": 6187,
         "DES_DISC": "QUÍMICA GERAL E INORGÂNICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
+        "COD_CURS": 30,
+        "CARG_HOR": 60
     },
     {
         "_id": 6166,
         "DES_DISC": "FARMÁCIA HOSPITALAR E CLÍNICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
+        "COD_CURS": 30,
+        "CARG_HOR": 60
     },
     {
         "_id": 7372,
         "DES_DISC": "QUÍMICA ORGÂNICA APLICADA À FARMÁCIA ",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            30
-        ]
+        "COD_CURS": 30,
+        "CARG_HOR": 30
     },
     {
         "_id": 8205,
         "DES_DISC": "TOXICOLOGIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
+        "COD_CURS": 30,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5309,
+        "DES_DISC": "BIOLOGIA CELULAR E TECIDUAL",
+        "COD_CURS": 30,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5473,
+        "DES_DISC": "FISIOLOGIA HUMANA",
+        "COD_CURS": 30,
+        "CARG_HOR": 60
     },
     {
         "_id": 7380,
         "DES_DISC": "FARMACOTÉCNICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
+        "COD_CURS": 30,
+        "CARG_HOR": 60
     },
     {
         "_id": 7378,
         "DES_DISC": "FITOTERAPIA APLICADA À FARMÁCIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
+        "COD_CURS": 30,
+        "CARG_HOR": 60
     },
     {
         "_id": 6162,
         "DES_DISC": "HOMEOPATIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
+        "COD_CURS": 30,
+        "CARG_HOR": 60
     },
     {
         "_id": 2364,
         "DES_DISC": "FARMACOTÉCNICA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
+        "COD_CURS": 30,
+        "CARG_HOR": 60
     },
     {
         "_id": 6157,
         "DES_DISC": "FARMACOLOGIA APLICADA À FARMÁCIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
+        "COD_CURS": 30,
+        "CARG_HOR": 60
     },
     {
         "_id": 5429,
         "DES_DISC": "BIOQUÍMICA CLÍNICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
+        "COD_CURS": 30,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7369,
+        "DES_DISC": "VIGILÂNCIA E PROMOÇÃO À SAÚDE ",
+        "COD_CURS": 30,
+        "CARG_HOR": 60
     },
     {
         "_id": 6158,
         "DES_DISC": "FITOTERAPIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
+        "COD_CURS": 30,
+        "CARG_HOR": 60
     },
     {
         "_id": 6147,
         "DES_DISC": "TECNOLOGIA E OPERAÇÕES FARMACÊUTICAS ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
+        "COD_CURS": 30,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5210,
+        "DES_DISC": "ANATOMIA HUMANA",
+        "COD_CURS": 30,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5455,
+        "DES_DISC": "PATOLOGIA HUMANA",
+        "COD_CURS": 30,
+        "CARG_HOR": 60
     },
     {
         "_id": 7371,
         "DES_DISC": "FÍSICO-QUÍMICA APLICADA À FARMÁCIA",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            30
-        ]
+        "COD_CURS": 30,
+        "CARG_HOR": 30
     },
     {
         "_id": 7382,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO EM FARMÁCIA II",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            30
-        ]
+        "COD_CURS": 30,
+        "CARG_HOR": 30
+    },
+    {
+        "_id": 7373,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 30,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7323,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 30,
+        "CARG_HOR": 60
     },
     {
         "_id": 6183,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO IV",
-        "CARG_HOR": 240,
-        "COD_CURS": [
-            30
-        ]
+        "COD_CURS": 30,
+        "CARG_HOR": 240
     },
     {
         "_id": 6167,
         "DES_DISC": "TRABALHO DE CURSO EM FARMÁCIA",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            30
-        ]
+        "COD_CURS": 30,
+        "CARG_HOR": 80
     },
     {
         "_id": 6185,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO VI",
-        "CARG_HOR": 240,
-        "COD_CURS": [
-            30
-        ]
+        "COD_CURS": 30,
+        "CARG_HOR": 240
     },
     {
         "_id": 6189,
         "DES_DISC": "FISIOPATOLOGIA APLICADA À FARMÁCIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            30
-        ]
+        "COD_CURS": 30,
+        "CARG_HOR": 60
     },
     {
         "_id": 6298,
         "DES_DISC": "BIOMECÂNICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            58
-        ]
+        "COD_CURS": 58,
+        "CARG_HOR": 60
     },
     {
         "_id": 6300,
         "DES_DISC": "OBSERVAÇÃO DE PRÁTICAS CLÍNICAS SUPERVISIONADAS I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            58
-        ]
+        "COD_CURS": 58,
+        "CARG_HOR": 60
     },
     {
         "_id": 7509,
         "DES_DISC": "RECURSOS TERAPÊUTICOS MANUAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            58
-        ]
+        "COD_CURS": 58,
+        "CARG_HOR": 60
     },
     {
         "_id": 6286,
         "DES_DISC": "FISIOTERAPIA DERMATOFUNCIONAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            58
-        ]
+        "COD_CURS": 58,
+        "CARG_HOR": 60
     },
     {
         "_id": 7506,
         "DES_DISC": "PRÓTESE, ÓRTESE E TECNOLOGIA ASSISTIVA",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            58
-        ]
+        "COD_CURS": 58,
+        "CARG_HOR": 30
     },
     {
         "_id": 7502,
         "DES_DISC": "SEMIOLOGIA DO MOVIMENTO HUMANO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            58
-        ]
+        "COD_CURS": 58,
+        "CARG_HOR": 60
     },
     {
         "_id": 6285,
         "DES_DISC": "FISIOTERAPIA CARDIOPNEUMOFUNCIONAL II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            58
-        ]
+        "COD_CURS": 58,
+        "CARG_HOR": 60
     },
     {
         "_id": 7508,
         "DES_DISC": "RECURSOS TERAPÊUTICOS FÍSICOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            58
-        ]
+        "COD_CURS": 58,
+        "CARG_HOR": 60
     },
     {
         "_id": 6287,
         "DES_DISC": "FISIOTERAPIA NEUROFUNCIONAL E NA SAÚDE DA CRIANÇA ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            58
-        ]
+        "COD_CURS": 58,
+        "CARG_HOR": 60
     },
     {
         "_id": 6288,
         "DES_DISC": "FISIOTERAPIA ORTOPÉDICA,TRAUMATOLÓGICA E ESPORTIVA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            58
-        ]
+        "COD_CURS": 58,
+        "CARG_HOR": 60
     },
     {
         "_id": 6289,
         "DES_DISC": "FISIOTERAPIA REUMATOLÓGICA E NA SAÚDE DO IDOSO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            58
-        ]
+        "COD_CURS": 58,
+        "CARG_HOR": 60
     },
     {
         "_id": 6440,
         "DES_DISC": "TÓPICOS INTEGRADORES EM FISIOTERAPIA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            58
-        ]
+        "COD_CURS": 58,
+        "CARG_HOR": 60
     },
     {
         "_id": 6307,
         "DES_DISC": "TÓPICOS INTEGRADORES EM FISIOTERAPIA I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            58
-        ]
+        "COD_CURS": 58,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5309,
+        "DES_DISC": "BIOLOGIA CELULAR E TECIDUAL",
+        "COD_CURS": 58,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5473,
+        "DES_DISC": "FISIOLOGIA HUMANA",
+        "COD_CURS": 58,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5455,
+        "DES_DISC": "PATOLOGIA HUMANA",
+        "COD_CURS": 58,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5210,
+        "DES_DISC": "ANATOMIA HUMANA",
+        "COD_CURS": 58,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7368,
+        "DES_DISC": "POLÍTICAS PÚBLICAS DE ATENÇÃO À SAÚDE",
+        "COD_CURS": 58,
+        "CARG_HOR": 60
     },
     {
         "_id": 4716,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO - ÁREA VII",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            58
-        ]
+        "COD_CURS": 58,
+        "CARG_HOR": 80
     },
     {
         "_id": 4715,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO - ÁREA VI",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            58
-        ]
+        "COD_CURS": 58,
+        "CARG_HOR": 80
     },
     {
         "_id": 4717,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO - ÁREA VIII",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            58
-        ]
+        "COD_CURS": 58,
+        "CARG_HOR": 80
     },
     {
         "_id": 4718,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO - ÁREA IX",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            58
-        ]
+        "COD_CURS": 58,
+        "CARG_HOR": 80
     },
     {
         "_id": 4719,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO - ÁREA X",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            58
-        ]
+        "COD_CURS": 58,
+        "CARG_HOR": 80
     },
     {
         "_id": 4709,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO - ÁREA I",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            58
-        ]
+        "COD_CURS": 58,
+        "CARG_HOR": 80
     },
     {
         "_id": 4710,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO - ÁREA II",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            58
-        ]
+        "COD_CURS": 58,
+        "CARG_HOR": 80
     },
     {
         "_id": 4711,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO - ÁREA III",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            58
-        ]
+        "COD_CURS": 58,
+        "CARG_HOR": 80
     },
     {
         "_id": 4712,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO - ÁREA IV",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            58
-        ]
+        "COD_CURS": 58,
+        "CARG_HOR": 80
     },
     {
         "_id": 4713,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO - ÁREA V",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            58
-        ]
+        "COD_CURS": 58,
+        "CARG_HOR": 80
+    },
+    {
+        "_id": 7323,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 58,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7342,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 58,
+        "CARG_HOR": 40
     },
     {
         "_id": 7115,
         "DES_DISC": "HABILITAÇÃO E REABILITAÇÃO DOS DISTÚRBIOS DA COMUNICAÇÃO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            67
-        ]
+        "COD_CURS": 67,
+        "CARG_HOR": 60
     },
     {
         "_id": 7113,
         "DES_DISC": "AUDIOLOGIA CLÍNICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            67
-        ]
+        "COD_CURS": 67,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5473,
+        "DES_DISC": "FISIOLOGIA HUMANA",
+        "COD_CURS": 67,
+        "CARG_HOR": 60
     },
     {
         "_id": 7104,
         "DES_DISC": "AQUISIÇÃO E DESENVOLVIMENTO DE LINGUAGEM",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            67
-        ]
+        "COD_CURS": 67,
+        "CARG_HOR": 60
     },
     {
         "_id": 7111,
         "DES_DISC": "TEORIA DOS DISTÚRBIOS DA COMUNICAÇÃO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            67
-        ]
+        "COD_CURS": 67,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5309,
+        "DES_DISC": "BIOLOGIA CELULAR E TECIDUAL",
+        "COD_CURS": 67,
+        "CARG_HOR": 60
     },
     {
         "_id": 7100,
         "DES_DISC": "FONÉTICA E FONOLOGIA APLICADAS À FONOAUDIOLOGIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            67
-        ]
+        "COD_CURS": 67,
+        "CARG_HOR": 60
     },
     {
         "_id": 7123,
         "DES_DISC": "AVALIAÇÃO DA FUNÇÃO AUDITIVA CENTRAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            67
-        ]
+        "COD_CURS": 67,
+        "CARG_HOR": 60
     },
     {
         "_id": 7125,
         "DES_DISC": "OBSERVAÇÃO DE PRÁTICAS CLÍNICAS EM AUDIOLOGIA CLÍNICA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            67
-        ]
+        "COD_CURS": 67,
+        "CARG_HOR": 60
     },
     {
         "_id": 7126,
         "DES_DISC": "OBSERVAÇÃO DE PRÁTICAS CLÍNICAS EM DISTÚRBIOS DA COMUNICAÇÃO II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            67
-        ]
+        "COD_CURS": 67,
+        "CARG_HOR": 60
     },
     {
         "_id": 7122,
         "DES_DISC": "ATUALIDADES EM FONOAUDIOLOGIA ",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            67
-        ]
+        "COD_CURS": 67,
+        "CARG_HOR": 40
     },
     {
         "_id": 7124,
         "DES_DISC": "HABILITAÇÃO E REABILITAÇÃO DOS DISTÚRBIOS DA AUDIÇÃO ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            67
-        ]
+        "COD_CURS": 67,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5210,
+        "DES_DISC": "ANATOMIA HUMANA",
+        "COD_CURS": 67,
+        "CARG_HOR": 60
     },
     {
         "_id": 8220,
         "DES_DISC": "PRÁTICA BASEADA EM EVIDÊNCIA EM SAÚDE ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            67
-        ]
+        "COD_CURS": 67,
+        "CARG_HOR": 60
     },
     {
         "_id": 7127,
         "DES_DISC": "PROJETO INTERDISCIPLINAR EM FONOAUDIOLOGIA V ",
-        "CARG_HOR": 17,
-        "COD_CURS": [
-            67
-        ]
+        "COD_CURS": 67,
+        "CARG_HOR": 17
+    },
+    {
+        "_id": 7314,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 67,
+        "CARG_HOR": 50
     },
     {
         "_id": 7529,
         "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
-        "CARG_HOR": 70,
-        "COD_CURS": [
-            67
-        ]
+        "COD_CURS": 67,
+        "CARG_HOR": 70
     },
     {
         "_id": 7792,
         "DES_DISC": "MEDIAÇÃO CULTURAL ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            66
-        ]
+        "COD_CURS": 66,
+        "CARG_HOR": 60
     },
     {
         "_id": 5768,
         "DES_DISC": "TEORIA DA HISTÓRIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            66
-        ]
+        "COD_CURS": 66,
+        "CARG_HOR": 60
     },
     {
         "_id": 7791,
         "DES_DISC": "HISTÓRIA MODERNA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            66
-        ]
+        "COD_CURS": 66,
+        "CARG_HOR": 60
     },
     {
         "_id": 6538,
         "DES_DISC": "METODOLOGIA E PRÁTICA DE ENSINO DE HISTÓRIA E ORIENTAÇÃO DE ESTÁGIO CURRICULAR SUPERVISIONADO EM HISTÓRIA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            66
-        ]
+        "COD_CURS": 66,
+        "CARG_HOR": 60
     },
     {
         "_id": 6537,
         "DES_DISC": "HISTÓRIA DO BRASIL REPÚBLICA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            66
-        ]
+        "COD_CURS": 66,
+        "CARG_HOR": 60
     },
     {
         "_id": 6549,
         "DES_DISC": "TENDÊNCIAS DA HISTORIOGRAFIA CONTEMPORÂNEA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            66
-        ]
+        "COD_CURS": 66,
+        "CARG_HOR": 60
     },
     {
         "_id": 5758,
         "DES_DISC": "HISTÓRIA CONTEMPORÂNEA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            66
-        ]
+        "COD_CURS": 66,
+        "CARG_HOR": 60
     },
     {
         "_id": 6550,
         "DES_DISC": "METODOLOGIA E PRÁTICA DE ENSINO DE HISTÓRIA E ORIENTAÇÃO DE ESTÁGIO CURRICULAR SUPERVISIONADO EM HISTÓRIA IV",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            66
-        ]
+        "COD_CURS": 66,
+        "CARG_HOR": 60
     },
     {
         "_id": 8045,
         "DES_DISC": "HISTÓRIA, SOCIEDADE E CIDADANIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            66
-        ]
+        "COD_CURS": 66,
+        "CARG_HOR": 60
     },
     {
         "_id": 8209,
         "DES_DISC": "ARTE, MEMÓRIA E PATRIMÔNIO NO BRASIL ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            66
-        ]
+        "COD_CURS": 66,
+        "CARG_HOR": 60
     },
     {
         "_id": 8046,
         "DES_DISC": "TEMAS SOCIAIS CONTEMPORÂNEOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            66
-        ]
+        "COD_CURS": 66,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 6037,
+        "DES_DISC": "LÍNGUA BRASILEIRA DE SINAIS",
+        "COD_CURS": 66,
+        "CARG_HOR": 60
     },
     {
         "_id": 7790,
         "DES_DISC": "HISTÓRIA MEDIEVAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            66
-        ]
+        "COD_CURS": 66,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7361,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I ",
+        "COD_CURS": 66,
+        "CARG_HOR": 70
     },
     {
         "_id": 6557,
         "DES_DISC": "PROJETOS INTERDISCIPLINARES PARA DOCÊNCIA DE HISTÓRIA IV",
-        "CARG_HOR": 10,
-        "COD_CURS": [
-            66
-        ]
+        "COD_CURS": 66,
+        "CARG_HOR": 10
+    },
+    {
+        "_id": 7399,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 66,
+        "CARG_HOR": 50
     },
     {
         "_id": 6558,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO EM HISTÓRIA IV",
-        "CARG_HOR": 100,
-        "COD_CURS": [
-            66
-        ]
+        "COD_CURS": 66,
+        "CARG_HOR": 100
     },
     {
         "_id": 6540,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO EM HISTÓRIA II",
-        "CARG_HOR": 100,
-        "COD_CURS": [
-            66
-        ]
+        "COD_CURS": 66,
+        "CARG_HOR": 100
     },
     {
         "_id": 6554,
         "DES_DISC": "PROJETOS INTERDISCIPLINARES PARA DOCÊNCIA DE HISTÓRIA II ",
-        "CARG_HOR": 20,
-        "COD_CURS": [
-            66
-        ]
+        "COD_CURS": 66,
+        "CARG_HOR": 20
     },
     {
         "_id": 6655,
         "DES_DISC": "RADIOJORNALISMO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            49
-        ]
+        "COD_CURS": 49,
+        "CARG_HOR": 60
     },
     {
         "_id": 6663,
         "DES_DISC": "REDAÇÃO JORNALÍSTICA V",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            49
-        ]
+        "COD_CURS": 49,
+        "CARG_HOR": 30
     },
     {
         "_id": 6672,
         "DES_DISC": "PROJETO EM JORNALISMO ELETRÔNICO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            49
-        ]
+        "COD_CURS": 49,
+        "CARG_HOR": 60
     },
     {
         "_id": 6674,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO II",
-        "CARG_HOR": 100,
-        "COD_CURS": [
-            49
-        ]
+        "COD_CURS": 49,
+        "CARG_HOR": 100
     },
     {
         "_id": 6673,
         "DES_DISC": "ORIENTAÇÃO DO TRABALHO DE CONCLUSÃO DE CURSO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            49
-        ]
+        "COD_CURS": 49,
+        "CARG_HOR": 60
     },
     {
         "_id": 8210,
         "DES_DISC": "COMUNICAÇÃO DIGITAL E INOVAÇÃO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            49
-        ]
+        "COD_CURS": 49,
+        "CARG_HOR": 60
     },
     {
         "_id": 7348,
         "DES_DISC": "ORGANIZAÇÃO DA PRODUÇÃO AUDIOVISUAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            49,
-            50
-        ]
+        "COD_CURS": 49,
+        "CARG_HOR": 60
     },
     {
         "_id": 6944,
         "DES_DISC": "ENTREVISTA E REPORTAGEM MULTIMÍDIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            49
-        ]
+        "COD_CURS": 49,
+        "CARG_HOR": 60
     },
     {
         "_id": 5903,
         "DES_DISC": "CIBERCULTURA E REDES INTERATIVAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            49,
-            50
-        ]
+        "COD_CURS": 49,
+        "CARG_HOR": 60
     },
     {
         "_id": 5906,
         "DES_DISC": "TEORIAS DA COMUNICAÇÃO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            49,
-            50
-        ]
+        "COD_CURS": 49,
+        "CARG_HOR": 60
     },
     {
         "_id": 6666,
         "DES_DISC": "GRANDE REPORTAGEM, DOCUMENTÁRIO E ATIVISMO DIGITAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            49
-        ]
+        "COD_CURS": 49,
+        "CARG_HOR": 60
     },
     {
         "_id": 6664,
         "DES_DISC": "JORNALISMO ESPECIALIZADO ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            49
-        ]
+        "COD_CURS": 49,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7342,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 49,
+        "CARG_HOR": 40
+    },
+    {
+        "_id": 7327,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 49,
+        "CARG_HOR": 40
     },
     {
         "_id": 6675,
         "DES_DISC": "TRABALHO DE CONCLUSÃO DE CURSO ",
-        "CARG_HOR": 180,
-        "COD_CURS": [
-            49
-        ]
+        "COD_CURS": 49,
+        "CARG_HOR": 180
     },
     {
         "_id": 6667,
         "DES_DISC": "PROJETOS INTERDISCIPLINARES - REVISTA",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            49
-        ]
+        "COD_CURS": 49,
+        "CARG_HOR": 30
     },
     {
         "_id": 6645,
         "DES_DISC": "PROJETOS INTERDISCIPLINARES - ENTREVISTAS ",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            49
-        ]
+        "COD_CURS": 49,
+        "CARG_HOR": 30
     },
     {
         "_id": 6651,
         "DES_DISC": "PROJETOS INTERDISCIPLINARES  - AGÊNCIA DE NOTÍCIAS",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            49
-        ]
+        "COD_CURS": 49,
+        "CARG_HOR": 30
     },
     {
         "_id": 5934,
         "DES_DISC": "LITERATURA BRASILEIRA: POÉTICA E PROSA I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            60
-        ]
+        "COD_CURS": 60,
+        "CARG_HOR": 60
     },
     {
         "_id": 5880,
         "DES_DISC": "PRÁTICA DE ENSINO E ORIENTAÇÃO DE ESTÁGIO CURRICULAR SUPERVISIONADO EM LÍNGUA INGLESA II",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            60
-        ]
+        "COD_CURS": 60,
+        "CARG_HOR": 30
     },
     {
         "_id": 5879,
         "DES_DISC": "ENSINO DE PORTUGUÊS COMO LÍNGUA ESTRANGEIRA",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            60
-        ]
+        "COD_CURS": 60,
+        "CARG_HOR": 30
     },
     {
         "_id": 5858,
         "DES_DISC": "METODOLOGIA DE ENSINO DE LÍNGUA PORTUGUESA II",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            60
-        ]
+        "COD_CURS": 60,
+        "CARG_HOR": 30
     },
     {
         "_id": 5878,
         "DES_DISC": "DISCURSO, IDENTIDADE E INTERCULTURALIDADE",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            60
-        ]
+        "COD_CURS": 60,
+        "CARG_HOR": 30
     },
     {
         "_id": 8056,
         "DES_DISC": "LEITURA E PRODUÇÃO DE TEXTOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            60
-        ]
+        "COD_CURS": 60,
+        "CARG_HOR": 60
     },
     {
         "_id": 8218,
         "DES_DISC": "LETRAMENTO RACIAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            60
-        ]
+        "COD_CURS": 60,
+        "CARG_HOR": 60
     },
     {
         "_id": 8211,
         "DES_DISC": "COMUNICAÇÃO, CULTURA E CONSUMO ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            50,
-            60
-        ]
+        "COD_CURS": 60,
+        "CARG_HOR": 60
     },
     {
         "_id": 5932,
         "DES_DISC": "ESTUDOS LINGUISTICO-DISCURSIVOS EM LINGUA INGLESA  V",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            60
-        ]
+        "COD_CURS": 60,
+        "CARG_HOR": 60
     },
     {
         "_id": 7833,
         "DES_DISC": "RELAÇÕES FONÉTICO-FONOLÓGICAS E ORTOGRÁFICAS EM LÍNGUA PORTUGUESA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            60
-        ]
+        "COD_CURS": 60,
+        "CARG_HOR": 60
     },
     {
         "_id": 7811,
         "DES_DISC": "ESTUDOS LINGUÍSTICO-DISCURSIVOS EM LÍNGUA INGLESA I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            60
-        ]
+        "COD_CURS": 60,
+        "CARG_HOR": 60
     },
     {
         "_id": 7812,
         "DES_DISC": "RELAÇÕES SINTÁTICAS EM LÍNGUA PORTUGUESA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            60
-        ]
+        "COD_CURS": 60,
+        "CARG_HOR": 60
     },
     {
         "_id": 5854,
         "DES_DISC": "ESTUDOS LINGUÍSTICO-DISCURSIVOS EM LÍNGUA INGLESA III",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            60
-        ]
+        "COD_CURS": 60,
+        "CARG_HOR": 60
     },
     {
         "_id": 5856,
         "DES_DISC": "LITERATURA DE LÍNGUA PORTUGUESA: POÉTICA E PROSA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            60
-        ]
+        "COD_CURS": 60,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 6037,
+        "DES_DISC": "LÍNGUA BRASILEIRA DE SINAIS",
+        "COD_CURS": 60,
+        "CARG_HOR": 60
     },
     {
         "_id": 8212,
         "DES_DISC": "DISCURSO E ESCRITA EM MEIOS DIGITAIS COLABORATIVOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            60
-        ]
+        "COD_CURS": 60,
+        "CARG_HOR": 60
     },
     {
         "_id": 8216,
         "DES_DISC": "INGLÊS INTERMEDIÁRIO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            60
-        ]
+        "COD_CURS": 60,
+        "CARG_HOR": 60
     },
     {
         "_id": 8215,
         "DES_DISC": "INGLÊS BÁSICO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            60
-        ]
+        "COD_CURS": 60,
+        "CARG_HOR": 60
     },
     {
         "_id": 5857,
         "DES_DISC": "METODOLOGIA DE ENSINO DE LÍNGUA INGLESA II",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            60
-        ]
+        "COD_CURS": 60,
+        "CARG_HOR": 30
     },
     {
         "_id": 7324,
         "DES_DISC": "LÍNGUA BRASILEIRA DE SINAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            60,
-            22
-        ]
+        "COD_CURS": 60,
+        "CARG_HOR": 60
     },
     {
         "_id": 8217,
         "DES_DISC": "INTRODUÇÃO À PESQUISA QUALITATIVA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            60
-        ]
+        "COD_CURS": 60,
+        "CARG_HOR": 60
     },
     {
         "_id": 5859,
         "DES_DISC": "PRÁTICA DE ENSINO E ORIENTAÇÃO DE ESTÁGIO CURRICULAR SUPERVISIONADO EM LÍNGUA PORTUGUESA II",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            60
-        ]
+        "COD_CURS": 60,
+        "CARG_HOR": 30
     },
     {
         "_id": 5924,
         "DES_DISC": "PRÁTICAS DE MULTILETRAMENTOS E TRANSDISCIPLINARIDADE: DESIGN THINKING, PESQUISA E ENSINO II",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            60
-        ]
+        "COD_CURS": 60,
+        "CARG_HOR": 40
     },
     {
         "_id": 4751,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO EM LÍNGUA PORTUGUESA II",
-        "CARG_HOR": 100,
-        "COD_CURS": [
-            60
-        ]
+        "COD_CURS": 60,
+        "CARG_HOR": 100
     },
     {
         "_id": 7810,
         "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
-        "CARG_HOR": 20,
-        "COD_CURS": [
-            60
-        ]
+        "COD_CURS": 60,
+        "CARG_HOR": 20
     },
     {
         "_id": 6436,
         "DES_DISC": "PRÁTICAS DE MULTILETRAMENTOS E TRANSDISCIPLINARIDADE: DESIGN THINKING, PESQUISA E ENSINO IV",
-        "CARG_HOR": 35,
-        "COD_CURS": [
-            60
-        ]
+        "COD_CURS": 60,
+        "CARG_HOR": 35
     },
     {
         "_id": 4763,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO EM LÍNGUA INGLESA II",
-        "CARG_HOR": 100,
-        "COD_CURS": [
-            60
-        ]
+        "COD_CURS": 60,
+        "CARG_HOR": 100
+    },
+    {
+        "_id": 7399,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 60,
+        "CARG_HOR": 50
     },
     {
         "_id": 6250,
         "DES_DISC": "TÉCNICA CIRÚRGICA E ANESTESIOLOGIA VETERINÁRIA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            63
-        ]
+        "COD_CURS": 63,
+        "CARG_HOR": 60
     },
     {
         "_id": 5071,
         "DES_DISC": "HIGIENE E INSPEÇÃO DE PRODUTOS DE ORIGEM ANIMAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            63
-        ]
+        "COD_CURS": 63,
+        "CARG_HOR": 60
     },
     {
         "_id": 6258,
         "DES_DISC": "CLÍNICA MÉDICA E TERAPÊUTICA DE GRANDES ANIMAIS II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            63
-        ]
+        "COD_CURS": 63,
+        "CARG_HOR": 60
     },
     {
         "_id": 6260,
         "DES_DISC": "MEDICINA DOS ANIMAIS SILVESTRES",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            63
-        ]
+        "COD_CURS": 63,
+        "CARG_HOR": 60
     },
     {
         "_id": 6238,
         "DES_DISC": "FISIOLOGIA ANIMAL II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            63
-        ]
+        "COD_CURS": 63,
+        "CARG_HOR": 60
     },
     {
         "_id": 6247,
         "DES_DISC": "FARMACOLOGIA E TOXICOLOGIA VETERINÁRIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            63
-        ]
+        "COD_CURS": 63,
+        "CARG_HOR": 60
     },
     {
         "_id": 6249,
         "DES_DISC": "REPRODUÇÃO ANIMAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            63
-        ]
+        "COD_CURS": 63,
+        "CARG_HOR": 60
     },
     {
         "_id": 6230,
         "DES_DISC": "ANATOMIA SISTÊMICA DOS ANIMAIS DOMÉSTICOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            63
-        ]
+        "COD_CURS": 63,
+        "CARG_HOR": 60
     },
     {
         "_id": 5044,
         "DES_DISC": "PATOLOGIA GERAL VETERINÁRIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            63
-        ]
+        "COD_CURS": 63,
+        "CARG_HOR": 60
     },
     {
         "_id": 6241,
         "DES_DISC": "SEMIOLOGIA E LABORATÓRIO CLÍNICO VETERINÁRIO I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            63
-        ]
+        "COD_CURS": 63,
+        "CARG_HOR": 60
     },
     {
         "_id": 6231,
         "DES_DISC": "HISTOLOGIA ANIMAL ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            63
-        ]
+        "COD_CURS": 63,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5309,
+        "DES_DISC": "BIOLOGIA CELULAR E TECIDUAL",
+        "COD_CURS": 63,
+        "CARG_HOR": 60
     },
     {
         "_id": 6246,
         "DES_DISC": "DOENÇAS INFECCIOSAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            63
-        ]
+        "COD_CURS": 63,
+        "CARG_HOR": 60
     },
     {
         "_id": 6257,
         "DES_DISC": "CLÍNICA CIRÚRGICA VETERINÁRIA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            63
-        ]
+        "COD_CURS": 63,
+        "CARG_HOR": 60
     },
     {
         "_id": 6259,
         "DES_DISC": "CLÍNICA MÉDICA E TERAPÊUTICA DE PEQUENOS ANIMAIS II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            63
-        ]
+        "COD_CURS": 63,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7373,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 63,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7323,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 63,
+        "CARG_HOR": 60
     },
     {
         "_id": 6582,
         "DES_DISC": "TRABALHO DE CURSO EM MEDICINA VETERINÁRIA",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            63
-        ]
+        "COD_CURS": 63,
+        "CARG_HOR": 40
     },
     {
         "_id": 6262,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO EM MEDICINA VETERINÁRIA II",
-        "CARG_HOR": 300,
-        "COD_CURS": [
-            63
-        ]
+        "COD_CURS": 63,
+        "CARG_HOR": 300
     },
     {
         "_id": 6261,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO EM MEDICINA VETERINÁRIA I",
-        "CARG_HOR": 300,
-        "COD_CURS": [
-            63
-        ]
+        "COD_CURS": 63,
+        "CARG_HOR": 300
     },
     {
         "_id": 6506,
         "DES_DISC": "TRABALHO DE CURSO EM MEDICINA VETERINÁRIA",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            63
-        ]
+        "COD_CURS": 63,
+        "CARG_HOR": 40
     },
     {
         "_id": 5299,
         "DES_DISC": "NUTRIÇÃO MATERNO-INFANTIL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            48
-        ]
+        "COD_CURS": 48,
+        "CARG_HOR": 60
     },
     {
         "_id": 6521,
         "DES_DISC": "GESTÃO DE UNIDADES DE ALIMENTAÇÃO E NUTRIÇÃO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            48
-        ]
+        "COD_CURS": 48,
+        "CARG_HOR": 60
     },
     {
         "_id": 5282,
         "DES_DISC": "IMUNOLOGIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            48
-        ]
+        "COD_CURS": 48,
+        "CARG_HOR": 60
     },
     {
         "_id": 5290,
         "DES_DISC": "TÉCNICA DIETÉTICA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            48
-        ]
+        "COD_CURS": 48,
+        "CARG_HOR": 60
     },
     {
         "_id": 5310,
         "DES_DISC": "GENÉTICA E IMUNOLOGIA ",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            48
-        ]
+        "COD_CURS": 48,
+        "CARG_HOR": 80
     },
     {
         "_id": 6512,
         "DES_DISC": "ATUALIDADES EM NUTRIÇÃO",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            48
-        ]
+        "COD_CURS": 48,
+        "CARG_HOR": 30
     },
     {
         "_id": 5304,
         "DES_DISC": "FARMACOLOGIA APLICADA À NUTRIÇÃO ",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            48
-        ]
+        "COD_CURS": 48,
+        "CARG_HOR": 30
+    },
+    {
+        "_id": 5272,
+        "DES_DISC": "HIGIENE DOS ALIMENTOS",
+        "COD_CURS": 48,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5473,
+        "DES_DISC": "FISIOLOGIA HUMANA",
+        "COD_CURS": 48,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5309,
+        "DES_DISC": "BIOLOGIA CELULAR E TECIDUAL",
+        "COD_CURS": 48,
+        "CARG_HOR": 60
     },
     {
         "_id": 5289,
         "DES_DISC": "AVALIAÇÃO DO ESTADO NUTRICIONAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            48
-        ]
+        "COD_CURS": 48,
+        "CARG_HOR": 60
     },
     {
         "_id": 7395,
         "DES_DISC": "COMPOSIÇÃO DOS ALIMENTOS E REGIONALIDADE ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            48
-        ]
+        "COD_CURS": 48,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5210,
+        "DES_DISC": "ANATOMIA HUMANA",
+        "COD_CURS": 48,
+        "CARG_HOR": 60
     },
     {
         "_id": 5262,
         "DES_DISC": "EDUCAÇÃO ALIMENTAR E NUTRICIONAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            48
-        ]
+        "COD_CURS": 48,
+        "CARG_HOR": 60
     },
     {
         "_id": 5261,
         "DES_DISC": "DIETOTERAPIA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            48
-        ]
+        "COD_CURS": 48,
+        "CARG_HOR": 60
     },
     {
         "_id": 6515,
         "DES_DISC": "NUTRIÇÃO NO ENVELHECIMENTO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            48
-        ]
+        "COD_CURS": 48,
+        "CARG_HOR": 60
     },
     {
         "_id": 7396,
         "DES_DISC": "NUTRIÇÃO HUMANA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            48
-        ]
+        "COD_CURS": 48,
+        "CARG_HOR": 60
     },
     {
         "_id": 5305,
         "DES_DISC": "NUTRIÇÃO APLICADA AO EXERCÍCIO FÍSICO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            48
-        ]
+        "COD_CURS": 48,
+        "CARG_HOR": 60
     },
     {
         "_id": 5308,
         "DES_DISC": "POLÍTICAS PÚBLICAS EM NUTRIÇÃO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            48
-        ]
+        "COD_CURS": 48,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7314,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 48,
+        "CARG_HOR": 50
+    },
+    {
+        "_id": 7399,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 48,
+        "CARG_HOR": 50
     },
     {
         "_id": 6519,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO EM NUTRIÇÃO - ÁREA III",
-        "CARG_HOR": 214,
-        "COD_CURS": [
-            48
-        ]
+        "COD_CURS": 48,
+        "CARG_HOR": 214
     },
     {
         "_id": 6518,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO EM NUTRIÇÃO - ÁREA II",
-        "CARG_HOR": 214,
-        "COD_CURS": [
-            48
-        ]
+        "COD_CURS": 48,
+        "CARG_HOR": 214
     },
     {
         "_id": 6516,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO EM NUTRIÇÃO - ÁREA I",
-        "CARG_HOR": 214,
-        "COD_CURS": [
-            48
-        ]
+        "COD_CURS": 48,
+        "CARG_HOR": 214
     },
     {
         "_id": 7642,
         "DES_DISC": "PERIODONTIA PRÉ-CLÍNICA E IMPLANTODONTIA",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 80
     },
     {
         "_id": 4983,
         "DES_DISC": "ODONTOLOGIA RESTAURADORA PRÉ-CLÍNICA",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 80
     },
     {
         "_id": 7641,
         "DES_DISC": "ODONTOLOGIA BASEADA EM EVIDÊNCIAS",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 80
     },
     {
         "_id": 4149,
         "DES_DISC": "DIAGNÓSTICO ODONTOLÓGICO INTEGRADO II",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 80
     },
     {
         "_id": 7633,
         "DES_DISC": "SAÚDE BUCAL COLETIVA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 60
     },
     {
         "_id": 7640,
         "DES_DISC": "PROGRAMA INTEGRADO DE ENSINO EM SAÚDE BUCAL - ATENÇÃO À SAÚDE POR CICLO DE VIDA",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 80
     },
     {
         "_id": 7631,
         "DES_DISC": "BASES MORFOFUNCIONAIS DOS PROCESSOS NORMAIS E ALTERADOS DE CABEÇA E PESCOÇO",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 80
     },
     {
         "_id": 5703,
         "DES_DISC": "CIRURGIA ORAL II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 60
     },
     {
         "_id": 5699,
         "DES_DISC": "PERIODONTIA CLÍNICA ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 60
     },
     {
         "_id": 5698,
         "DES_DISC": "ODONTOLOGIA INTEGRADA DA INFÂNCIA E DA ADOLESCÊNCIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 60
     },
     {
         "_id": 5696,
         "DES_DISC": "ENDODONTIA CLÍNICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 60
     },
     {
         "_id": 4994,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO EM CLÍNICA INTEGRADA IV",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 80
     },
     {
         "_id": 4991,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO EM CLÍNICA INTEGRADA III",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 80
     },
     {
         "_id": 5720,
         "DES_DISC": "CLÍNICA INTEGRADA II",
-        "CARG_HOR": 120,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 120
     },
     {
         "_id": 3664,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO DE ODONTOLOGIA EM SAÚDE COLETIVA III",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 80
     },
     {
         "_id": 5705,
         "DES_DISC": "PACIENTES COM NECESSIDADES ESPECIAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 60
     },
     {
         "_id": 5704,
         "DES_DISC": "ODONTOLOGIA INTEGRADA DO ADULTO E DO IDOSO ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 60
     },
     {
         "_id": 4992,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO DA INFÂNCIA E DA ADOLESCÊNCIA II",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 80
     },
     {
         "_id": 4986,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO EM CLÍNICA INTEGRADA I",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 80
     },
     {
         "_id": 3597,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO DE ODONTOLOGIA EM SAÚDE COLETIVA II",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 80
     },
     {
         "_id": 5700,
         "DES_DISC": "REABILITAÇÃO ODONTOLÓGICA PROTÉTICA I",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 60
     },
     {
         "_id": 5708,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO EM ODONTOGERIATRIA",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 80
     },
     {
         "_id": 4996,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO EM CLÍNICA INTEGRADA V",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 80
     },
     {
         "_id": 5714,
         "DES_DISC": "CLÍNICA INTEGRADA III",
-        "CARG_HOR": 120,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 120
     },
     {
         "_id": 5712,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO EM PACIENTES COM NECESSIDADES ESPECIAIS",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 80
     },
     {
         "_id": 5706,
         "DES_DISC": "TRABALHO DE CONCLUSÃO DE CURSO EM ODONTOLOGIA I",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 40
     },
     {
         "_id": 7632,
         "DES_DISC": "PROGRAMA INTEGRADO DE ENSINO EM SAÚDE BUCAL - SAÚDE BUCAL COLETIVA",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 80
     },
     {
         "_id": 7635,
         "DES_DISC": "CARIOLOGIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 60
     },
     {
         "_id": 7634,
         "DES_DISC": "BASES FARMACOLÓGICAS PARA A TERAPÊUTICA E ANESTESIOLOGIA EM ODONTOLOGIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 60
     },
     {
         "_id": 4984,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO EM ATENÇÃO BÁSICA",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 80
     },
     {
         "_id": 3668,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO EM CLÍNICA INTEGRADA II",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 80
+    },
+    {
+        "_id": 7373,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 42,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7323,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 42,
+        "CARG_HOR": 60
     },
     {
         "_id": 5709,
         "DES_DISC": "TRABALHO DE CONCLUSÃO DE CURSO EM ODONTOLOGIA II",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 40
     },
     {
         "_id": 3665,
         "DES_DISC": "CLÍNICA INTEGRADA I",
-        "CARG_HOR": 120,
-        "COD_CURS": [
-            42
-        ]
+        "COD_CURS": 42,
+        "CARG_HOR": 120
+    },
+    {
+        "_id": 7314,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 70,
+        "CARG_HOR": 50
     },
     {
         "_id": 7957,
         "DES_DISC": "JOGOS E BRINCADEIRAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 60
     },
     {
         "_id": 5993,
         "DES_DISC": "HISTÓRIA DA EDUCAÇÃO E DA PEDAGOGIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 60
     },
     {
         "_id": 7742,
         "DES_DISC": "ESTUDOS HISTÓRICOS E FILOSÓFICOS DA EDUCAÇÃO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 60
     },
     {
         "_id": 7743,
         "DES_DISC": "POLÍTICAS PÚBLICAS EM EDUCAÇÃO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 60
     },
     {
         "_id": 6137,
         "DES_DISC": "ESCOLA,CURRÍCULO E SOCIEDADE",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 60
     },
     {
         "_id": 6130,
         "DES_DISC": "FUNDAMENTOS METODOLÓGICOS DO ENSINO DE ARTE E DE MÚSICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 60
     },
     {
         "_id": 6013,
         "DES_DISC": "LITERATURA INFANTOJUVENIL ",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 40
     },
     {
         "_id": 6123,
         "DES_DISC": "EDUCAÇÃO: JOGOS E BRINCADEIRAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 60
     },
     {
         "_id": 6126,
         "DES_DISC": "FILOSOFIA DA EDUCAÇÃO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 60
     },
     {
         "_id": 6007,
         "DES_DISC": "EDUCAÇÃO DE JOVENS E ADULTOS: FUNDAMENTOS E PRÁTICAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 60
     },
     {
         "_id": 6145,
         "DES_DISC": "FUNDAMENTOS METODOLÓGICOS DO ENSINO DE HISTÓRIA E DE GEOGRAFIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 60
     },
     {
         "_id": 5996,
         "DES_DISC": "POLÍTICAS PÚBLICAS E EDUCAÇÃO INFANTIL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 60
     },
     {
         "_id": 6152,
         "DES_DISC": "PRÁTICA DE ENSINO E ORIENTAÇÃO DE ESTÁGIO CURRICULAR SUPERVISIONADO NOS ANOS INICIAIS DO ENSINO FUNDAMENTAL E GESTÃO EDUCACIONAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 60
     },
     {
         "_id": 5980,
         "DES_DISC": "DIFICULDADES DE APRENDIZAGEM",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 60
     },
     {
         "_id": 5982,
         "DES_DISC": "EDUCAÇÃO NÃO-FORMAL, FAMÍLIA E COMUNIDADE",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 60
     },
     {
         "_id": 6150,
         "DES_DISC": "GESTÃO E ORGANIZAÇÃO DO TRABALHO PEDAGÓGICO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 60
     },
     {
         "_id": 8213,
         "DES_DISC": "EDUCAÇÃO PARA A PAZ E RESOLUÇÃO DE CONFLITOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 60
     },
     {
         "_id": 6229,
         "DES_DISC": "EDUCAÇÃO INFANTIL: CURRÍCULO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 60
     },
     {
         "_id": 7799,
         "DES_DISC": "MEDIAÇÃO PEDAGÓGICA E GESTÃO DE PROJETOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 60
     },
     {
         "_id": 6128,
         "DES_DISC": "PENSAMENTO, LINGUAGEM E DESENVOLVIMENTO HUMANO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 60
     },
     {
         "_id": 8222,
         "DES_DISC": "RELAÇÕES INTERPESSOAIS CONTEMPORÂNEAS ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 60
     },
     {
         "_id": 7803,
         "DES_DISC": "FUNDAMENTOS METODOLÓGICOS DE LINGUAGENS: ALFABETIZAÇÃO E LETRAMENTO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 60
     },
     {
         "_id": 6136,
         "DES_DISC": "FUNDAMENTOS METODOLÓGICOS DO ENSINO DE MATEMÁTICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 60
     },
     {
         "_id": 8223,
         "DES_DISC": "TECNOLOGIAS DISRUPTIVAS APLICADAS À EDUCAÇÃO INCLUSIVA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 60
     },
     {
         "_id": 8108,
         "DES_DISC": "PESQUISA, LEITURA E ESCRITA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7324,
+        "DES_DISC": "LÍNGUA BRASILEIRA DE SINAIS",
+        "COD_CURS": 22,
+        "CARG_HOR": 60
     },
     {
         "_id": 8208,
         "DES_DISC": "APRESENTAÇÃO PESSOAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 60
     },
     {
         "_id": 6461,
         "DES_DISC": "PRÁTICAS PEDAGÓGICAS III",
-        "CARG_HOR": 66,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 66
     },
     {
         "_id": 4052,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO NOS ANOS INICIAIS DO ENSINO FUNDAMENTAL",
-        "CARG_HOR": 100,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 100
     },
     {
         "_id": 6460,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO EM GESTÃO EDUCACIONAL II",
-        "CARG_HOR": 50,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 50
     },
     {
         "_id": 8035,
         "DES_DISC": "PRÁTICAS PEDAGÓGICAS V",
-        "CARG_HOR": 86,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 86
     },
     {
         "_id": 6041,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO EM GESTÃO EDUCACIONAL II",
-        "CARG_HOR": 50,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 50
     },
     {
         "_id": 8036,
         "DES_DISC": "PRÁTICAS PEDAGÓGICAS V",
-        "CARG_HOR": 96,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 96
+    },
+    {
+        "_id": 7448,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 22,
+        "CARG_HOR": 50
+    },
+    {
+        "_id": 7361,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I ",
+        "COD_CURS": 22,
+        "CARG_HOR": 70
     },
     {
         "_id": 4036,
         "DES_DISC": "PRÁTICAS PEDAGÓGICAS II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 60
     },
     {
         "_id": 6256,
         "DES_DISC": "PRÁTICAS PEDAGÓGICAS III",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 40
     },
     {
         "_id": 6168,
         "DES_DISC": "PRÁTICAS PEDAGÓGICAS IV",
-        "CARG_HOR": 66,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 66
     },
     {
         "_id": 6164,
         "DES_DISC": "PRÁTICAS PEDAGÓGICAS II",
-        "CARG_HOR": 66,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 66
     },
     {
         "_id": 6170,
         "DES_DISC": "PRÁTICAS PEDAGÓGICAS ",
-        "CARG_HOR": 70,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 70
     },
     {
         "_id": 6163,
         "DES_DISC": "PRÁTICAS PEDAGÓGICAS I",
-        "CARG_HOR": 66,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 66
     },
     {
         "_id": 6139,
         "DES_DISC": "PRÁTICAS PEDAGÓGICAS IV",
-        "CARG_HOR": 55,
-        "COD_CURS": [
-            22
-        ]
+        "COD_CURS": 22,
+        "CARG_HOR": 55
     },
     {
         "_id": 4239,
         "DES_DISC": "ESTÁGIO SUPERVISIONADO ESPECÍFICO EM PSICOLOGIA INSTITUCIONAL II",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 40
     },
     {
         "_id": 2174,
         "DES_DISC": "ESTÁGIO SUPERVISIONADO ESPECÍFICO EM PROCESSOS GRUPAIS",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 40
     },
     {
         "_id": 4252,
         "DES_DISC": "ESTÁGIO SUPERVISIONADO ESPECÍFICO EM PSICOTERAPIA I",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 80
     },
     {
         "_id": 4250,
         "DES_DISC": "ESTÁGIO SUPERVISIONADO ESPECÍFICO EM PSICOLOGIA E SAÚDE",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 80
     },
     {
         "_id": 4251,
         "DES_DISC": "ESTÁGIO SUPERVISIONADO ESPECÍFICO EM ATENDIMENTO COLETIVO",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 80
     },
     {
         "_id": 4238,
         "DES_DISC": "ESTÁGIO SUPERVISIONADO ESPECÍFICO EM PSICODIAGNÓSTICO",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 40
     },
     {
         "_id": 4245,
         "DES_DISC": "ESTÁGIO SUPERVISIONADO ESPECÍFICO EM PSICOLOGIA E TRABALHO",
-        "CARG_HOR": 40,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 40
     },
     {
         "_id": 4253,
         "DES_DISC": "ESTÁGIO SUPERVISIONADO ESPECÍFICO EM PSICOTERAPIA II",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 80
     },
     {
         "_id": 4248,
         "DES_DISC": "ESTÁGIO SUPERVISIONADO ESPECÍFICO EM COMUNIDADES",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 80
     },
     {
         "_id": 4244,
         "DES_DISC": "ESTÁGIO SUPERVISIONADO ESPECÍFICO EM PROJETO SOCIAL",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 80
     },
     {
         "_id": 4247,
         "DES_DISC": "REGISTRO DE ATENDIMENTO, DIAGNÓSTICO E INTERVENÇÃO I",
-        "CARG_HOR": 100,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 100
     },
     {
         "_id": 5384,
         "DES_DISC": "ESTUDOS E INVESTIGAÇÃO EM PSICOLOGIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 60
     },
     {
         "_id": 4254,
         "DES_DISC": "REGISTRO DE ATENDIMENTO, DIAGNÓSTICO E INTERVENÇÃO II",
-        "CARG_HOR": 100,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 100
     },
     {
         "_id": 5318,
         "DES_DISC": "PSICOLOGIA E EDUCAÇÃO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 60
     },
     {
         "_id": 5331,
         "DES_DISC": "PSICOLOGIA SOCIAL E COMUNITÁRIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 60
     },
     {
         "_id": 5274,
         "DES_DISC": "SAÚDE COLETIVA, POLÍTICAS PÚBLICAS E DIREITOS HUMANOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 60
     },
     {
         "_id": 4249,
         "DES_DISC": "ESTÁGIO SUPERVISIONADO ESPECÍFICO EM PROCESSOS EDUCATIVOS",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 80
     },
     {
         "_id": 4246,
         "DES_DISC": "ESTÁGIO SUPERVISIONADO ESPECÍFICO EM PSICOTERAPIA",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 80
     },
     {
         "_id": 5426,
         "DES_DISC": "NEUROFISIOLOGIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 60
     },
     {
         "_id": 7480,
         "DES_DISC": "PSICOLOGIA SOCIAL: INDIVÍDUO E SOCIEDADE",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 60
     },
     {
         "_id": 7479,
         "DES_DISC": "PSICOLOGIA DO DESENVOLVIMENTO: INFÂNCIA E ADOLESCÊNCIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 60
     },
     {
         "_id": 5425,
         "DES_DISC": "PROCESSOS PSICOLÓGICOS BÁSICOS ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 60
     },
     {
         "_id": 5319,
         "DES_DISC": "PSICOLOGIA E TRABALHO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 60
     },
     {
         "_id": 5383,
         "DES_DISC": "TEORIAS DA PERSONALIDADE II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 60
     },
     {
         "_id": 7486,
         "DES_DISC": " AVALIAÇÃO PSICOLÓGICA E TESTAGEM PSICOLÓGICA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 60
     },
     {
         "_id": 5317,
         "DES_DISC": "AVALIAÇÃO PSICOLÓGICA E PRÁTICAS INTEGRATIVAS IV",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 60
     },
     {
         "_id": 5321,
         "DES_DISC": "PSICOPATOLOGIA II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 60
     },
     {
         "_id": 5369,
         "DES_DISC": "BASES BIOLÓGICAS DOS PROCESSOS PSICOLÓGICOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7384,
+        "DES_DISC": "COMUNICAÇÃO, LIDERANÇA E TOMADA DE DECISÃO EM SAÚDE",
+        "COD_CURS": 36,
+        "CARG_HOR": 60
     },
     {
         "_id": 7423,
         "DES_DISC": "PSICOLOGIA: CIÊNCIA, ÉTICA E PROFISSÃO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            36
-        ]
+        "COD_CURS": 36,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7373,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 36,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7323,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 36,
+        "CARG_HOR": 60
     },
     {
         "_id": 7615,
         "DES_DISC": "PRINCÍPIOS DE CRIAÇÃO PUBLICITÁRIA ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            50
-        ]
+        "COD_CURS": 50,
+        "CARG_HOR": 60
     },
     {
         "_id": 5910,
         "DES_DISC": "CRIAÇÃO E ARTE PUBLICITÁRIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            50
-        ]
+        "COD_CURS": 50,
+        "CARG_HOR": 60
     },
     {
         "_id": 5892,
         "DES_DISC": "MARKETING APLICADO EM PUBLICIDADE",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            50
-        ]
+        "COD_CURS": 50,
+        "CARG_HOR": 60
     },
     {
         "_id": 6584,
         "DES_DISC": "REDAÇÃO PUBLICITÁRIA APLICADA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            50
-        ]
+        "COD_CURS": 50,
+        "CARG_HOR": 60
     },
     {
         "_id": 5874,
         "DES_DISC": "PRODUÇÃO APLICADA A PROJETO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            50
-        ]
+        "COD_CURS": 50,
+        "CARG_HOR": 60
     },
     {
         "_id": 6586,
         "DES_DISC": "PRODUÇÃO APLICADA A PROJETO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            50
-        ]
+        "COD_CURS": 50,
+        "CARG_HOR": 60
     },
     {
         "_id": 5865,
         "DES_DISC": "PRODUÇÃO PUBLICITÁRIA AUDIOVISUAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            50
-        ]
+        "COD_CURS": 50,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7348,
+        "DES_DISC": "ORGANIZAÇÃO DA PRODUÇÃO AUDIOVISUAL",
+        "COD_CURS": 50,
+        "CARG_HOR": 60
     },
     {
         "_id": 7614,
         "DES_DISC": "PRÁTICAS DE FOTOGRAFIA PUBLICITÁRIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            50
-        ]
+        "COD_CURS": 50,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 8211,
+        "DES_DISC": "COMUNICAÇÃO, CULTURA E CONSUMO ",
+        "COD_CURS": 50,
+        "CARG_HOR": 60
     },
     {
         "_id": 6526,
         "DES_DISC": "ESTRATÉGIAS E TÁTICAS DE MÍDIA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            50
-        ]
+        "COD_CURS": 50,
+        "CARG_HOR": 60
     },
     {
         "_id": 5920,
         "DES_DISC": "PRÁTICAS PUBLICITÁRIAS II",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            50
-        ]
+        "COD_CURS": 50,
+        "CARG_HOR": 60
     },
     {
         "_id": 5864,
         "DES_DISC": "PRODUÇÃO GRÁFICA E GESTÃO DE MARCAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            50
-        ]
+        "COD_CURS": 50,
+        "CARG_HOR": 60
     },
     {
         "_id": 5907,
         "DES_DISC": "ATENDIMENTO E PLANEJAMENTO PUBLICITÁRIO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            50
-        ]
+        "COD_CURS": 50,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5903,
+        "DES_DISC": "CIBERCULTURA E REDES INTERATIVAS",
+        "COD_CURS": 50,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5906,
+        "DES_DISC": "TEORIAS DA COMUNICAÇÃO",
+        "COD_CURS": 50,
+        "CARG_HOR": 60
     },
     {
         "_id": 7888,
         "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
-        "CARG_HOR": 45,
-        "COD_CURS": [
-            50
-        ]
+        "COD_CURS": 50,
+        "CARG_HOR": 45
+    },
+    {
+        "_id": 7314,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 50,
+        "CARG_HOR": 50
+    },
+    {
+        "_id": 7448,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 50,
+        "CARG_HOR": 50
     },
     {
         "_id": 5893,
         "DES_DISC": "PROJETOS INTERDISCIPLINARES - CRIAÇÃO",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            50
-        ]
+        "COD_CURS": 50,
+        "CARG_HOR": 30
     },
     {
         "_id": 5908,
         "DES_DISC": "PROJETOS INTERDISCIPLINARES - PLANEJAMENTO",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            50
-        ]
+        "COD_CURS": 50,
+        "CARG_HOR": 30
     },
     {
         "_id": 7886,
         "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
-        "CARG_HOR": 45,
-        "COD_CURS": [
-            50
-        ]
+        "COD_CURS": 50,
+        "CARG_HOR": 45
     },
     {
         "_id": 5866,
         "DES_DISC": "PROJETOS INTERDISCIPLINARES - GESTÃO",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            50
-        ]
+        "COD_CURS": 50,
+        "CARG_HOR": 30
     },
     {
         "_id": 5915,
         "DES_DISC": "PROJETOS INTERDISCIPLINARES - PRODUÇÃO",
-        "CARG_HOR": 30,
-        "COD_CURS": [
-            50
-        ]
+        "COD_CURS": 50,
+        "CARG_HOR": 30
     },
     {
         "_id": 5877,
         "DES_DISC": "PROJETO EXPERIMENTAL II",
-        "CARG_HOR": 150,
-        "COD_CURS": [
-            50
-        ]
+        "COD_CURS": 50,
+        "CARG_HOR": 150
     },
     {
         "_id": 5508,
         "DES_DISC": "SEGURANÇA INTERNACIONAL E DEFESA NACIONAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            11
-        ]
+        "COD_CURS": 11,
+        "CARG_HOR": 60
     },
     {
         "_id": 5501,
         "DES_DISC": "ANÁLISE DE POLÍTICA EXTERNA BRASILEIRA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            11
-        ]
+        "COD_CURS": 11,
+        "CARG_HOR": 60
     },
     {
         "_id": 5250,
         "DES_DISC": "INSTITUIÇÕES POLÍTICAS BRASILEIRAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            11
-        ]
+        "COD_CURS": 11,
+        "CARG_HOR": 60
     },
     {
         "_id": 5239,
         "DES_DISC": "GEOGRAFIA E MEIO AMBIENTE",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            11
-        ]
+        "COD_CURS": 11,
+        "CARG_HOR": 60
     },
     {
         "_id": 5520,
         "DES_DISC": "POLÍTICA INTERNACIONAL CONTEMPORÂNEA",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            11
-        ]
+        "COD_CURS": 11,
+        "CARG_HOR": 60
     },
     {
         "_id": 5236,
         "DES_DISC": "FORMAÇÃO ECONÔMICA, POLÍTICA E SOCIAL DO BRASIL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            11
-        ]
+        "COD_CURS": 11,
+        "CARG_HOR": 60
     },
     {
         "_id": 5506,
         "DES_DISC": "LABORATÓRIO DE RELAÇÕES INTERNACIONAIS III",
-        "CARG_HOR": 80,
-        "COD_CURS": [
-            11
-        ]
+        "COD_CURS": 11,
+        "CARG_HOR": 80
     },
     {
         "_id": 5507,
         "DES_DISC": "DIREITO INTERNACIONAL DOS DIREITOS HUMANOS ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            11
-        ]
+        "COD_CURS": 11,
+        "CARG_HOR": 60
     },
     {
         "_id": 5503,
         "DES_DISC": "ORGANIZAÇÕES INTERNACIONAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            11
-        ]
+        "COD_CURS": 11,
+        "CARG_HOR": 60
     },
     {
         "_id": 7782,
         "DES_DISC": "TEORIAS CONTEMPORÂNEAS DE RELAÇÕES INTERNACIONAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            11
-        ]
+        "COD_CURS": 11,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5394,
+        "DES_DISC": "DIREITO CONSTITUCIONAL I",
+        "COD_CURS": 11,
+        "CARG_HOR": 60
     },
     {
         "_id": 5510,
         "DES_DISC": "COOPERAÇÃO INTERNACIONAL ",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            11
-        ]
+        "COD_CURS": 11,
+        "CARG_HOR": 60
     },
     {
         "_id": 5509,
         "DES_DISC": "ANÁLISE DAS RELAÇÕES INTERNACIONAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            11
-        ]
+        "COD_CURS": 11,
+        "CARG_HOR": 60
     },
     {
         "_id": 5522,
         "DES_DISC": "HISTÓRIA DAS RELAÇÕES INTERNACIONAIS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            11
-        ]
+        "COD_CURS": 11,
+        "CARG_HOR": 60
     },
     {
         "_id": 5526,
         "DES_DISC": "ECONOMIA POLÍTICA INTERNACIONAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            11
-        ]
+        "COD_CURS": 11,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7543,
+        "DES_DISC": "DIMENSÕES POLÍTICAS E SOCIAIS",
+        "COD_CURS": 11,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7314,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 11,
+        "CARG_HOR": 50
+    },
+    {
+        "_id": 7399,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 11,
+        "CARG_HOR": 50
     },
     {
         "_id": 6437,
         "DES_DISC": "RELATÓRIO DE PESQUISA",
-        "CARG_HOR": 160,
-        "COD_CURS": [
-            11
-        ]
+        "COD_CURS": 11,
+        "CARG_HOR": 160
     },
     {
         "_id": 6197,
         "DES_DISC": "GESTÃO DE PROJETO EM SISTEMAS DE INFORMAÇÃO",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            10
-        ]
+        "COD_CURS": 10,
+        "CARG_HOR": 60
     },
     {
         "_id": 3894,
         "DES_DISC": "TRABALHO DE CONCLUSÃO DE CURSO",
-        "CARG_HOR": 200,
-        "COD_CURS": [
-            10
-        ]
+        "COD_CURS": 10,
+        "CARG_HOR": 200
     },
     {
         "_id": 6196,
         "DES_DISC": "GESTÃO DE SISTEMAS DE INFORMAÇÃO E MÉTODOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            10
-        ]
+        "COD_CURS": 10,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5641,
+        "DES_DISC": "TÉCNICAS DE DESENVOLVIMENTO DE ALGORITMOS",
+        "COD_CURS": 10,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 5625,
+        "DES_DISC": "ANÁLISE E PROJETO DE SISTEMAS",
+        "COD_CURS": 10,
+        "CARG_HOR": 60
     },
     {
         "_id": 6199,
         "DES_DISC": "SEGURANÇA E AUDITORIA DE SISTEMAS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            10
-        ]
+        "COD_CURS": 10,
+        "CARG_HOR": 60
     },
     {
         "_id": 6198,
         "DES_DISC": "LABORATÓRIO DE BANCO DE DADOS",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            10
-        ]
+        "COD_CURS": 10,
+        "CARG_HOR": 60
     },
     {
         "_id": 4862,
         "DES_DISC": "FUNDAMENTOS DE INTELIGÊNCIA ARTIFICIAL",
-        "CARG_HOR": 60,
-        "COD_CURS": [
-            10
-        ]
+        "COD_CURS": 10,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7363,
+        "DES_DISC": "REDES DE COMPUTADORES",
+        "COD_CURS": 10,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 2887,
+        "DES_DISC": "TEORIA GERAL DA ADMINISTRAÇÃO",
+        "COD_CURS": 10,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 6222,
+        "DES_DISC": "ENGENHARIA DE SOFTWARE",
+        "COD_CURS": 10,
+        "CARG_HOR": 60
+    },
+    {
+        "_id": 7327,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA III",
+        "COD_CURS": 10,
+        "CARG_HOR": 40
+    },
+    {
+        "_id": 7342,
+        "DES_DISC": "ITINERÁRIO EXTENSIONISTA I",
+        "COD_CURS": 10,
+        "CARG_HOR": 40
     },
     {
         "_id": 6215,
         "DES_DISC": "ESTÁGIO CURRICULAR SUPERVISIONADO",
-        "CARG_HOR": 150,
-        "COD_CURS": [
-            10
-        ]
+        "COD_CURS": 10,
+        "CARG_HOR": 150
     }
 ]

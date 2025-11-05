@@ -1,0 +1,178 @@
+[
+    {
+        "_id": 37,
+        "DES_CURS": "ARQUITETURA E URBANISMO (BACHARELADO)"
+    },
+    {
+        "_id": 39,
+        "DES_CURS": "CST EM DESIGN DE INTERIORES"
+    },
+    {
+        "_id": 40,
+        "DES_CURS": "CST EM DESIGN GRÁFICO"
+    },
+    {
+        "_id": 5,
+        "DES_CURS": "DIREITO (BACHARELADO)"
+    },
+    {
+        "_id": 50,
+        "DES_CURS": "PUBLICIDADE E PROPAGANDA (BACHARELADO)"
+    },
+    {
+        "_id": 54,
+        "DES_CURS": "CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)"
+    },
+    {
+        "_id": 3,
+        "DES_CURS": "CIÊNCIAS CONTÁBEIS (BACHARELADO)"
+    },
+    {
+        "_id": 38,
+        "DES_CURS": "CST EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS"
+    },
+    {
+        "_id": 71,
+        "DES_CURS": "ENGENHARIA DE SOFTWARE (BACHARELADO)"
+    },
+    {
+        "_id": 30,
+        "DES_CURS": "FARMÁCIA (BACHARELADO)"
+    },
+    {
+        "_id": 10,
+        "DES_CURS": "SISTEMAS DE INFORMAÇÃO (BACHARELADO)"
+    },
+    {
+        "_id": 1,
+        "DES_CURS": "ADMINISTRAÇÃO (BACHARELADO)"
+    },
+    {
+        "_id": 9,
+        "DES_CURS": "ENGENHARIA MECÂNICA (BACHARELADO)"
+    },
+    {
+        "_id": 53,
+        "DES_CURS": "ENGENHARIA MECATRÔNICA (BACHARELADO)"
+    },
+    {
+        "_id": 49,
+        "DES_CURS": "JORNALISMO (BACHARELADO)"
+    },
+    {
+        "_id": 36,
+        "DES_CURS": "PSICOLOGIA (BACHARELADO)"
+    },
+    {
+        "_id": 32,
+        "DES_CURS": "EDUCAÇÃO FÍSICA (BACHARELADO)"
+    },
+    {
+        "_id": 44,
+        "DES_CURS": "BIOMEDICINA (BACHARELADO)"
+    },
+    {
+        "_id": 34,
+        "DES_CURS": "CIÊNCIAS BIOLÓGICAS (BACHARELADO)"
+    },
+    {
+        "_id": 46,
+        "DES_CURS": "CST EM RADIOLOGIA"
+    },
+    {
+        "_id": 6,
+        "DES_CURS": "ENGENHARIA CIVIL (BACHARELADO)"
+    },
+    {
+        "_id": 58,
+        "DES_CURS": "FISIOTERAPIA (BACHARELADO)"
+    },
+    {
+        "_id": 60,
+        "DES_CURS": "LETRAS - PORTUGUÊS E INGLÊS (LICENCIATURA)"
+    },
+    {
+        "_id": 48,
+        "DES_CURS": "NUTRIÇÃO (BACHARELADO)"
+    },
+    {
+        "_id": 11,
+        "DES_CURS": "RELAÇÕES INTERNACIONAIS (BACHARELADO)"
+    },
+    {
+        "_id": 42,
+        "DES_CURS": "ODONTOLOGIA (BACHARELADO)"
+    },
+    {
+        "_id": 31,
+        "DES_CURS": "ENFERMAGEM (BACHARELADO)"
+    },
+    {
+        "_id": 67,
+        "DES_CURS": "FONOAUDIOLOGIA (BACHARELADO)"
+    },
+    {
+        "_id": 35,
+        "DES_CURS": "CIÊNCIAS BIOLÓGICAS (LICENCIATURA)"
+    },
+    {
+        "_id": 57,
+        "DES_CURS": "CST EM GASTRONOMIA"
+    },
+    {
+        "_id": 4,
+        "DES_CURS": "CIÊNCIA POLÍTICA (BACHARELADO)"
+    },
+    {
+        "_id": 19,
+        "DES_CURS": "CIÊNCIAS ECONÔMICAS (BACHARELADO)"
+    },
+    {
+        "_id": 69,
+        "DES_CURS": "CST EM GESTÃO DE COOPERATIVAS"
+    },
+    {
+        "_id": 21,
+        "DES_CURS": "CST EM GESTÃO DE RECURSOS HUMANOS"
+    },
+    {
+        "_id": 13,
+        "DES_CURS": "CST EM GESTÃO PÚBLICA"
+    },
+    {
+        "_id": 68,
+        "DES_CURS": "EDUCAÇÃO FÍSICA (ABI)"
+    },
+    {
+        "_id": 33,
+        "DES_CURS": "EDUCAÇÃO FÍSICA (LICENCIATURA)"
+    },
+    {
+        "_id": 7,
+        "DES_CURS": "ENGENHARIA DE PRODUÇÃO (BACHARELADO)"
+    },
+    {
+        "_id": 8,
+        "DES_CURS": "ENGENHARIA ELÉTRICA (BACHARELADO)"
+    },
+    {
+        "_id": 66,
+        "DES_CURS": "HISTÓRIA (LICENCIATURA)"
+    },
+    {
+        "_id": 63,
+        "DES_CURS": "MEDICINA VETERINÁRIA (BACHARELADO)"
+    },
+    {
+        "_id": 70,
+        "DES_CURS": "ÓPTICA E OPTOMETRIA (BACHARELADO)"
+    },
+    {
+        "_id": 22,
+        "DES_CURS": "PEDAGOGIA (LICENCIATURA)"
+    },
+    {
+        "_id": 43,
+        "DES_CURS": "PSICOLOGIA (LICENCIATURA)"
+    }
+]

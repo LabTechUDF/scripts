@@ -1,0 +1,606 @@
+[
+    {
+        "NR_SALA": "21",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "212",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "301",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "406",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "132",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "T-31",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "136",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "T-22",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "407",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "T-24",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "303",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "309",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "LAB 1",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "T-03",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "310",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "T-13",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "T-23",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "109",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "25",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "305",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "405",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "MAQ",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "T-08",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "T-02",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "108",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "T-01",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "ARQ II",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "113",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "114",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "16",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "30",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "14",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "304",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "LAB 2 - 4R",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "Lab6",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "302",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "110",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "27",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "32",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "T-11",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "T-19",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "ONLINE",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "LAB 5 - 4R",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "Lab4",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "Lab5",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "24",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "LAB RADIO",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "S-01",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "T-14",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "ONLINE",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "T-29",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "401",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "307",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "13",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "404",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "29",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "T-35",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "402",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "10",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "LAB 2",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "T-10",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "T-04",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "105",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "T-30",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "119",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "LAB 1 - 4R",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "T-20",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "T-16",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "ARQ I",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "201",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "100",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "211",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "117",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "15",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "31",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "T-25",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "Lab7",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "TUT",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "T-15",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "203",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "308",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "106",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "T-33",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "128",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "28",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "208",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "T-28",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "S-02",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "135",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "LAB 3 - 4R",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "206",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "T-09",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "T-18",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "T-32",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "118",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "204",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "122",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "311",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "T-12",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "11",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "T-05",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "LAB 7 - 4R",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "134",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "129",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "207",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "T-27",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "T-34",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "312",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "104",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "306",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "26",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "410",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "LAB 4 - 4R",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "115",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "213",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "T-17",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "116",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "120",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "121",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "126",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "127",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "130",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "12",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "T-07",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "112",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "202",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "403",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "22",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "Lab3",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "20",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "LAB 6 - 4R",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "205",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "408",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "102",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "T-26",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "107",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "124",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "125",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "210",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "T-21",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "409",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "101",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "103",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "131",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "133",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "23",
+        "CAMPUS": "efa1cc1d-4b1c-4841-9bbf-b7567fdec1ca"
+    },
+    {
+        "NR_SALA": "313",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "209",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "123",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "111",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    },
+    {
+        "NR_SALA": "T-06",
+        "CAMPUS": "2cddfaa1-d9ce-4122-b2f4-1719bb58da9e"
+    }
+]
